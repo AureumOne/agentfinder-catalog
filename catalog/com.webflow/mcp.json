@@ -2,7 +2,7 @@
   "identifier": "urn:ai:registry.modelcontextprotocol.io:com.webflow:mcp",
   "displayName": "Webflow",
   "mediaType": "application/mcp-server+json",
-  "url": "https://api.mcp.github.com/oss/v0.1/servers/com.webflow%2Fmcp/versions/latest",
+  "url": "https://registry.modelcontextprotocol.io/v0.1/servers/com.webflow%2Fmcp/versions/latest",
   "description": "AI-powered design and management for Webflow Sites",
   "metadata": {
     "sourceSet": "mcp-registry-approved",

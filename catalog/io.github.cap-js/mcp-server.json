@@ -2,7 +2,7 @@
   "identifier": "urn:ai:registry.modelcontextprotocol.io:io.github.cap-js:mcp-server",
   "displayName": "CAP JS",
   "mediaType": "application/mcp-server+json",
-  "url": "https://api.mcp.github.com/oss/v0.1/servers/io.github.cap-js%2Fmcp-server/versions/latest",
+  "url": "https://registry.modelcontextprotocol.io/v0.1/servers/io.github.cap-js%2Fmcp-server/versions/latest",
   "description": "Model Context Protocol (MCP) server for AI-assisted development of CAP applications.",
   "metadata": {
     "sourceSet": "mcp-registry-approved",

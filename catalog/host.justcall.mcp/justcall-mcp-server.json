@@ -2,7 +2,7 @@
   "identifier": "urn:ai:registry.modelcontextprotocol.io:host.justcall.mcp:justcall-mcp-server",
   "displayName": "JustCall",
   "mediaType": "application/mcp-server+json",
-  "url": "https://api.mcp.github.com/oss/v0.1/servers/host.justcall.mcp%2Fjustcall-mcp-server/versions/latest",
+  "url": "https://registry.modelcontextprotocol.io/v0.1/servers/host.justcall.mcp%2Fjustcall-mcp-server/versions/latest",
   "description": "JustCall MCP Server enables LLMs and AI agents to make voice calls and send SMS via JustCall APIs.",
   "metadata": {
     "sourceSet": "mcp-registry-approved",
