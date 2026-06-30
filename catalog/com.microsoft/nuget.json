@@ -2,7 +2,7 @@
   "identifier": "urn:ai:registry.modelcontextprotocol.io:com.microsoft:nuget",
   "displayName": "NuGet",
   "mediaType": "application/mcp-server+json",
-  "url": "https://registry.modelcontextprotocol.io/v0.1/servers/com.microsoft%2Fnuget/versions/latest",
+  "url": "https://api.mcp.github.com/oss/v0.1/servers/com.microsoft%2Fnuget/versions/latest",
   "description": "A Model Context Protocol (MCP) server for NuGet.",
   "metadata": {
     "sourceSet": "mcp-registry-approved",
