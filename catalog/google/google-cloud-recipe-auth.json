@@ -3,7 +3,7 @@
   "displayName": "Google Cloud Recipe Auth",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-recipe-auth/SKILL.md",
-  "description": "Google skill definition for google-cloud-recipe-auth.",
+  "description": "Provides expert guidance on authenticating and authorizing to Google Cloud services and APIs, covering human users, service identities, Application...",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/google-cloud-recipe-auth/SKILL.md"

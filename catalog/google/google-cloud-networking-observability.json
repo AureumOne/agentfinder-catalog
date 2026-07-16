@@ -3,7 +3,7 @@
   "displayName": "Google Cloud Networking Observability",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-networking-observability/SKILL.md",
-  "description": "Google skill definition for google-cloud-networking-observability.",
+  "description": "Investigates Google Cloud networking issues by analyzing logs, metrics, and diagnostics.",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/google-cloud-networking-observability/SKILL.md"

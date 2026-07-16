@@ -3,7 +3,7 @@
   "displayName": "Writing Opencode Plugins",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/sveltejs/ai-tools/blob/main/.agents/skills/writing-opencode-plugins/SKILL.md",
-  "description": "Writing Opencode Plugins skill.",
+  "description": "OpenCode plugins, @opencode-ai/plugin, @opencode-ai/plugin/tui, plugin hooks, custom tools, TUI routes, slots, keymaps, and packaging.",
   "metadata": {
     "sourceSet": "sveltejs/ai-tools",
     "repoPath": ".agents/skills/writing-opencode-plugins/SKILL.md"

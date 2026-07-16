@@ -3,7 +3,7 @@
   "displayName": "N8N",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/pinecone-io/pinecone-claude-code-plugin/blob/main/skills/n8n/SKILL.md",
-  "description": "N8N skill.",
+  "description": "Build n8n workflows using the Pinecone Assistant node or Pinecone Vector Store node.",
   "metadata": {
     "sourceSet": "pinecone-io/pinecone-claude-code-plugin",
     "repoPath": "skills/n8n/SKILL.md"

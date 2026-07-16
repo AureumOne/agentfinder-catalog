@@ -3,7 +3,7 @@
   "displayName": "Electron",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/vercel-labs/agent-browser/blob/main/skill-data/electron/SKILL.md",
-  "description": "Electron skill.",
+  "description": "Automate Electron desktop apps (VS Code, Slack, Discord, Figma, Notion, Spotify, etc.) using agent-browser via Chrome DevTools Protocol.",
   "metadata": {
     "sourceSet": "vercel-labs/agent-browser",
     "repoPath": "skill-data/electron/SKILL.md"

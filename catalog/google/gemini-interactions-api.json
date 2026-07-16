@@ -3,7 +3,7 @@
   "displayName": "Gemini Interactions Api",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/gemini-interactions-api/SKILL.md",
-  "description": "Google skill definition for gemini-interactions-api.",
+  "description": "Guides the usage of Gemini Interactions API on Gemini Enterprise Agent Platform.",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/gemini-interactions-api/SKILL.md"

@@ -3,7 +3,7 @@
   "displayName": "Generate Translations",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/payloadcms/payload/blob/main/.claude/skills/generate-translations/SKILL.md",
-  "description": "Generate Translations skill.",
+  "description": "Use when new translation keys are added to packages to generate new translations strings",
   "metadata": {
     "sourceSet": "payloadcms/payload",
     "repoPath": ".claude/skills/generate-translations/SKILL.md"

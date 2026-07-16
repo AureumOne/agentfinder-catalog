@@ -3,7 +3,7 @@
   "displayName": "Google Cloud Waf Performance Optimization",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-waf-performance-optimization/SKILL.md",
-  "description": "Google skill definition for google-cloud-waf-performance-optimization.",
+  "description": "Generates performance-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Performance Optimization...",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/google-cloud-waf-performance-optimization/SKILL.md"

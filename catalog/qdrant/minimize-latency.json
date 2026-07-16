@@ -3,7 +3,7 @@
   "displayName": "Minimize Latency",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-scaling/minimize-latency/SKILL.md",
-  "description": "Minimize Latency skill.",
+  "description": "Guides Qdrant query latency optimization.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-scaling/minimize-latency/SKILL.md"

@@ -3,7 +3,7 @@
   "displayName": "Migrating Ai Sdk To Common Ai",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/migrating-ai-sdk-to-common-ai/SKILL.md",
-  "description": "Migrating Ai Sdk To Common Ai skill.",
+  "description": "Migrates Airflow projects from airflow-ai-sdk to apache-airflow-providers-common-ai 0.4.0+.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/migrating-ai-sdk-to-common-ai/SKILL.md"

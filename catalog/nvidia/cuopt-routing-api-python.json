@@ -3,7 +3,7 @@
   "displayName": "Cuopt Routing Api Python",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-routing-api-python/SKILL.md",
-  "description": "NVIDIA skill definition for cuopt-routing-api-python.",
+  "description": "Vehicle routing (VRP, TSP, PDP) with cuOpt - Python API only.",
   "metadata": {
     "sourceSet": "NVIDIA/cuopt",
     "repoPath": "skills/cuopt-routing-api-python/SKILL.md"

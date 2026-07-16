@@ -3,7 +3,7 @@
   "displayName": "Explore Dataset",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/axiomhq/cli/blob/main/skills/explore-dataset/SKILL.md",
-  "description": "Explore Dataset skill.",
+  "description": "Explore an Axiom dataset to understand its schema, fields, volume, and patterns.",
   "metadata": {
     "sourceSet": "axiomhq/cli",
     "repoPath": "skills/explore-dataset/SKILL.md"

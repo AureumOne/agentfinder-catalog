@@ -3,7 +3,7 @@
   "displayName": "Scaling Qps",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-scaling/scaling-qps/SKILL.md",
-  "description": "Scaling Qps skill.",
+  "description": "Guides Qdrant query throughput (QPS) scaling.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-scaling/scaling-qps/SKILL.md"

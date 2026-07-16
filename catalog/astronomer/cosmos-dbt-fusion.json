@@ -3,7 +3,7 @@
   "displayName": "Cosmos Dbt Fusion",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/cosmos-dbt-fusion/SKILL.md",
-  "description": "Cosmos Dbt Fusion skill.",
+  "description": "Run a dbt Fusion project with Astronomer Cosmos.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/cosmos-dbt-fusion/SKILL.md"

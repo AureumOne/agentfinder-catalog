@@ -3,7 +3,7 @@
   "displayName": "Analyzing Data",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/analyzing-data/SKILL.md",
-  "description": "Analyzing Data skill.",
+  "description": "Queries the data warehouse with SQL and answers business questions about data.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/analyzing-data/SKILL.md"

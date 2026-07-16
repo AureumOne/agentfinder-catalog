@@ -3,7 +3,7 @@
   "displayName": "Workload Manager Basics",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/workload-manager-basics/SKILL.md",
-  "description": "Google skill definition for workload-manager-basics.",
+  "description": "Use this skill to manage Google Cloud Workload Manager evaluations, rules, scanned resources, and validation results by using public client libraries...",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/workload-manager-basics/SKILL.md"

@@ -3,7 +3,7 @@
   "displayName": "Cuopt Server Api Python",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-server-api-python/SKILL.md",
-  "description": "NVIDIA skill definition for cuopt-server-api-python.",
+  "description": "cuOpt REST server - start server, endpoints, Python/curl client examples.",
   "metadata": {
     "sourceSet": "NVIDIA/cuopt",
     "repoPath": "skills/cuopt-server-api-python/SKILL.md"

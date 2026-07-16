@@ -3,7 +3,7 @@
   "displayName": "Debugging Dags",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/debugging-dags/SKILL.md",
-  "description": "Debugging Dags skill.",
+  "description": "Comprehensive DAG failure diagnosis and root-cause analysis  with structured investigation and prevention recommendations.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/debugging-dags/SKILL.md"

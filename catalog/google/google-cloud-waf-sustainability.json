@@ -3,7 +3,7 @@
   "displayName": "Google Cloud Waf Sustainability",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-waf-sustainability/SKILL.md",
-  "description": "Google skill definition for google-cloud-waf-sustainability.",
+  "description": "Generates sustainability-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud...",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/google-cloud-waf-sustainability/SKILL.md"

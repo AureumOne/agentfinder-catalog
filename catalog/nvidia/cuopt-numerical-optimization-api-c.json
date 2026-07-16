@@ -3,7 +3,7 @@
   "displayName": "Cuopt Numerical Optimization Api C",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-numerical-optimization-api/SKILL.md",
-  "description": "NVIDIA skill definition for cuopt-numerical-optimization-api-c.",
+  "description": "LP, MILP, and QP (beta) with cuOpt - Python, C, and CLI.",
   "metadata": {
     "sourceSet": "NVIDIA/cuopt",
     "repoPath": "skills/cuopt-numerical-optimization-api/SKILL.md"

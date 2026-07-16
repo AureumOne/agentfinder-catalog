@@ -3,7 +3,7 @@
   "displayName": "Troubleshooting Astro Deployments",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/troubleshooting-astro-deployments/SKILL.md",
-  "description": "Troubleshooting Astro Deployments skill.",
+  "description": "Troubleshoot Astronomer production deployments with Astro CLI.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/troubleshooting-astro-deployments/SKILL.md"

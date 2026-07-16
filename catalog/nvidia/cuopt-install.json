@@ -3,7 +3,7 @@
   "displayName": "Cuopt Install",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-install/SKILL.md",
-  "description": "NVIDIA skill definition for cuopt-install.",
+  "description": "Install cuOpt for Python, C, or server via pip, conda, or Docker; verify the install.",
   "metadata": {
     "sourceSet": "NVIDIA/cuopt",
     "repoPath": "skills/cuopt-install/SKILL.md"

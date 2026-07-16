@@ -3,7 +3,7 @@
   "displayName": "Deploying Go Sdk Bundles",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/deploying-go-sdk-bundles/SKILL.md",
-  "description": "Deploying Go Sdk Bundles skill.",
+  "description": "Builds, packs, and deploys compiled Airflow Go SDK bundles so the ExecutableCoordinator can run them.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/deploying-go-sdk-bundles/SKILL.md"

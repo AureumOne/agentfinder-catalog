@@ -3,7 +3,7 @@
   "displayName": "Cuopt Skill Evolution",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-skill-evolution/SKILL.md",
-  "description": "NVIDIA skill definition for cuopt-skill-evolution.",
+  "description": "After solving a non-trivial problem, detect generalizable learnings and propose skill updates.",
   "metadata": {
     "sourceSet": "NVIDIA/cuopt",
     "repoPath": "skills/cuopt-skill-evolution/SKILL.md"

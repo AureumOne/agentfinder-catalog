@@ -3,7 +3,7 @@
   "displayName": "Nemo Retriever",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/NVIDIA/skills/blob/main/skills/nemo-retriever/SKILL.md",
-  "description": "NVIDIA skill definition for nemo-retriever.",
+  "description": "Use when the user wants to search, query, extract, transcribe, describe, quote, filter, or aggregate across documents - PDFs, scanned forms / images...",
   "metadata": {
     "sourceSet": "NVIDIA/skills",
     "repoPath": "skills/nemo-retriever/SKILL.md"

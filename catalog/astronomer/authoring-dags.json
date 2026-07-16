@@ -3,7 +3,7 @@
   "displayName": "Authoring Dags",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/authoring-dags/SKILL.md",
-  "description": "Authoring Dags skill.",
+  "description": "Workflow and best practices for writing Apache Airflow DAGs.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/authoring-dags/SKILL.md"

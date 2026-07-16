@@ -3,7 +3,7 @@
   "displayName": "Query",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/pinecone-io/pinecone-claude-code-plugin/blob/main/skills/query/SKILL.md",
-  "description": "Query skill.",
+  "description": "Query integrated indexes using text with Pinecone MCP.",
   "metadata": {
     "sourceSet": "pinecone-io/pinecone-claude-code-plugin",
     "repoPath": "skills/query/SKILL.md"

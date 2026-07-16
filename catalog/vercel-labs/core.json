@@ -3,7 +3,7 @@
   "displayName": "Core",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/vercel-labs/agent-browser/blob/main/skill-data/core/SKILL.md",
-  "description": "Core skill.",
+  "description": "Core agent-browser usage guide.",
   "metadata": {
     "sourceSet": "vercel-labs/agent-browser",
     "repoPath": "skill-data/core/SKILL.md"

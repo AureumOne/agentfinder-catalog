@@ -3,7 +3,7 @@
   "displayName": "Qdrant Advisor",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/meta/qdrant-advisor/SKILL.md",
-  "description": "Qdrant Advisor skill.",
+  "description": "Diagnose, troubleshoot, and advise on any Qdrant deployment by loading the latest official Qdrant skills live from skills.qdrant.tech.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "meta/qdrant-advisor/SKILL.md"

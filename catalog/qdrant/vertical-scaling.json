@@ -3,7 +3,7 @@
   "displayName": "Vertical Scaling",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-scaling/scaling-data-volume/vertical-scaling/SKILL.md",
-  "description": "Vertical Scaling skill.",
+  "description": "Guides Qdrant vertical scaling decisions.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-scaling/scaling-data-volume/vertical-scaling/SKILL.md"

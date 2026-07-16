@@ -3,7 +3,7 @@
   "displayName": "Full Text Search",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/pinecone-io/pinecone-claude-code-plugin/blob/main/skills/full-text-search/SKILL.md",
-  "description": "Full Text Search skill.",
+  "description": "Create, ingest into, and query a Pinecone full-text-search (FTS) index using the preview API (2026-01.alpha, public preview).",
   "metadata": {
     "sourceSet": "pinecone-io/pinecone-claude-code-plugin",
     "repoPath": "skills/full-text-search/SKILL.md"

@@ -3,7 +3,7 @@
   "displayName": "Cli",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/pinecone-io/pinecone-claude-code-plugin/blob/main/skills/cli/SKILL.md",
-  "description": "Cli skill.",
+  "description": "Guide for using the Pinecone CLI (pc) to manage Pinecone resources from the terminal.",
   "metadata": {
     "sourceSet": "pinecone-io/pinecone-claude-code-plugin",
     "repoPath": "skills/cli/SKILL.md"

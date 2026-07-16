@@ -3,7 +3,7 @@
   "displayName": "Dag Factory",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/dag-factory/SKILL.md",
-  "description": "Dag Factory skill.",
+  "description": "Authors Apache Airflow DAGs declaratively from dag-factory YAML configs.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/dag-factory/SKILL.md"

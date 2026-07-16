@@ -3,7 +3,7 @@
   "displayName": "Agent Platform Tuning",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/agent-platform-tuning/SKILL.md",
-  "description": "Google skill definition for agent-platform-tuning.",
+  "description": "Agent Platform Model Tuning.",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/agent-platform-tuning/SKILL.md"

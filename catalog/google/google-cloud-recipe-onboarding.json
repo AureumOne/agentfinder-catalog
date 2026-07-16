@@ -3,7 +3,7 @@
   "displayName": "Google Cloud Recipe Onboarding",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-recipe-onboarding/SKILL.md",
-  "description": "Google skill definition for google-cloud-recipe-onboarding.",
+  "description": "Guides a developer's first steps on Google Cloud, covering account creation, billing setup, project management, and deploying a first resource.",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/google-cloud-recipe-onboarding/SKILL.md"

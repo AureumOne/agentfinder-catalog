@@ -3,7 +3,7 @@
   "displayName": "Airflow",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/airflow/SKILL.md",
-  "description": "Airflow skill.",
+  "description": "Queries, manages, and troubleshoots Apache Airflow using the `af` CLI.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/airflow/SKILL.md"

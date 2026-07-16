@@ -3,7 +3,7 @@
   "displayName": "Omniverse Realtime Viewer",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/NVIDIA/skills/blob/main/skills/omniverse-realtime-viewer/SKILL.md",
-  "description": "NVIDIA skill definition for omniverse-realtime-viewer.",
+  "description": "Use as the top-level router for Omniverse Realtime Viewer USD app requests and focused viewer reference documents.",
   "metadata": {
     "sourceSet": "NVIDIA/skills",
     "repoPath": "skills/omniverse-realtime-viewer/SKILL.md"

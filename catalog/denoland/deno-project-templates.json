@@ -3,7 +3,7 @@
   "displayName": "Deno Project Templates",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/denoland/skills/blob/main/skills/deno-project-templates/SKILL.md",
-  "description": "Deno Project Templates skill.",
+  "description": "Use when scaffolding new Deno projects.",
   "metadata": {
     "sourceSet": "denoland/skills",
     "repoPath": "skills/deno-project-templates/SKILL.md"

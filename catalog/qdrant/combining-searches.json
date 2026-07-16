@@ -3,7 +3,7 @@
   "displayName": "Combining Searches",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-search-quality/search-strategies/hybrid-search/combining-searches/SKILL.md",
-  "description": "Combining Searches skill.",
+  "description": "Fusing scores from multiple searches into a single ranked result (RRF, DBSF, custom fusion).",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-search-quality/search-strategies/hybrid-search/combining-searches/SKILL.md"

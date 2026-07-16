@@ -3,7 +3,7 @@
   "displayName": "Ui4",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/payloadcms/payload/blob/main/.claude/skills/ui4/SKILL.md",
-  "description": "Ui4 skill.",
+  "description": "Manually invoked skill for reskinning Payload UI components.",
   "metadata": {
     "sourceSet": "payloadcms/payload",
     "repoPath": ".claude/skills/ui4/SKILL.md"

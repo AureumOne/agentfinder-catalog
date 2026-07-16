@@ -3,7 +3,7 @@
   "displayName": "Docs",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/pinecone-io/pinecone-claude-code-plugin/blob/main/skills/docs/SKILL.md",
-  "description": "Docs skill.",
+  "description": "Curated documentation reference for developers building with Pinecone.",
   "metadata": {
     "sourceSet": "pinecone-io/pinecone-claude-code-plugin",
     "repoPath": "skills/docs/SKILL.md"

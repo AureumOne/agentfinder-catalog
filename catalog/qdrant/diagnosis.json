@@ -3,7 +3,7 @@
   "displayName": "Diagnosis",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-search-quality/diagnosis/SKILL.md",
-  "description": "Diagnosis skill.",
+  "description": "Diagnoses Qdrant search quality issues.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-search-quality/diagnosis/SKILL.md"

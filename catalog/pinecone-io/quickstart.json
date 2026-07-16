@@ -3,7 +3,7 @@
   "displayName": "Quickstart",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/pinecone-io/pinecone-claude-code-plugin/blob/main/skills/quickstart/SKILL.md",
-  "description": "Quickstart skill.",
+  "description": "Interactive Pinecone quickstart for new developers.",
   "metadata": {
     "sourceSet": "pinecone-io/pinecone-claude-code-plugin",
     "repoPath": "skills/quickstart/SKILL.md"

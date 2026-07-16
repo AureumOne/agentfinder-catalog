@@ -3,7 +3,7 @@
   "displayName": "Sliding Time Window",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-scaling/scaling-data-volume/sliding-time-window/SKILL.md",
-  "description": "Sliding Time Window skill.",
+  "description": "Guides sliding time window scaling in Qdrant.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-scaling/scaling-data-volume/sliding-time-window/SKILL.md"

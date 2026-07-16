@@ -3,7 +3,7 @@
   "displayName": "Agent Platform Eval Flywheel",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/agent-platform-eval-flywheel/SKILL.md",
-  "description": "Google skill definition for agent-platform-eval-flywheel.",
+  "description": "Measures and improves the quality of AI models and agents on Google Cloud using the Eval Quality Flywheel methodology.",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/agent-platform-eval-flywheel/SKILL.md"

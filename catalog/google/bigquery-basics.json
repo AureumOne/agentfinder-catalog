@@ -3,7 +3,7 @@
   "displayName": "Bigquery Basics",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/bigquery-basics/SKILL.md",
-  "description": "Google skill definition for bigquery-basics.",
+  "description": "Manages datasets, tables, and jobs in BigQuery.",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/bigquery-basics/SKILL.md"

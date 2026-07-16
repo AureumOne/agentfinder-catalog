@@ -3,7 +3,7 @@
   "displayName": "Setup",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-monitoring/setup/SKILL.md",
-  "description": "Setup skill.",
+  "description": "Guides Qdrant monitoring setup including Prometheus scraping, health probes, Hybrid Cloud metrics, alerting, and log centralization.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-monitoring/setup/SKILL.md"

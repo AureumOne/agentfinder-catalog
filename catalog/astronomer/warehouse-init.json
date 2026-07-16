@@ -3,7 +3,7 @@
   "displayName": "Warehouse Init",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/warehouse-init/SKILL.md",
-  "description": "Warehouse Init skill.",
+  "description": "Initialize warehouse schema discovery.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/warehouse-init/SKILL.md"

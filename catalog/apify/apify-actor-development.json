@@ -3,7 +3,7 @@
   "displayName": "Apify Actor Development",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/apify/agent-skills/blob/main/skills/apify-actor-development/SKILL.md",
-  "description": "Apify Actor Development skill.",
+  "description": "Develop, debug, and deploy Apify Actors - serverless cloud programs for web scraping, automation, and data processing.",
   "metadata": {
     "sourceSet": "apify/agent-skills",
     "repoPath": "skills/apify-actor-development/SKILL.md"

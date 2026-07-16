@@ -3,7 +3,7 @@
   "displayName": "Find Traces",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/axiomhq/cli/blob/main/skills/find-traces/SKILL.md",
-  "description": "Find Traces skill.",
+  "description": "Analyze OpenTelemetry distributed traces from Axiom.",
   "metadata": {
     "sourceSet": "axiomhq/cli",
     "repoPath": "skills/find-traces/SKILL.md"

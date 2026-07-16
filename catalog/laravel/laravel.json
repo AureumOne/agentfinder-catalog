@@ -1,7 +1,7 @@
 {
   "identifier": "urn:ai:github.com:laravel:agent-skills:laravel",
   "displayName": "Laravel",
-  "mediaType": "application/vnd.anthropic.claude-plugin+json",
+  "mediaType": "application/ai-catalog+json",
   "url": "https://github.com/laravel/agent-skills/blob/main/laravel",
   "description": "Agents and skills for PHP / Laravel development",
   "metadata": {

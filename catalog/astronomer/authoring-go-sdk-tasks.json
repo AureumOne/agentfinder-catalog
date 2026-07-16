@@ -3,7 +3,7 @@
   "displayName": "Authoring Go Sdk Tasks",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/authoring-go-sdk-tasks/SKILL.md",
-  "description": "Authoring Go Sdk Tasks skill.",
+  "description": "Writes Airflow task logic in Go using the Airflow Go SDK.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/authoring-go-sdk-tasks/SKILL.md"

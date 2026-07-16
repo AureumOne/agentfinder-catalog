@@ -3,7 +3,7 @@
   "displayName": "Managing Astro Local Env",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/managing-astro-local-env/SKILL.md",
-  "description": "Managing Astro Local Env skill.",
+  "description": "Manage local Airflow environment with Astro CLI (Docker and standalone modes).",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/managing-astro-local-env/SKILL.md"

@@ -3,7 +3,7 @@
   "displayName": "Qdrant Monitoring",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-monitoring/SKILL.md",
-  "description": "Qdrant Monitoring skill.",
+  "description": "Guides Qdrant monitoring and observability setup.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-monitoring/SKILL.md"

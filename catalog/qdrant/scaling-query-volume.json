@@ -3,7 +3,7 @@
   "displayName": "Scaling Query Volume",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-scaling/scaling-query-volume/SKILL.md",
-  "description": "Scaling Query Volume skill.",
+  "description": "Guides Qdrant query volume scaling.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-scaling/scaling-query-volume/SKILL.md"
