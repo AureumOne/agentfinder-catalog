@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:MiniMax-AI:skills:minimax-pdf",
+  "displayName": "Minimax Pdf",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/MiniMax-AI/skills/blob/main/skills/minimax-pdf/SKILL.md",
+  "description": "Use this skill when visual quality and design identity matter for a PDF.",
+  "metadata": {
+    "sourceSet": "MiniMax-AI/skills",
+    "repoPath": "skills/minimax-pdf/SKILL.md"
+  }
+}

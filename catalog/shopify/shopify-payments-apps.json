@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-payments-apps",
+  "displayName": "Shopify Payments Apps",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-payments-apps/SKILL.md",
+  "description": "The Payments Apps API enables payment providers to integrate their payment solutions with Shopify's checkout.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-payments-apps/SKILL.md"
+  }
+}

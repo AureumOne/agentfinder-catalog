@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:MiniMax-AI:skills:android-native-dev",
+  "displayName": "Android Native Dev",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/MiniMax-AI/skills/blob/main/skills/android-native-dev/SKILL.md",
+  "description": "Android native application development and UI design guide.",
+  "metadata": {
+    "sourceSet": "MiniMax-AI/skills",
+    "repoPath": "skills/android-native-dev/SKILL.md"
+  }
+}

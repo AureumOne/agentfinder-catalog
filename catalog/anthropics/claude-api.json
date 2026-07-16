@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:skills:claude-api",
+  "displayName": "Claude Api",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/skills/blob/main/skills/claude-api/SKILL.md",
+  "description": "This skill helps you build LLM-powered applications with Claude.",
+  "metadata": {
+    "sourceSet": "anthropics/skills",
+    "repoPath": "skills/claude-api/SKILL.md"
+  }
+}

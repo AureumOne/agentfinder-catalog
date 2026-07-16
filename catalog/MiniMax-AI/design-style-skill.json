@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:MiniMax-AI:skills:design-style-skill",
+  "displayName": "Design Style Skill",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/MiniMax-AI/skills/blob/main/plugins/pptx-plugin/skills/design-style-skill/SKILL.md",
+  "description": "Select a consistent visual design system for PPT slides using radius/spacing style recipes.",
+  "metadata": {
+    "sourceSet": "MiniMax-AI/skills",
+    "repoPath": "plugins/pptx-plugin/skills/design-style-skill/SKILL.md"
+  }
+}

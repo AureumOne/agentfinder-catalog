@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:cursor:plugins:agent-compatibility",
+  "displayName": "Agent Compatibility",
+  "mediaType": "application/vnd.anthropic.claude-plugin+json",
+  "url": "https://github.com/cursor/plugins/blob/main/agent-compatibility",
+  "description": "CLI-backed repo compatibility scans plus Cursor agents that audit startup, validation, and docs against reality.",
+  "metadata": {
+    "sourceSet": "cursor/plugins",
+    "repoPath": "agent-compatibility/.cursor-plugin/plugin.json"
+  }
+}

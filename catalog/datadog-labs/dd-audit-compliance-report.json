@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:dd-audit-compliance-report",
+  "displayName": "Dd Audit Compliance Report",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-audit/compliance-report/SKILL.md",
+  "description": "Generate auditor-ready compliance evidence from Datadog Audit Trail for SOC 2 and PCI DSS.",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-audit/compliance-report/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:firebase:skills:firebase-basics",
+  "displayName": "Firebase Basics",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/firebase/skills/blob/main/skills/firebase-basics/SKILL.md",
+  "description": "Provides foundational setup, authentication, and project management workflows for Firebase using the Firebase CLI.",
+  "metadata": {
+    "sourceSet": "firebase/skills",
+    "repoPath": "skills/firebase-basics/SKILL.md"
+  }
+}

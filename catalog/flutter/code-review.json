@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:code-review",
+  "displayName": "Code Review",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/.agents/agents/reidbaker-agent/skills/code-review/SKILL.md",
+  "description": "Performs a comprehensive, multi-step code review of pull requests or local code changes, using iterative refinement (generation, critique, synthesis)...",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": ".agents/agents/reidbaker-agent/skills/code-review/SKILL.md"
+  }
+}

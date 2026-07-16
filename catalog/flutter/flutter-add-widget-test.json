@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:flutter-add-widget-test",
+  "displayName": "Flutter Add Widget Test",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/skills/flutter-add-widget-test/SKILL.md",
+  "description": "Implement a component-level test using `WidgetTester` to verify UI rendering and user interactions (tapping, scrolling, entering text).",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": "skills/flutter-add-widget-test/SKILL.md"
+  }
+}

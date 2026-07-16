@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:trailofbits:skills:rust-review",
+  "displayName": "Rust Review",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/trailofbits/skills/blob/main/plugins/rust-review/skills/rust-review/SKILL.md",
+  "description": "Performs comprehensive Rust security review for safe/unsafe boundary issues, memory safety in unsafe blocks, concurrency hazards, panic-induced DoS...",
+  "metadata": {
+    "sourceSet": "trailofbits/skills",
+    "repoPath": "plugins/rust-review/skills/rust-review/SKILL.md"
+  }
+}

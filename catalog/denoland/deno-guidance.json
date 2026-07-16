@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:denoland:skills:deno-guidance",
+  "displayName": "Deno Guidance",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/denoland/skills/blob/main/skills/deno-guidance/SKILL.md",
+  "description": "Deno Guidance skill.",
+  "metadata": {
+    "sourceSet": "denoland/skills",
+    "repoPath": "skills/deno-guidance/SKILL.md"
+  }
+}

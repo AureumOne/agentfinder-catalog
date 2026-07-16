@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:google-cloud-recipe-foundation-builder",
+  "displayName": "Google Cloud Recipe Foundation Builder",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-recipe-foundation-builder/SKILL.md",
+  "description": "Deploys a baseline landing zone foundation for a Google Cloud Organization, establishing security guardrails using Organization Policies, resource...",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/google-cloud-recipe-foundation-builder/SKILL.md"
+  }
+}

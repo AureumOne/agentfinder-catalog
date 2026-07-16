@@ -5,7 +5,7 @@
   "url": "https://github.com/NVIDIA/skills/blob/main/skills/omniverse-realtime-viewer/SKILL.md",
   "description": "NVIDIA skill definition for omniverse-realtime-viewer.",
   "metadata": {
-    "sourceSet": "nvidia-skills",
+    "sourceSet": "NVIDIA/skills",
     "repoPath": "skills/omniverse-realtime-viewer/SKILL.md"
   }
 }

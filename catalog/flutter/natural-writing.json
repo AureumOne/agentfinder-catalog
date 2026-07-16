@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:natural-writing",
+  "displayName": "Natural Writing",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/.agents/agents/reidbaker-agent/skills/natural-writing/SKILL.md",
+  "description": "Contains well-defined rules for creating natural, accurate, and readable writing.",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": ".agents/agents/reidbaker-agent/skills/natural-writing/SKILL.md"
+  }
+}

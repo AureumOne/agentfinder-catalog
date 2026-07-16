@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:brave:brave-search-skills:bx",
+  "displayName": "Bx",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/brave/brave-search-skills/blob/main/skills/bx/SKILL.md",
+  "description": "USE FOR web search, research, RAG, grounding, browse, find, lookups, fact-checking, documentation, agentic AI.",
+  "metadata": {
+    "sourceSet": "brave/brave-search-skills",
+    "repoPath": "skills/bx/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:binance:binance-skills-hub:fiat",
+  "displayName": "Fiat",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/binance/binance-skills-hub/blob/main/skills/binance/fiat/SKILL.md",
+  "description": "Query Binance fiat payment capabilities - supported countries, currencies, payment methods, limits, and crypto prices - via public APIs, plus...",
+  "metadata": {
+    "sourceSet": "binance/binance-skills-hub",
+    "repoPath": "skills/binance/fiat/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:skill-creator",
+  "displayName": "Skill Creator",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.system/skill-creator/SKILL.md",
+  "description": "Guide for creating effective skills.",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.system/skill-creator/SKILL.md"
+  }
+}

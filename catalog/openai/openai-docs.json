@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:openai-docs",
+  "displayName": "Openai Docs",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.system/openai-docs/SKILL.md",
+  "description": "Use when the user asks how to build with OpenAI products or APIs, asks about Codex itself or choosing Codex surfaces, needs up-to-date official...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.system/openai-docs/SKILL.md"
+  }
+}

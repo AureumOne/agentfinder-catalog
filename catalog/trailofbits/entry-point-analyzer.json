@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:trailofbits:skills:entry-point-analyzer",
+  "displayName": "Entry Point Analyzer",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/trailofbits/skills/blob/main/plugins/entry-point-analyzer/skills/entry-point-analyzer/SKILL.md",
+  "description": "Analyzes smart contract codebases to identify state-changing entry points for security auditing.",
+  "metadata": {
+    "sourceSet": "trailofbits/skills",
+    "repoPath": "plugins/entry-point-analyzer/skills/entry-point-analyzer/SKILL.md"
+  }
+}

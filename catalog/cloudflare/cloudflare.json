@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:cloudflare:skills:cloudflare",
+  "displayName": "Cloudflare",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/cloudflare/skills/blob/main/skills/cloudflare/SKILL.md",
+  "description": "Comprehensive Cloudflare platform skill covering Workers, Pages, storage (KV, D1, R2), AI (Workers AI, Vectorize, Agents SDK), feature flags...",
+  "metadata": {
+    "sourceSet": "cloudflare/skills",
+    "repoPath": "skills/cloudflare/SKILL.md"
+  }
+}

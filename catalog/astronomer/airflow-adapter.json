@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:astronomer:agents:airflow-adapter",
+  "displayName": "Airflow Adapter",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/astronomer/agents/blob/main/astro-airflow-mcp/.claude/skills/airflow-adapter/SKILL.md",
+  "description": "Airflow Adapter skill.",
+  "metadata": {
+    "sourceSet": "astronomer/agents",
+    "repoPath": "astro-airflow-mcp/.claude/skills/airflow-adapter/SKILL.md"
+  }
+}

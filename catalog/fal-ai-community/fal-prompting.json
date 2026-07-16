@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:fal-ai-community:skills:fal-prompting",
+  "displayName": "Fal Prompting",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/fal-ai-community/skills/blob/main/skills/fal-prompting/SKILL.md",
+  "description": "Model-family-specific prompt craft for fal.ai endpoints.",
+  "metadata": {
+    "sourceSet": "fal-ai-community/skills",
+    "repoPath": "skills/fal-prompting/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:trailofbits:skills:mutation-testing",
+  "displayName": "Mutation Testing",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/trailofbits/skills/blob/main/plugins/mutation-testing/skills/mutation-testing/SKILL.md",
+  "description": "Configures mewt or muton mutation testing campaigns - scopes targets, tunes timeouts, and optimizes long-running runs.",
+  "metadata": {
+    "sourceSet": "trailofbits/skills",
+    "repoPath": "plugins/mutation-testing/skills/mutation-testing/SKILL.md"
+  }
+}

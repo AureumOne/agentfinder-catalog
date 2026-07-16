@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:prisma:skills:prisma-database-setup",
+  "displayName": "Prisma Database Setup",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/prisma/skills/blob/main/prisma-database-setup/SKILL.md",
+  "description": "Guides for configuring Prisma with different database providers (PostgreSQL, MySQL, SQLite, MongoDB, etc.).",
+  "metadata": {
+    "sourceSet": "prisma/skills",
+    "repoPath": "prisma-database-setup/SKILL.md"
+  }
+}

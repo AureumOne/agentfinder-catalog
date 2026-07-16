@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:flutter-apply-architecture-best-practices",
+  "displayName": "Flutter Apply Architecture Best Practices",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/skills/flutter-apply-architecture-best-practices/SKILL.md",
+  "description": "Architects a Flutter application using the recommended layered approach (UI, Logic, Data).",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": "skills/flutter-apply-architecture-best-practices/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:bigquery-bigframes",
+  "displayName": "Bigquery Bigframes",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/bigquery-bigframes/SKILL.md",
+  "description": "Generates Python code using BigQuery DataFrames (BigFrames), the pandas/scikit-learn-style API over BigQuery.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/bigquery-bigframes/SKILL.md"
+  }
+}

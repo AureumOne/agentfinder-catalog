@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:migrate-to-codex",
+  "displayName": "Migrate To Codex",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/migrate-to-codex/SKILL.md",
+  "description": "Migrate supported instruction files, skills, agents, and MCP config into Codex project and global files.",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/migrate-to-codex/SKILL.md"
+  }
+}

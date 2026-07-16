@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:fal-ai-community:skills:fal-workflow",
+  "displayName": "Fal Workflow",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/fal-ai-community/skills/blob/main/skills/fal-workflow/SKILL.md",
+  "description": "Author and execute multi-step media pipelines on fal.ai.",
+  "metadata": {
+    "sourceSet": "fal-ai-community/skills",
+    "repoPath": "skills/fal-workflow/SKILL.md"
+  }
+}

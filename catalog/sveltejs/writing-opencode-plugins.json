@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:sveltejs:ai-tools:writing-opencode-plugins",
+  "displayName": "Writing Opencode Plugins",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/sveltejs/ai-tools/blob/main/.agents/skills/writing-opencode-plugins/SKILL.md",
+  "description": "Writing Opencode Plugins skill.",
+  "metadata": {
+    "sourceSet": "sveltejs/ai-tools",
+    "repoPath": ".agents/skills/writing-opencode-plugins/SKILL.md"
+  }
+}

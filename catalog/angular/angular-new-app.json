@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:angular:skills:angular-new-app",
+  "displayName": "Angular New App",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/angular/skills/blob/main/angular-new-app/SKILL.md",
+  "description": "Creates a new Angular app using the Angular CLI.",
+  "metadata": {
+    "sourceSet": "angular/skills",
+    "repoPath": "angular-new-app/SKILL.md"
+  }
+}

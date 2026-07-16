@@ -5,7 +5,7 @@
   "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-ai/skills/mcp-csharp-publish/SKILL.md",
   "description": "Publish and deploy C# MCP servers.",
   "metadata": {
-    "sourceSet": "dotnet-skills",
+    "sourceSet": "dotnet/skills",
     "repoPath": "plugins/dotnet-ai/skills/mcp-csharp-publish/SKILL.md"
   }
 }

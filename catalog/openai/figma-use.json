@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:figma-use",
+  "displayName": "Figma Use",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/figma-use/SKILL.md",
+  "description": "- you MUST invoke this skill BEFORE every `use_figma` tool call.",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/figma-use/SKILL.md"
+  }
+}

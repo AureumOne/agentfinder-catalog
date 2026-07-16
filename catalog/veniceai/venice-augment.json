@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:veniceai:skills:venice-augment",
+  "displayName": "Venice Augment",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/veniceai/skills/blob/main/skills/venice-augment/SKILL.md",
+  "description": "Venice augmentation endpoints for agent pipelines.",
+  "metadata": {
+    "sourceSet": "veniceai/skills",
+    "repoPath": "skills/venice-augment/SKILL.md"
+  }
+}

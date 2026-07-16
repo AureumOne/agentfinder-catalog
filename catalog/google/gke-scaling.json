@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-scaling",
+  "displayName": "Gke Scaling",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-scaling/SKILL.md",
+  "description": "Configures GKE autoscaling, including HPA, VPA, and Node Auto-Provisioning (NAP).",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-scaling/SKILL.md"
+  }
+}

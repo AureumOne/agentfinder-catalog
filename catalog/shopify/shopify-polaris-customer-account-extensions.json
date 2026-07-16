@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-polaris-customer-account-extensions",
+  "displayName": "Shopify Polaris Customer Account Extensions",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-polaris-customer-account-extensions/SKILL.md",
+  "description": "Build custom functionality that merchants can install at defined points on the Order index, Order status, and Profile pages in customer accounts.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-polaris-customer-account-extensions/SKILL.md"
+  }
+}

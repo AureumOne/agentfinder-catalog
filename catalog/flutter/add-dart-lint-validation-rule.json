@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:add-dart-lint-validation-rule",
+  "displayName": "Add Dart Lint Validation Rule",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/tool/dart_skills_lint/.agents/skills/add-dart-lint-validation-rule/SKILL.md",
+  "description": "Instructions for adding a new validation rule and CLI flag to dart_skills_lint.",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": "tool/dart_skills_lint/.agents/skills/add-dart-lint-validation-rule/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:enable-ssi",
+  "displayName": "Enable Ssi",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-apm/linux-ssi/enable-ssi/SKILL.md",
+  "description": "Configure Unified Service Tags and verify Single Step Instrumentation (SSI) injection on Linux hosts - SSI automatically instruments applications for...",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-apm/linux-ssi/enable-ssi/SKILL.md"
+  }
+}

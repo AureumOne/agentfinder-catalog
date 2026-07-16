@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:detection-engineering-coverage-evaluation",
+  "displayName": "Detection Engineering Coverage Evaluation",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/detection-engineering-coverage-evaluation/SKILL.md",
+  "description": "Automates the end-to-end detection engineering workflow in Google SecOps using MCP tools.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/detection-engineering-coverage-evaluation/SKILL.md"
+  }
+}

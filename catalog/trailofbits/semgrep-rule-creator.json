@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:trailofbits:skills:semgrep-rule-creator",
+  "displayName": "Semgrep Rule Creator",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/trailofbits/skills/blob/main/plugins/semgrep-rule-creator/skills/semgrep-rule-creator/SKILL.md",
+  "description": "Creates custom Semgrep rules for detecting security vulnerabilities, bug patterns, and code patterns.",
+  "metadata": {
+    "sourceSet": "trailofbits/skills",
+    "repoPath": "plugins/semgrep-rule-creator/skills/semgrep-rule-creator/SKILL.md"
+  }
+}

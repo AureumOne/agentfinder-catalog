@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:skills:webapp-testing",
+  "displayName": "Webapp Testing",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md",
+  "description": "Toolkit for interacting with and testing local web applications using Playwright.",
+  "metadata": {
+    "sourceSet": "anthropics/skills",
+    "repoPath": "skills/webapp-testing/SKILL.md"
+  }
+}

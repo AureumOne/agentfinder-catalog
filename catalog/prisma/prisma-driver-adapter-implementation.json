@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:prisma:skills:prisma-driver-adapter-implementation",
+  "displayName": "Prisma Driver Adapter Implementation",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/prisma/skills/blob/main/prisma-driver-adapter-implementation/SKILL.md",
+  "description": "Required reference for Prisma v7 driver adapter work.",
+  "metadata": {
+    "sourceSet": "prisma/skills",
+    "repoPath": "prisma-driver-adapter-implementation/SKILL.md"
+  }
+}

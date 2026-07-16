@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:cli-creator",
+  "displayName": "Cli Creator",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/cli-creator/SKILL.md",
+  "description": "Build a composable CLI for Codex from API docs, an OpenAPI spec, existing curl examples, an SDK, a web app, an admin tool, or a local script.",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/cli-creator/SKILL.md"
+  }
+}

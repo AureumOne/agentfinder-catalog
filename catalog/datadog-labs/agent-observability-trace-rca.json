@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:agent-observability-trace-rca",
+  "displayName": "Agent Observability Trace Rca",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/agent-observability/agent-observability-trace-rca/SKILL.md",
+  "description": "Root cause analysis on production LLM traces.",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "agent-observability/agent-observability-trace-rca/SKILL.md"
+  }
+}

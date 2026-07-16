@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:search-types",
+  "displayName": "Search Types",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-search-quality/search-strategies/hybrid-search/search-types/SKILL.md",
+  "description": "Search Types skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "skills/qdrant-search-quality/search-strategies/hybrid-search/search-types/SKILL.md"
+  }
+}

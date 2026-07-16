@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:trailofbits:skills:supply-chain-risk-auditor",
+  "displayName": "Supply Chain Risk Auditor",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/trailofbits/skills/blob/main/plugins/supply-chain-risk-auditor/skills/supply-chain-risk-auditor/SKILL.md",
+  "description": "Identifies dependencies at heightened risk of exploitation or takeover.",
+  "metadata": {
+    "sourceSet": "trailofbits/skills",
+    "repoPath": "plugins/supply-chain-risk-auditor/skills/supply-chain-risk-auditor/SKILL.md"
+  }
+}

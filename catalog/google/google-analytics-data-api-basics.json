@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:google-analytics-data-api-basics",
+  "displayName": "Google Analytics Data Api Basics",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/analytics/google-analytics-data-api-basics/SKILL.md",
+  "description": "Manages Google Analytics reporting data, enables the Analytics Data API via the Cloud CLI, and creates reports using the Google Analytics Data API...",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/analytics/google-analytics-data-api-basics/SKILL.md"
+  }
+}

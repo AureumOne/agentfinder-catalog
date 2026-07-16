@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:aspnet-core",
+  "displayName": "Aspnet Core",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/aspnet-core/SKILL.md",
+  "description": "Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET web development.",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/aspnet-core/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:memory-usage-optimization",
+  "displayName": "Memory Usage Optimization",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-performance-optimization/memory-usage-optimization/SKILL.md",
+  "description": "Memory Usage Optimization skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "skills/qdrant-performance-optimization/memory-usage-optimization/SKILL.md"
+  }
+}

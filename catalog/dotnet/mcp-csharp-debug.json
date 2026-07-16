@@ -5,7 +5,7 @@
   "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-ai/skills/mcp-csharp-debug/SKILL.md",
   "description": "Run and debug C# MCP servers locally.",
   "metadata": {
-    "sourceSet": "dotnet-skills",
+    "sourceSet": "dotnet/skills",
     "repoPath": "plugins/dotnet-ai/skills/mcp-csharp-debug/SKILL.md"
   }
 }

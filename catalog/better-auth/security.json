@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:better-auth:skills:security",
+  "displayName": "Security",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/better-auth/skills/blob/main/security/SKILL.md",
+  "description": "Security skill.",
+  "metadata": {
+    "sourceSet": "better-auth/skills",
+    "repoPath": "security/SKILL.md"
+  }
+}

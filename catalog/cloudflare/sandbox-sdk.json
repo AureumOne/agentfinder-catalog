@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:cloudflare:skills:sandbox-sdk",
+  "displayName": "Sandbox Sdk",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/cloudflare/skills/blob/main/skills/sandbox-sdk/SKILL.md",
+  "description": "Build sandboxed applications for secure code execution.",
+  "metadata": {
+    "sourceSet": "cloudflare/skills",
+    "repoPath": "skills/sandbox-sdk/SKILL.md"
+  }
+}

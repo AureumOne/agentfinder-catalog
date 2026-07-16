@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:exa-labs:exa-mcp-server:search",
+  "displayName": "Search",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/exa-labs/exa-mcp-server/blob/main/skills/search/SKILL.md",
+  "description": "Search skill.",
+  "metadata": {
+    "sourceSet": "exa-labs/exa-mcp-server",
+    "repoPath": "skills/search/SKILL.md"
+  }
+}

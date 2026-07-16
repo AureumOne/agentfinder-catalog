@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:apify:agent-skills:apify-sdk-integration",
+  "displayName": "Apify Sdk Integration",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/apify/agent-skills/blob/main/skills/apify-sdk-integration/SKILL.md",
+  "description": "Apify Sdk Integration skill.",
+  "metadata": {
+    "sourceSet": "apify/agent-skills",
+    "repoPath": "skills/apify-sdk-integration/SKILL.md"
+  }
+}

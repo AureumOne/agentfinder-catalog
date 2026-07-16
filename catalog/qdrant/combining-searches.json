@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:combining-searches",
+  "displayName": "Combining Searches",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-search-quality/search-strategies/hybrid-search/combining-searches/SKILL.md",
+  "description": "Combining Searches skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "skills/qdrant-search-quality/search-strategies/hybrid-search/combining-searches/SKILL.md"
+  }
+}

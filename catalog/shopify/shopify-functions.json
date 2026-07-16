@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-functions",
+  "displayName": "Shopify Functions",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-functions/SKILL.md",
+  "description": "Shopify Functions allow developers to customize the backend logic that powers parts of Shopify.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-functions/SKILL.md"
+  }
+}

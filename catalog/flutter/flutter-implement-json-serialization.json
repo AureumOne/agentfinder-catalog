@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:flutter-implement-json-serialization",
+  "displayName": "Flutter Implement Json Serialization",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/skills/flutter-implement-json-serialization/SKILL.md",
+  "description": "Create model classes with `fromJson` and `toJson` methods using `dart:convert`.",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": "skills/flutter-implement-json-serialization/SKILL.md"
+  }
+}

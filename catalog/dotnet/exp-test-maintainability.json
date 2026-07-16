@@ -5,7 +5,7 @@
   "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-experimental/skills/exp-test-maintainability/SKILL.md",
   "description": "Detects duplicate boilerplate, copy-paste tests, and structural maintainability issues across .NET test suites.",
   "metadata": {
-    "sourceSet": "dotnet-skills",
+    "sourceSet": "dotnet/skills",
     "repoPath": "plugins/dotnet-experimental/skills/exp-test-maintainability/SKILL.md"
   }
 }

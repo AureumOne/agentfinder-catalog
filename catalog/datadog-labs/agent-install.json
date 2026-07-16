@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:agent-install",
+  "displayName": "Agent Install",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-apm/linux-ssi/agent-install/SKILL.md",
+  "description": "Install the Datadog Agent on Linux hosts via SSH with Single Step Instrumentation (SSI) enabled - SSI automatically instruments applications for APM...",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-apm/linux-ssi/agent-install/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:define-goal",
+  "displayName": "Define Goal",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/define-goal/SKILL.md",
+  "description": "Help the user define a concrete, measurable goal before starting work, especially when they ask to use the goal tool, create a goal, set an...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/define-goal/SKILL.md"
+  }
+}

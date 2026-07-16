@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:MiniMax-AI:skills:minimax-music-gen",
+  "displayName": "Minimax Music Gen",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/MiniMax-AI/skills/blob/main/skills/minimax-music-gen/SKILL.md",
+  "description": "Use when user wants to generate music, songs, or audio tracks.",
+  "metadata": {
+    "sourceSet": "MiniMax-AI/skills",
+    "repoPath": "skills/minimax-music-gen/SKILL.md"
+  }
+}

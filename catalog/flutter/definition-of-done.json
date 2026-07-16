@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:definition-of-done",
+  "displayName": "Definition Of Done",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/tool/dart_skills_lint/.agents/skills/definition-of-done/SKILL.md",
+  "description": "Mandatory checks to run before completing any task that touches md files or dart code in this repository.",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": "tool/dart_skills_lint/.agents/skills/definition-of-done/SKILL.md"
+  }
+}

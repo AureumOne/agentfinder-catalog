@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:NotInvalid",
+  "displayName": "Notinvalid",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/tool/dart_skills_lint/example/invalid/SKILL.md",
+  "description": "A deliberately broken fixture used by example/README.md to show what each rule's error output looks like.",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": "tool/dart_skills_lint/example/invalid/SKILL.md"
+  }
+}

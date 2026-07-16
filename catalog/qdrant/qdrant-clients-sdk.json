@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:qdrant-clients-sdk",
+  "displayName": "Qdrant Clients Sdk",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-clients-sdk/SKILL.md",
+  "description": "Qdrant Clients Sdk skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "skills/qdrant-clients-sdk/SKILL.md"
+  }
+}

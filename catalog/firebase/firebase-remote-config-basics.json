@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:firebase:skills:firebase-remote-config-basics",
+  "displayName": "Firebase Remote Config Basics",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/firebase/skills/blob/main/skills/firebase-remote-config-basics/SKILL.md",
+  "description": "Comprehensive guide for Firebase Remote Config, including template management and SDK usage.",
+  "metadata": {
+    "sourceSet": "firebase/skills",
+    "repoPath": "skills/firebase-remote-config-basics/SKILL.md"
+  }
+}

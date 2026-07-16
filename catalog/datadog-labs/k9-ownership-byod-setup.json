@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:k9-ownership-byod-setup",
+  "displayName": "K9 Ownership Byod Setup",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-security/csm/ownership-agent/SKILL.md",
+  "description": "Generate a BYOD ownership preferences reference table for a customer.",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-security/csm/ownership-agent/SKILL.md"
+  }
+}

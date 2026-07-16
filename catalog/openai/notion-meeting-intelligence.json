@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:notion-meeting-intelligence",
+  "displayName": "Notion Meeting Intelligence",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/notion-meeting-intelligence/SKILL.md",
+  "description": "Prepare meeting materials with Notion context and Codex research; use when gathering context, drafting agendas/pre-reads, and tailoring materials to...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/notion-meeting-intelligence/SKILL.md"
+  }
+}

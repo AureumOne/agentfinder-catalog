@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-inference",
+  "displayName": "Gke Inference",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-inference/SKILL.md",
+  "description": "Deploys and optimizes AI/ML inference workloads on GKE, using GPUs, TPUs, and model servers.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-inference/SKILL.md"
+  }
+}

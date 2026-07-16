@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-custom-data",
+  "displayName": "Shopify Custom Data",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-custom-data/SKILL.md",
+  "description": "MUST be used first when prompts mention Metafields or Metaobjects.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-custom-data/SKILL.md"
+  }
+}

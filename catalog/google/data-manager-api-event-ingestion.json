@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:data-manager-api-event-ingestion",
+  "displayName": "Data Manager Api Event Ingestion",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/ads/data-manager-api-event-ingestion/SKILL.md",
+  "description": "Guides developers through implementing event and conversion ingestion to Google products using the Data Manager API /v1/events/ingest endpoint and...",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/ads/data-manager-api-event-ingestion/SKILL.md"
+  }
+}

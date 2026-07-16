@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:browserbase:skills:cookie-sync",
+  "displayName": "Cookie Sync",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/browserbase/skills/blob/main/skills/cookie-sync/SKILL.md",
+  "description": "Sync cookies from local Chrome to a Browserbase persistent context so the browse CLI can access authenticated sites.",
+  "metadata": {
+    "sourceSet": "browserbase/skills",
+    "repoPath": "skills/cookie-sync/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:clerk:skills:audit-clerk-skill",
+  "displayName": "Audit Clerk Skill",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/clerk/skills/blob/main/.agents/skills/audit-clerk-skill/SKILL.md",
+  "description": "Audits the bundled `clerk-cli` skill against the Clerk CLI source tree and proposes or applies updates.",
+  "metadata": {
+    "sourceSet": "clerk/skills",
+    "repoPath": ".agents/skills/audit-clerk-skill/SKILL.md"
+  }
+}

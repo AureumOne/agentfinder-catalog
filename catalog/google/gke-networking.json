@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-networking",
+  "displayName": "Gke Networking",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-networking/SKILL.md",
+  "description": "Plans, configures, and manages GKE networking.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-networking/SKILL.md"
+  }
+}

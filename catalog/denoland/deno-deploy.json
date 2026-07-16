@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:denoland:skills:deno-deploy",
+  "displayName": "Deno Deploy",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/denoland/skills/blob/main/skills/deno-deploy/SKILL.md",
+  "description": "Deno Deploy skill.",
+  "metadata": {
+    "sourceSet": "denoland/skills",
+    "repoPath": "skills/deno-deploy/SKILL.md"
+  }
+}

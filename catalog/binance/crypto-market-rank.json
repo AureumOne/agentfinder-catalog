@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:binance:binance-skills-hub:crypto-market-rank",
+  "displayName": "Crypto Market Rank",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/binance/binance-skills-hub/blob/main/skills/binance-web3/crypto-market-rank/SKILL.md",
+  "description": "Five leaderboard / rank endpoints fronted by one CLI.",
+  "metadata": {
+    "sourceSet": "binance/binance-skills-hub",
+    "repoPath": "skills/binance-web3/crypto-market-rank/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:service-remapping",
+  "displayName": "Service Remapping",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-apm/service-remapping/SKILL.md",
+  "description": "Create and manage APM service remapping rules - rewrite service names at ingestion time to collapse noisy inferred entities, clean up auto-generated...",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-apm/service-remapping/SKILL.md"
+  }
+}

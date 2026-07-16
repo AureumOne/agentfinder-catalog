@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:elevenlabs:skills:setup-api-key",
+  "displayName": "Setup Api Key",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/elevenlabs/skills/blob/main/setup-api-key/SKILL.md",
+  "description": "Guides users through setting up an ElevenLabs API key for ElevenLabs MCP tools.",
+  "metadata": {
+    "sourceSet": "elevenlabs/skills",
+    "repoPath": "setup-api-key/SKILL.md"
+  }
+}

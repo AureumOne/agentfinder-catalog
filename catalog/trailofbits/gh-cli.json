@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:trailofbits:skills:gh-cli",
+  "displayName": "Gh Cli",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/trailofbits/skills/blob/main/plugins/gh-cli/skills/gh-cli/SKILL.md",
+  "description": "Enforces authenticated gh CLI workflows over unauthenticated curl/WebFetch patterns.",
+  "metadata": {
+    "sourceSet": "trailofbits/skills",
+    "repoPath": "plugins/gh-cli/skills/gh-cli/SKILL.md"
+  }
+}

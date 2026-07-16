@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:hatch-pet",
+  "displayName": "Hatch Pet",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/hatch-pet/SKILL.md",
+  "description": "Create, repair, validate, visually QA, and package Codex-compatible animated pets and pet spritesheets from character art, generated images, company...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/hatch-pet/SKILL.md"
+  }
+}

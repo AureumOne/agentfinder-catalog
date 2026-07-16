@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:prisma:skills:prisma-upgrade-v7",
+  "displayName": "Prisma Upgrade V7",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/prisma/skills/blob/main/prisma-upgrade-v7/SKILL.md",
+  "description": "Complete migration guide from Prisma ORM v6 to v7 covering all breaking changes.",
+  "metadata": {
+    "sourceSet": "prisma/skills",
+    "repoPath": "prisma-upgrade-v7/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:tinybirdco:tinybird-agent-skills:tinybird-python-sdk-guidelines",
+  "displayName": "Tinybird Python Sdk Guidelines",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/tinybirdco/tinybird-agent-skills/blob/main/skills/tinybird-python-sdk-guidelines/SKILL.md",
+  "description": "Tinybird Python SDK for defining datasources, pipes, and queries in Python.",
+  "metadata": {
+    "sourceSet": "tinybirdco/tinybird-agent-skills",
+    "repoPath": "skills/tinybird-python-sdk-guidelines/SKILL.md"
+  }
+}

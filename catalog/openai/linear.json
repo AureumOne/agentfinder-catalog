@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:linear",
+  "displayName": "Linear",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/linear/SKILL.md",
+  "description": "Manage issues, projects & team workflows in Linear.",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/linear/SKILL.md"
+  }
+}

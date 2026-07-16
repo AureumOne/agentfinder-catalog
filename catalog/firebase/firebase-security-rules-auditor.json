@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:firebase:skills:firebase-security-rules-auditor",
+  "displayName": "Firebase Security Rules Auditor",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/firebase/skills/blob/main/skills/firebase-security-rules-auditor/SKILL.md",
+  "description": "A skill to evaluate how secure Firestore security rules are.",
+  "metadata": {
+    "sourceSet": "firebase/skills",
+    "repoPath": "skills/firebase-security-rules-auditor/SKILL.md"
+  }
+}

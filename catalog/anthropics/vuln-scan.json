@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:defending-code-reference-harness:vuln-scan",
+  "displayName": "Vuln Scan",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/defending-code-reference-harness/blob/main/.claude/skills/vuln-scan/SKILL.md",
+  "description": "Static source-code vulnerability scan.",
+  "metadata": {
+    "sourceSet": "anthropics/defending-code-reference-harness",
+    "repoPath": ".claude/skills/vuln-scan/SKILL.md"
+  }
+}

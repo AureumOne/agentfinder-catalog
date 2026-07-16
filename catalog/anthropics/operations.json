@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:knowledge-work-plugins:operations",
+  "displayName": "Operations",
+  "mediaType": "application/vnd.anthropic.claude-plugin+json",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/blob/main/operations",
+  "description": "Optimize business operations - vendor management, process documentation, change management, capacity planning, and compliance tracking. Keep your...",
+  "metadata": {
+    "sourceSet": "anthropics/knowledge-work-plugins",
+    "repoPath": "operations/.claude-plugin/plugin.json"
+  }
+}

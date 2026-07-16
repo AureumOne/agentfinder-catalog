@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:troubleshoot-ssi",
+  "displayName": "Troubleshoot Ssi",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-apm/linux-ssi/troubleshoot-ssi/SKILL.md",
+  "description": "Diagnose and fix Single Step Instrumentation (SSI) issues on Linux hosts - SSI automatically instruments applications for APM without code changes.",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-apm/linux-ssi/troubleshoot-ssi/SKILL.md"
+  }
+}

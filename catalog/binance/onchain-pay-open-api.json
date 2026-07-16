@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:binance:binance-skills-hub:onchain-pay-open-api",
+  "displayName": "Onchain Pay Open Api",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/binance/binance-skills-hub/blob/main/skills/binance/onchain-pay/SKILL.md",
+  "description": "Call Binance Onchain-Pay Open API endpoints with automatic RSA SHA256 request signing.",
+  "metadata": {
+    "sourceSet": "binance/binance-skills-hub",
+    "repoPath": "skills/binance/onchain-pay/SKILL.md"
+  }
+}

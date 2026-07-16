@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:vercel-labs:agent-browser:slack",
+  "displayName": "Slack",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/vercel-labs/agent-browser/blob/main/skill-data/slack/SKILL.md",
+  "description": "Slack skill.",
+  "metadata": {
+    "sourceSet": "vercel-labs/agent-browser",
+    "repoPath": "skill-data/slack/SKILL.md"
+  }
+}

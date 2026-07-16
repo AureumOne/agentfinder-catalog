@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:cloud-logging-query-generation",
+  "displayName": "Cloud Logging Query Generation",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/cloud-logging-query-generation/SKILL.md",
+  "description": "Generates Logging Query Language (LQL) queries for Google Cloud Logging from natural language.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/cloud-logging-query-generation/SKILL.md"
+  }
+}

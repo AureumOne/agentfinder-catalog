@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-polaris-admin-extensions",
+  "displayName": "Shopify Polaris Admin Extensions",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-polaris-admin-extensions/SKILL.md",
+  "description": "Add custom actions and blocks from your app at contextually relevant spots throughout the Shopify Admin.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-polaris-admin-extensions/SKILL.md"
+  }
+}

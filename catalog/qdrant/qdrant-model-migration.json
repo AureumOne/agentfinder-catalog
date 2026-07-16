@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:qdrant-model-migration",
+  "displayName": "Qdrant Model Migration",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-model-migration/SKILL.md",
+  "description": "Qdrant Model Migration skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "skills/qdrant-model-migration/SKILL.md"
+  }
+}

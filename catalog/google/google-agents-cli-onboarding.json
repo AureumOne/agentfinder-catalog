@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:google-agents-cli-onboarding",
+  "displayName": "Google Agents Cli Onboarding",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/google-agents-cli-onboarding/SKILL.md",
+  "description": "Onboarding entrypoint for agents-cli in Agent Platform.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/google-agents-cli-onboarding/SKILL.md"
+  }
+}

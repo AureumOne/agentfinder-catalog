@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:getsentry:skills:replay-ux-research",
+  "displayName": "Replay Ux Research",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/getsentry/skills/blob/main/skills/replay-ux-research/SKILL.md",
+  "description": "Analyze Sentry session replays to surface UX patterns, pain points, and user journeys for a given product area.",
+  "metadata": {
+    "sourceSet": "getsentry/skills",
+    "repoPath": "skills/replay-ux-research/SKILL.md"
+  }
+}

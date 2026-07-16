@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:knowledge-work-plugins:sales",
+  "displayName": "Sales",
+  "mediaType": "application/vnd.anthropic.claude-plugin+json",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/blob/main/sales",
+  "description": "Prospect, craft outreach, and build deal strategy faster. Prep for calls, manage your pipeline, and write personalized messaging that moves deals...",
+  "metadata": {
+    "sourceSet": "anthropics/knowledge-work-plugins",
+    "repoPath": "sales/.claude-plugin/plugin.json"
+  }
+}

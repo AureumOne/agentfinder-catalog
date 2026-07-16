@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:stripe:ai:upgrade-stripe",
+  "displayName": "Upgrade Stripe",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/stripe/ai/blob/main/skills/upgrade-stripe/SKILL.md",
+  "description": "Guide for upgrading Stripe API versions and SDKs",
+  "metadata": {
+    "sourceSet": "stripe/ai",
+    "repoPath": "skills/upgrade-stripe/SKILL.md"
+  }
+}

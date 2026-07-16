@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:google-mobile-ads-android-migrate-to-next-gen",
+  "displayName": "Google Mobile Ads Android Migrate To Next Gen",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/ads/google-mobile-ads-android-migrate-to-next-gen/SKILL.md",
+  "description": "Migrates Android applications from the old, legacy Google Mobile",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/ads/google-mobile-ads-android-migrate-to-next-gen/SKILL.md"
+  }
+}

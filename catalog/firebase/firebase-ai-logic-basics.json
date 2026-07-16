@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:firebase:skills:firebase-ai-logic-basics",
+  "displayName": "Firebase Ai Logic Basics",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/firebase/skills/blob/main/skills/firebase-ai-logic-basics/SKILL.md",
+  "description": "Official skill for integrating Firebase AI Logic (Gemini API) into web applications.",
+  "metadata": {
+    "sourceSet": "firebase/skills",
+    "repoPath": "skills/firebase-ai-logic-basics/SKILL.md"
+  }
+}

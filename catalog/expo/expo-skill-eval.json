@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:expo:skills:expo-skill-eval",
+  "displayName": "Expo Skill Eval",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/expo/skills/blob/main/.claude/skills/expo-skill-eval/SKILL.md",
+  "description": "Evaluate Expo skills in this repo end-to-end - trigger accuracy, generated code quality, and runtime screenshots on iOS simulator and Android...",
+  "metadata": {
+    "sourceSet": "expo/skills",
+    "repoPath": ".claude/skills/expo-skill-eval/SKILL.md"
+  }
+}

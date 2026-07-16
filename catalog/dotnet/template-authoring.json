@@ -5,7 +5,7 @@
   "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-template-engine/skills/template-authoring/SKILL.md",
   "description": "Guides creation and validation of custom dotnet new templates.",
   "metadata": {
-    "sourceSet": "dotnet-skills",
+    "sourceSet": "dotnet/skills",
     "repoPath": "plugins/dotnet-template-engine/skills/template-authoring/SKILL.md"
   }
 }

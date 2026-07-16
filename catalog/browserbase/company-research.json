@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:browserbase:skills:company-research",
+  "displayName": "Company Research",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/browserbase/skills/blob/main/skills/company-research/SKILL.md",
+  "description": "Discover and deeply research companies to sell to.",
+  "metadata": {
+    "sourceSet": "browserbase/skills",
+    "repoPath": "skills/company-research/SKILL.md"
+  }
+}

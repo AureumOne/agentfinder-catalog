@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:google-cloud-solution-architecture",
+  "displayName": "Google Cloud Solution Architecture",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-solution-architecture/SKILL.md",
+  "description": "Interactively discovers requirements for a specific cloud workload and generates design recommendations and architectural guidance to build a...",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/google-cloud-solution-architecture/SKILL.md"
+  }
+}

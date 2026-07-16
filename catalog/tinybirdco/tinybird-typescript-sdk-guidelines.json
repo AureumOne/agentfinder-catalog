@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:tinybirdco:tinybird-agent-skills:tinybird-typescript-sdk-guidelines",
+  "displayName": "Tinybird Typescript Sdk Guidelines",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/tinybirdco/tinybird-agent-skills/blob/main/skills/tinybird-typescript-sdk-guidelines/SKILL.md",
+  "description": "Tinybird TypeScript SDK for defining datasources, pipes, and queries with full type inference.",
+  "metadata": {
+    "sourceSet": "tinybirdco/tinybird-agent-skills",
+    "repoPath": "skills/tinybird-typescript-sdk-guidelines/SKILL.md"
+  }
+}

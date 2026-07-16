@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:fal-ai-community:skills:character-design",
+  "displayName": "Character Design",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/fal-ai-community/skills/blob/main/skills/character-design/SKILL.md",
+  "description": "Build consistent character designs and character media with genmedia.",
+  "metadata": {
+    "sourceSet": "fal-ai-community/skills",
+    "repoPath": "skills/character-design/SKILL.md"
+  }
+}

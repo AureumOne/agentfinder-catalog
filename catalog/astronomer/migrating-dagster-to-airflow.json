@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:astronomer:agents:migrating-dagster-to-airflow",
+  "displayName": "Migrating Dagster To Airflow",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/astronomer/agents/blob/main/skills/migrating-dagster-to-airflow/SKILL.md",
+  "description": "Migrating Dagster To Airflow skill.",
+  "metadata": {
+    "sourceSet": "astronomer/agents",
+    "repoPath": "skills/migrating-dagster-to-airflow/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:horizontal-scaling",
+  "displayName": "Horizontal Scaling",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-scaling/scaling-data-volume/horizontal-scaling/SKILL.md",
+  "description": "Horizontal Scaling skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "skills/qdrant-scaling/scaling-data-volume/horizontal-scaling/SKILL.md"
+  }
+}

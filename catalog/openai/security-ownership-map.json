@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:security-ownership-map",
+  "displayName": "Security Ownership Map",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/security-ownership-map/SKILL.md",
+  "description": "Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ownership, and export...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/security-ownership-map/SKILL.md"
+  }
+}

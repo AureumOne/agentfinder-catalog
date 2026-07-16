@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:stripe:ai:stripe-directory",
+  "displayName": "Stripe Directory",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/stripe/ai/blob/main/skills/stripe-directory/SKILL.md",
+  "description": "Use when the user wants to find businesses, software, service providers, or partners for a specific industry, workflow, pain point, capability, or...",
+  "metadata": {
+    "sourceSet": "stripe/ai",
+    "repoPath": "skills/stripe-directory/SKILL.md"
+  }
+}

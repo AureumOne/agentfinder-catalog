@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:composiohq:skills:composio",
+  "displayName": "Composio",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/composiohq/skills/blob/main/skills/composio/SKILL.md",
+  "description": "Use 1000+ external apps via Composio - either directly through the CLI or by building AI agents and apps with the SDK",
+  "metadata": {
+    "sourceSet": "composiohq/skills",
+    "repoPath": "skills/composio/SKILL.md"
+  }
+}

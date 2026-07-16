@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:ChromeDevTools:chrome-devtools-mcp:a11y-debugging",
+  "displayName": "A11Y Debugging",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp/blob/main/skills/a11y-debugging/SKILL.md",
+  "description": "A11Y Debugging skill.",
+  "metadata": {
+    "sourceSet": "ChromeDevTools/chrome-devtools-mcp",
+    "repoPath": "skills/a11y-debugging/SKILL.md"
+  }
+}

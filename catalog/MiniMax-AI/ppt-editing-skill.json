@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:MiniMax-AI:skills:ppt-editing-skill",
+  "displayName": "Ppt Editing Skill",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/MiniMax-AI/skills/blob/main/plugins/pptx-plugin/skills/ppt-editing-skill/SKILL.md",
+  "description": "Edit existing PowerPoint files or templates with XML-safe workflows.",
+  "metadata": {
+    "sourceSet": "MiniMax-AI/skills",
+    "repoPath": "plugins/pptx-plugin/skills/ppt-editing-skill/SKILL.md"
+  }
+}

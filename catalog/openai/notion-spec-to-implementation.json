@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:notion-spec-to-implementation",
+  "displayName": "Notion Spec To Implementation",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/notion-spec-to-implementation/SKILL.md",
+  "description": "Turn Notion specs into implementation plans, tasks, and progress tracking; use when implementing PRDs/feature specs and creating Notion plans + tasks...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/notion-spec-to-implementation/SKILL.md"
+  }
+}

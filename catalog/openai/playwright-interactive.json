@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:playwright-interactive",
+  "displayName": "Playwright Interactive",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/playwright-interactive/SKILL.md",
+  "description": "Persistent browser and Electron interaction through `js_repl` for fast iterative UI debugging.",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/playwright-interactive/SKILL.md"
+  }
+}

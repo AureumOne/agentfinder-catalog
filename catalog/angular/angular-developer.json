@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:angular:skills:angular-developer",
+  "displayName": "Angular Developer",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/angular/skills/blob/main/angular-developer/SKILL.md",
+  "description": "Generates Angular code and provides architectural guidance.",
+  "metadata": {
+    "sourceSet": "angular/skills",
+    "repoPath": "angular-developer/SKILL.md"
+  }
+}

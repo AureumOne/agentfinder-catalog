@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:prisma:skills:prisma-mongodb-upgrade",
+  "displayName": "Prisma Mongodb Upgrade",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/prisma/skills/blob/main/prisma-mongodb-upgrade/SKILL.md",
+  "description": "Decision and migration guide for Prisma ORM MongoDB projects on v6, which have no upgrade path to v7.",
+  "metadata": {
+    "sourceSet": "prisma/skills",
+    "repoPath": "prisma-mongodb-upgrade/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-golden-path",
+  "displayName": "Gke Golden Path",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-golden-path/SKILL.md",
+  "description": "Provides GKE golden path configuration defaults, production readiness checklists, and cluster default patterns.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-golden-path/SKILL.md"
+  }
+}

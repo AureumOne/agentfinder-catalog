@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:skills:pdf",
+  "displayName": "Pdf",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/skills/blob/main/skills/pdf/SKILL.md",
+  "description": "Use this skill whenever the user wants to do anything with PDF files.",
+  "metadata": {
+    "sourceSet": "anthropics/skills",
+    "repoPath": "skills/pdf/SKILL.md"
+  }
+}

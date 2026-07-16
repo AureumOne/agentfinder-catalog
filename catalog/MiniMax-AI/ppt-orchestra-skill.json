@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:MiniMax-AI:skills:ppt-orchestra-skill",
+  "displayName": "Ppt Orchestra Skill",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/MiniMax-AI/skills/blob/main/plugins/pptx-plugin/skills/ppt-orchestra-skill/SKILL.md",
+  "description": "Plan and orchestrate multi-slide PowerPoint creation from scratch.",
+  "metadata": {
+    "sourceSet": "MiniMax-AI/skills",
+    "repoPath": "plugins/pptx-plugin/skills/ppt-orchestra-skill/SKILL.md"
+  }
+}

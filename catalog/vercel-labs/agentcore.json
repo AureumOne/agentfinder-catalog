@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:vercel-labs:agent-browser:agentcore",
+  "displayName": "Agentcore",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/vercel-labs/agent-browser/blob/main/skill-data/agentcore/SKILL.md",
+  "description": "Agentcore skill.",
+  "metadata": {
+    "sourceSet": "vercel-labs/agent-browser",
+    "repoPath": "skill-data/agentcore/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:google-ads-api-mcp-setup",
+  "displayName": "Google Ads Api Mcp Setup",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/ads/google-ads-api-mcp-setup/SKILL.md",
+  "description": "Guides developers through downloading, configuring, and installing the official open-source Google Ads MCP Server.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/ads/google-ads-api-mcp-setup/SKILL.md"
+  }
+}

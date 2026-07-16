@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:composiohq:skills:skill-creator",
+  "displayName": "Skill Creator",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/composiohq/skills/blob/main/.agents/skills/skill-creator/SKILL.md",
+  "description": "Guide for creating effective skills.",
+  "metadata": {
+    "sourceSet": "composiohq/skills",
+    "repoPath": ".agents/skills/skill-creator/SKILL.md"
+  }
+}

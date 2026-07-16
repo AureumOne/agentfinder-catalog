@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-app-onboarding",
+  "displayName": "Gke App Onboarding",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-app-onboarding/SKILL.md",
+  "description": "Manages GKE application onboarding, covering containerization, deployment manifests, and migration.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-app-onboarding/SKILL.md"
+  }
+}

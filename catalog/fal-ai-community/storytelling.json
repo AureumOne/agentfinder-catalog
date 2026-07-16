@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:fal-ai-community:skills:storytelling",
+  "displayName": "Storytelling",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/fal-ai-community/skills/blob/main/skills/storytelling/SKILL.md",
+  "description": "Build multi-shot narrative image, video, and audio workflows with genmedia.",
+  "metadata": {
+    "sourceSet": "fal-ai-community/skills",
+    "repoPath": "skills/storytelling/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:netlify-deploy",
+  "displayName": "Netlify Deploy",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/netlify-deploy/SKILL.md",
+  "description": "Deploy web projects to Netlify using the Netlify CLI (`npx netlify`).",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/netlify-deploy/SKILL.md"
+  }
+}

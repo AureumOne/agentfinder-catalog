@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:figma-generate-design",
+  "displayName": "Figma Generate Design",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/figma-generate-design/SKILL.md",
+  "description": "Use this skill alongside figma-use when the task involves translating an application page, view, or multi-section layout into Figma.",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/figma-generate-design/SKILL.md"
+  }
+}

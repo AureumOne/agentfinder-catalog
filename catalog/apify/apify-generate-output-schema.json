@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:apify:agent-skills:apify-generate-output-schema",
+  "displayName": "Apify Generate Output Schema",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/apify/agent-skills/blob/main/skills/apify-generate-output-schema/SKILL.md",
+  "description": "Apify Generate Output Schema skill.",
+  "metadata": {
+    "sourceSet": "apify/agent-skills",
+    "repoPath": "skills/apify-generate-output-schema/SKILL.md"
+  }
+}
