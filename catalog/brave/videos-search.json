@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:brave:brave-search-skills:videos-search",
+  "displayName": "Videos Search",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/brave/brave-search-skills/blob/main/skills/videos-search/SKILL.md",
+  "description": "USE FOR video search.",
+  "metadata": {
+    "sourceSet": "brave/brave-search-skills",
+    "repoPath": "skills/videos-search/SKILL.md"
+  }
+}

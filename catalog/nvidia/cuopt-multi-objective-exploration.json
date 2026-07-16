@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:nvidia:cuopt:cuopt-multi-objective-exploration",
+  "displayName": "Cuopt Multi Objective Exploration",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-multi-objective-exploration/SKILL.md",
+  "description": "NVIDIA skill definition for cuopt-multi-objective-exploration.",
+  "metadata": {
+    "sourceSet": "NVIDIA/cuopt",
+    "repoPath": "skills/cuopt-multi-objective-exploration/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:jupyter-notebook",
+  "displayName": "Jupyter Notebook",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/jupyter-notebook/SKILL.md",
+  "description": "Use when the user asks to create, scaffold, or edit Jupyter notebooks (`.ipynb`) for experiments, explorations, or tutorials; prefer the bundled...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/jupyter-notebook/SKILL.md"
+  }
+}

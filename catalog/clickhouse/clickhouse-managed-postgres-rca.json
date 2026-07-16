@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:ClickHouse:agent-skills:clickhouse-managed-postgres-rca",
+  "displayName": "Clickhouse Managed Postgres Rca",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/ClickHouse/agent-skills/blob/main/skills/clickhouse-managed-postgres-rca/SKILL.md",
+  "description": "MUST USE when investigating performance issues on a ClickHouse-managed Postgres instance.",
+  "metadata": {
+    "sourceSet": "ClickHouse/agent-skills",
+    "repoPath": "skills/clickhouse-managed-postgres-rca/SKILL.md"
+  }
+}

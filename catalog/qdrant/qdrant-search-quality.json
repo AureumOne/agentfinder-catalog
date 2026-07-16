@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:qdrant-search-quality",
+  "displayName": "Qdrant Search Quality",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-search-quality/SKILL.md",
+  "description": "Qdrant Search Quality skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "skills/qdrant-search-quality/SKILL.md"
+  }
+}

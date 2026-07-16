@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-partner",
+  "displayName": "Shopify Partner",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-partner/SKILL.md",
+  "description": "The Partner API lets you programmatically access data about your Partner Dashboard, including your apps, themes, and affiliate referrals.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-partner/SKILL.md"
+  }
+}

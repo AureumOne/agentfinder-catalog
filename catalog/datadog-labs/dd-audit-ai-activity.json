@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:dd-audit-ai-activity",
+  "displayName": "Dd Audit Ai Activity",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-audit/ai-activity-audit/SKILL.md",
+  "description": "Audit what the Bits AI assistant (MCP server) has done in your Datadog org - tool calls by user, resources accessed, and anomaly flags for AI...",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-audit/ai-activity-audit/SKILL.md"
+  }
+}

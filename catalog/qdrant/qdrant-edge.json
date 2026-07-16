@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:qdrant-edge",
+  "displayName": "Qdrant Edge",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-edge/SKILL.md",
+  "description": "Qdrant Edge skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "skills/qdrant-edge/SKILL.md"
+  }
+}

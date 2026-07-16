@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:brave:brave-search-skills:llm-context",
+  "displayName": "Llm Context",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/brave/brave-search-skills/blob/main/skills/llm-context/SKILL.md",
+  "description": "USE FOR RAG/LLM grounding.",
+  "metadata": {
+    "sourceSet": "brave/brave-search-skills",
+    "repoPath": "skills/llm-context/SKILL.md"
+  }
+}

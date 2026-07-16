@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:redis:agent-skills:iris-development",
+  "displayName": "Iris Development",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/redis/agent-skills/blob/main/skills/iris-development/SKILL.md",
+  "description": "Iris is Redis's umbrella for AI-focused products.",
+  "metadata": {
+    "sourceSet": "redis/agent-skills",
+    "repoPath": "skills/iris-development/SKILL.md"
+  }
+}

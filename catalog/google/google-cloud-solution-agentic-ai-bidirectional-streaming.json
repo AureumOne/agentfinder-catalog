@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:google-cloud-solution-agentic-ai-bidirectional-streaming",
+  "displayName": "Google Cloud Solution Agentic Ai Bidirectional Streaming",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-solution-agentic-ai-bidirectional-streaming/SKILL.md",
+  "description": "Guides agents to interactively discover customer requirements for live, bidirectional multi-agent AI systems that process continuous streams of...",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/google-cloud-solution-agentic-ai-bidirectional-streaming/SKILL.md"
+  }
+}

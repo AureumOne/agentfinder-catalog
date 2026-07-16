@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-storage",
+  "displayName": "Gke Storage",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-storage/SKILL.md",
+  "description": "Manages GKE storage, including PVCs, PersistentVolumes, Filestore, and GCS FUSE.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-storage/SKILL.md"
+  }
+}

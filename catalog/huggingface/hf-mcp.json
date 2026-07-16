@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:huggingface:skills:hf-mcp",
+  "displayName": "Hf Mcp",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/huggingface/skills/blob/main/hf-mcp/skills/hf-mcp/SKILL.md",
+  "description": "Use Hugging Face Hub via MCP server tools.",
+  "metadata": {
+    "sourceSet": "huggingface/skills",
+    "repoPath": "hf-mcp/skills/hf-mcp/SKILL.md"
+  }
+}

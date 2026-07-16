@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:brave:brave-search-skills:answers",
+  "displayName": "Answers",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/brave/brave-search-skills/blob/main/skills/answers/SKILL.md",
+  "description": "USE FOR AI-grounded answers via OpenAI-compatible /chat/completions.",
+  "metadata": {
+    "sourceSet": "brave/brave-search-skills",
+    "repoPath": "skills/answers/SKILL.md"
+  }
+}

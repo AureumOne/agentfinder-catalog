@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:binance:binance-skills-hub:meme-rush",
+  "displayName": "Meme Rush",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/binance/binance-skills-hub/blob/main/skills/binance-web3/meme-rush/SKILL.md",
+  "description": "Two rank feeds fronted by one CLI: `meme-rush` (launchpad lifecycle tracking) and `topic-rush` (AI hot-topic discovery with associated tokens).",
+  "metadata": {
+    "sourceSet": "binance/binance-skills-hub",
+    "repoPath": "skills/binance-web3/meme-rush/SKILL.md"
+  }
+}

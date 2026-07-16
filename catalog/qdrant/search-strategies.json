@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:search-strategies",
+  "displayName": "Search Strategies",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-search-quality/search-strategies/SKILL.md",
+  "description": "Search Strategies skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "skills/qdrant-search-quality/search-strategies/SKILL.md"
+  }
+}

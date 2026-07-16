@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-compute-classes",
+  "displayName": "Gke Compute Classes",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-compute-classes/SKILL.md",
+  "description": "Configures, optimizes, and troubleshoots GKE ComputeClasses.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-compute-classes/SKILL.md"
+  }
+}

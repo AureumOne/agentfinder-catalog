@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:MiniMax-AI:skills:minimax-docx",
+  "displayName": "Minimax Docx",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/MiniMax-AI/skills/blob/main/skills/minimax-docx/SKILL.md",
+  "description": "Professional DOCX document creation, editing, and formatting using OpenXML SDK (.NET).",
+  "metadata": {
+    "sourceSet": "MiniMax-AI/skills",
+    "repoPath": "skills/minimax-docx/SKILL.md"
+  }
+}

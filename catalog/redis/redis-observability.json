@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:redis:agent-skills:redis-observability",
+  "displayName": "Redis Observability",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/redis/agent-skills/blob/main/skills/redis-observability/SKILL.md",
+  "description": "Redis observability guidance - which metrics to monitor (memory, connections, hit ratio, ops/sec, rejected connections), which built-in commands to...",
+  "metadata": {
+    "sourceSet": "redis/agent-skills",
+    "repoPath": "skills/redis-observability/SKILL.md"
+  }
+}

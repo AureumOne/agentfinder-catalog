@@ -5,7 +5,7 @@
   "url": "https://github.com/google/skills/blob/main/skills/cloud/bigquery-basics/SKILL.md",
   "description": "Google skill definition for bigquery-basics.",
   "metadata": {
-    "sourceSet": "google-skills",
+    "sourceSet": "google/skills",
     "repoPath": "skills/cloud/bigquery-basics/SKILL.md"
   }
 }

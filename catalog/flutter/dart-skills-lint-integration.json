@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:dart-skills-lint-integration",
+  "displayName": "Dart Skills Lint Integration",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/tool/dart_skills_lint/.agents/skills/dart-skills-lint-integration/SKILL.md",
+  "description": "How to integrate, update, and configure the dart_skills_lint validation tool within a repository.",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": "tool/dart_skills_lint/.agents/skills/dart-skills-lint-integration/SKILL.md"
+  }
+}

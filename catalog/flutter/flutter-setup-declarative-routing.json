@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:flutter-setup-declarative-routing",
+  "displayName": "Flutter Setup Declarative Routing",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/skills/flutter-setup-declarative-routing/SKILL.md",
+  "description": "Configure `MaterialApp.router` using a package like `go_router` for advanced URL-based navigation.",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": "skills/flutter-setup-declarative-routing/SKILL.md"
+  }
+}

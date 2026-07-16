@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:plugin-creator",
+  "displayName": "Plugin Creator",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.system/plugin-creator/SKILL.md",
+  "description": "Create and scaffold plugin directories for Codex with a required `.codex-plugin/plugin.json`, optional plugin folders/files, and baseline...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.system/plugin-creator/SKILL.md"
+  }
+}

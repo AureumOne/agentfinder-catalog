@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:dd-monitors",
+  "displayName": "Dd Monitors",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-monitors/SKILL.md",
+  "description": "Monitor management - list, search, file-based create, and alerting best practices.",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-monitors/SKILL.md"
+  }
+}

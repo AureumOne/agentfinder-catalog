@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:dd-docs",
+  "displayName": "Dd Docs",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-docs/SKILL.md",
+  "description": "Datadog docs lookup using docs.datadoghq.com/llms.txt and linked Markdown pages.",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-docs/SKILL.md"
+  }
+}

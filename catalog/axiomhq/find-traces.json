@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:axiomhq:cli:find-traces",
+  "displayName": "Find Traces",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/axiomhq/cli/blob/main/skills/find-traces/SKILL.md",
+  "description": "Find Traces skill.",
+  "metadata": {
+    "sourceSet": "axiomhq/cli",
+    "repoPath": "skills/find-traces/SKILL.md"
+  }
+}

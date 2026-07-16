@@ -5,7 +5,7 @@
   "url": "https://github.com/NVIDIA/skills/blob/main/skills/physical-ai-neural-reconstruction/SKILL.md",
   "description": "NVIDIA skill definition for physical-ai-neural-reconstruction.",
   "metadata": {
-    "sourceSet": "nvidia-skills",
+    "sourceSet": "NVIDIA/skills",
     "repoPath": "skills/physical-ai-neural-reconstruction/SKILL.md"
   }
 }

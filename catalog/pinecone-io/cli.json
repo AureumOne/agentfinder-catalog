@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:pinecone-io:pinecone-claude-code-plugin:cli",
+  "displayName": "Cli",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/pinecone-io/pinecone-claude-code-plugin/blob/main/skills/cli/SKILL.md",
+  "description": "Cli skill.",
+  "metadata": {
+    "sourceSet": "pinecone-io/pinecone-claude-code-plugin",
+    "repoPath": "skills/cli/SKILL.md"
+  }
+}

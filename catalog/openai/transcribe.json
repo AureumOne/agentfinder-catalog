@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:transcribe",
+  "displayName": "Transcribe",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/transcribe/SKILL.md",
+  "description": "Transcribe audio files to text with optional diarization and known-speaker hints.",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/transcribe/SKILL.md"
+  }
+}

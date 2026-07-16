@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:mongodb:agent-skills:mongodb-connection",
+  "displayName": "Mongodb Connection",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/mongodb/agent-skills/blob/main/skills/mongodb-connection/SKILL.md",
+  "description": "Optimize MongoDB client connection configuration (pools, timeouts, patterns) for any supported driver language.",
+  "metadata": {
+    "sourceSet": "mongodb/agent-skills",
+    "repoPath": "skills/mongodb-connection/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-multitenancy",
+  "displayName": "Gke Multitenancy",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-multitenancy/SKILL.md",
+  "description": "Plans and configures multi-tenancy on GKE.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-multitenancy/SKILL.md"
+  }
+}

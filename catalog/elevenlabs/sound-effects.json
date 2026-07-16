@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:elevenlabs:skills:sound-effects",
+  "displayName": "Sound Effects",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/elevenlabs/skills/blob/main/sound-effects/SKILL.md",
+  "description": "Generate sound effects from text descriptions using ElevenLabs.",
+  "metadata": {
+    "sourceSet": "elevenlabs/skills",
+    "repoPath": "sound-effects/SKILL.md"
+  }
+}

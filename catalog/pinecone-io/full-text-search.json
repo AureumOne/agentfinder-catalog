@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:pinecone-io:pinecone-claude-code-plugin:full-text-search",
+  "displayName": "Full Text Search",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/pinecone-io/pinecone-claude-code-plugin/blob/main/skills/full-text-search/SKILL.md",
+  "description": "Full Text Search skill.",
+  "metadata": {
+    "sourceSet": "pinecone-io/pinecone-claude-code-plugin",
+    "repoPath": "skills/full-text-search/SKILL.md"
+  }
+}

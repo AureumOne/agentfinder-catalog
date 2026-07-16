@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:dart-skills-lint-validation",
+  "displayName": "Dart Skills Lint Validation",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/tool/dart_skills_lint/skills/dart-skills-lint-validation/SKILL.md",
+  "description": "This skill covers **day-to-day use**: running the linter, walking",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": "tool/dart_skills_lint/skills/dart-skills-lint-validation/SKILL.md"
+  }
+}

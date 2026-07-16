@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:vercel-labs:agent-browser:core",
+  "displayName": "Core",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/vercel-labs/agent-browser/blob/main/skill-data/core/SKILL.md",
+  "description": "Core skill.",
+  "metadata": {
+    "sourceSet": "vercel-labs/agent-browser",
+    "repoPath": "skill-data/core/SKILL.md"
+  }
+}

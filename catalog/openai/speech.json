@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:speech",
+  "displayName": "Speech",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/speech/SKILL.md",
+  "description": "Use when the user asks for text-to-speech narration or voiceover, accessibility reads, audio prompts, or batch speech generation via the OpenAI Audio...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/speech/SKILL.md"
+  }
+}

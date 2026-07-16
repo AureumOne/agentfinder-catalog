@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:prisma:skills:prisma-compute",
+  "displayName": "Prisma Compute",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/prisma/skills/blob/main/prisma-compute/SKILL.md",
+  "description": "Prisma Compute deployment and hosting guide.",
+  "metadata": {
+    "sourceSet": "prisma/skills",
+    "repoPath": "prisma-compute/SKILL.md"
+  }
+}

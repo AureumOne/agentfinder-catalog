@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:notion-research-documentation",
+  "displayName": "Notion Research Documentation",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/notion-research-documentation/SKILL.md",
+  "description": "Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/notion-research-documentation/SKILL.md"
+  }
+}

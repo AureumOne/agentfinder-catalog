@@ -5,7 +5,7 @@
   "url": "https://github.com/microsoft/aspire-skills/blob/main/skills/aspire-monitoring/SKILL.md",
   "description": "Observe Aspire apps: logs, traces, metrics, resource state, telemetry export, browser telemetry, and the standalone dashboard.",
   "metadata": {
-    "sourceSet": "aspire-skills",
+    "sourceSet": "microsoft/aspire-skills",
     "repoPath": "skills/aspire-monitoring/SKILL.md"
   }
 }

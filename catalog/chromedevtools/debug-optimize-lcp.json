@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:ChromeDevTools:chrome-devtools-mcp:debug-optimize-lcp",
+  "displayName": "Debug Optimize Lcp",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp/blob/main/skills/debug-optimize-lcp/SKILL.md",
+  "description": "Debug Optimize Lcp skill.",
+  "metadata": {
+    "sourceSet": "ChromeDevTools/chrome-devtools-mcp",
+    "repoPath": "skills/debug-optimize-lcp/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:elevenlabs:skills:update-skills-from-changelog",
+  "displayName": "Update Skills From Changelog",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/elevenlabs/skills/blob/main/.agents/skills/update-skills-from-changelog/SKILL.md",
+  "description": "Update ElevenLabs agent skills from a merged weekly changelog in elevenlabs-dx, then open a pull request in elevenlabs/skills.",
+  "metadata": {
+    "sourceSet": "elevenlabs/skills",
+    "repoPath": ".agents/skills/update-skills-from-changelog/SKILL.md"
+  }
+}

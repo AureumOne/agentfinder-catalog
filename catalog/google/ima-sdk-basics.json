@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:ima-sdk-basics",
+  "displayName": "Ima Sdk Basics",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/ads/ima-sdk-basics/SKILL.md",
+  "description": "Use this skill for Interactive Media Ads (IMA) SDK client-side ad insertion when you are requesting video ads client-side into websites, apps, TVs or...",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/ads/ima-sdk-basics/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:skills:template-skill",
+  "displayName": "Template Skill",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/skills/blob/main/template/SKILL.md",
+  "description": "Replace with description of the skill and when Claude should use it.",
+  "metadata": {
+    "sourceSet": "anthropics/skills",
+    "repoPath": "template/SKILL.md"
+  }
+}

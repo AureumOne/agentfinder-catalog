@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-dev",
+  "displayName": "Shopify Dev",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-dev/SKILL.md",
+  "description": "Search Shopify developer documentation across all APIs.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-dev/SKILL.md"
+  }
+}

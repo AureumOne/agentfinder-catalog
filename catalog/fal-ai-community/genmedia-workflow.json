@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:fal-ai-community:skills:genmedia-workflow",
+  "displayName": "Genmedia Workflow",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/fal-ai-community/skills/blob/main/skills/genmedia-workflow/SKILL.md",
+  "description": "Design and execute multi-step media workflows with genmedia.",
+  "metadata": {
+    "sourceSet": "fal-ai-community/skills",
+    "repoPath": "skills/genmedia-workflow/SKILL.md"
+  }
+}

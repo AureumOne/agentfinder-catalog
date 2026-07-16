@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:vercel-labs:agent-browser:vercel-sandbox",
+  "displayName": "Vercel Sandbox",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/vercel-labs/agent-browser/blob/main/skill-data/vercel-sandbox/SKILL.md",
+  "description": "Vercel Sandbox skill.",
+  "metadata": {
+    "sourceSet": "vercel-labs/agent-browser",
+    "repoPath": "skill-data/vercel-sandbox/SKILL.md"
+  }
+}

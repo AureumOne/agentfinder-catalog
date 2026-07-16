@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:fal-ai-community:skills:genmedia",
+  "displayName": "Genmedia",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/fal-ai-community/skills/blob/main/skills/genmedia/SKILL.md",
+  "description": "Use the genmedia CLI to search, inspect, run, and manage 1200+ fal.ai model endpoints.",
+  "metadata": {
+    "sourceSet": "fal-ai-community/skills",
+    "repoPath": "skills/genmedia/SKILL.md"
+  }
+}

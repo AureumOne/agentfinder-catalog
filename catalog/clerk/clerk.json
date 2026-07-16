@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:clerk:skills:clerk",
+  "displayName": "Clerk",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/clerk/skills/blob/main/skills/core/clerk/SKILL.md",
+  "description": "Clerk authentication router.",
+  "metadata": {
+    "sourceSet": "clerk/skills",
+    "repoPath": "skills/core/clerk/SKILL.md"
+  }
+}

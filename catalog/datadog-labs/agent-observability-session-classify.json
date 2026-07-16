@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:agent-observability-session-classify",
+  "displayName": "Agent Observability Session Classify",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/agent-observability/agent-observability-session-classify/SKILL.md",
+  "description": "Classify whether user intent was satisfied in a Datadog Agent Observability trace or session.",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "agent-observability/agent-observability-session-classify/SKILL.md"
+  }
+}

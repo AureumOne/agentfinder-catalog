@@ -5,7 +5,7 @@
   "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-aspnetcore/skills/configuring-opentelemetry-dotnet/SKILL.md",
   "description": "Configure OpenTelemetry distributed tracing, metrics, and logging in ASP.NET Core using the .NET OpenTelemetry SDK.",
   "metadata": {
-    "sourceSet": "dotnet-skills",
+    "sourceSet": "dotnet/skills",
     "repoPath": "plugins/dotnet-aspnetcore/skills/configuring-opentelemetry-dotnet/SKILL.md"
   }
 }

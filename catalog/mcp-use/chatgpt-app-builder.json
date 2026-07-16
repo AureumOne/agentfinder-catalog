@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:mcp-use:mcp-use:chatgpt-app-builder",
+  "displayName": "Chatgpt App Builder",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/mcp-use/mcp-use/blob/main/skills/chatgpt-app-builder/SKILL.md",
+  "description": "Chatgpt App Builder skill.",
+  "metadata": {
+    "sourceSet": "mcp-use/mcp-use",
+    "repoPath": "skills/chatgpt-app-builder/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:firebase:skills:firebase-auth-basics",
+  "displayName": "Firebase Auth Basics",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/firebase/skills/blob/main/skills/firebase-auth-basics/SKILL.md",
+  "description": "Guide for setting up and using Firebase Authentication.",
+  "metadata": {
+    "sourceSet": "firebase/skills",
+    "repoPath": "skills/firebase-auth-basics/SKILL.md"
+  }
+}

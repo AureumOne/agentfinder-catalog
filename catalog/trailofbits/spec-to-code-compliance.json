@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:trailofbits:skills:spec-to-code-compliance",
+  "displayName": "Spec To Code Compliance",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/trailofbits/skills/blob/main/plugins/spec-to-code-compliance/skills/spec-to-code-compliance/SKILL.md",
+  "description": "Verifies code implements exactly what documentation specifies for blockchain audits.",
+  "metadata": {
+    "sourceSet": "trailofbits/skills",
+    "repoPath": "plugins/spec-to-code-compliance/skills/spec-to-code-compliance/SKILL.md"
+  }
+}

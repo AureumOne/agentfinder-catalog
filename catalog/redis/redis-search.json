@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:redis:agent-skills:redis-search",
+  "displayName": "Redis Search",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/redis/agent-skills/blob/main/skills/redis-search/SKILL.md",
+  "description": "Redis Search guidance covering FT.CREATE schema design, field type selection (TEXT, TAG, NUMERIC, GEO, GEOSHAPE, VECTOR, JSON path), DIALECT 2 query...",
+  "metadata": {
+    "sourceSet": "redis/agent-skills",
+    "repoPath": "skills/redis-search/SKILL.md"
+  }
+}

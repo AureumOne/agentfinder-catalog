@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:dart-skills-lint-setup",
+  "displayName": "Dart Skills Lint Setup",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/tool/dart_skills_lint/skills/dart-skills-lint-setup/SKILL.md",
+  "description": "This skill covers **first-time wiring** of `dart_skills_lint` into a",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": "tool/dart_skills_lint/skills/dart-skills-lint-setup/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:ClickHouse:agent-skills:clickhousectl-cloud-deploy",
+  "displayName": "Clickhousectl Cloud Deploy",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/ClickHouse/agent-skills/blob/main/skills/clickhousectl-cloud-deploy/SKILL.md",
+  "description": "Use when a user wants to deploy ClickHouse to the cloud, go to production, use ClickHouse Cloud, host a managed ClickHouse service, or migrate from a...",
+  "metadata": {
+    "sourceSet": "ClickHouse/agent-skills",
+    "repoPath": "skills/clickhousectl-cloud-deploy/SKILL.md"
+  }
+}

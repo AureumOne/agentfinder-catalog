@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:MiniMax-AI:skills:react-native-dev",
+  "displayName": "React Native Dev",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/MiniMax-AI/skills/blob/main/skills/react-native-dev/SKILL.md",
+  "description": "A practical guide for building production-ready React Native and Expo applications.",
+  "metadata": {
+    "sourceSet": "MiniMax-AI/skills",
+    "repoPath": "skills/react-native-dev/SKILL.md"
+  }
+}

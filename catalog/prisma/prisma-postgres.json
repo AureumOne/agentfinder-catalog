@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:prisma:skills:prisma-postgres",
+  "displayName": "Prisma Postgres",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/prisma/skills/blob/main/prisma-postgres/SKILL.md",
+  "description": "Prisma Postgres setup and operations guidance across Console, create-db CLI, Management API, and Management API SDK.",
+  "metadata": {
+    "sourceSet": "prisma/skills",
+    "repoPath": "prisma-postgres/SKILL.md"
+  }
+}

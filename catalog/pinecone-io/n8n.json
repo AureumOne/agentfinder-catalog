@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:pinecone-io:pinecone-claude-code-plugin:n8n",
+  "displayName": "N8N",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/pinecone-io/pinecone-claude-code-plugin/blob/main/skills/n8n/SKILL.md",
+  "description": "N8N skill.",
+  "metadata": {
+    "sourceSet": "pinecone-io/pinecone-claude-code-plugin",
+    "repoPath": "skills/n8n/SKILL.md"
+  }
+}

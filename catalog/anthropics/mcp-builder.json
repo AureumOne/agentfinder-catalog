@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:skills:mcp-builder",
+  "displayName": "Mcp Builder",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/skills/blob/main/skills/mcp-builder/SKILL.md",
+  "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools.",
+  "metadata": {
+    "sourceSet": "anthropics/skills",
+    "repoPath": "skills/mcp-builder/SKILL.md"
+  }
+}

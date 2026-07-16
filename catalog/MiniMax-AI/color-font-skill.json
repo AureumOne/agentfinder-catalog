@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:MiniMax-AI:skills:color-font-skill",
+  "displayName": "Color Font Skill",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/MiniMax-AI/skills/blob/main/plugins/pptx-plugin/skills/color-font-skill/SKILL.md",
+  "description": "Choose presentation-ready color palettes and font pairings for PPT/design tasks.",
+  "metadata": {
+    "sourceSet": "MiniMax-AI/skills",
+    "repoPath": "plugins/pptx-plugin/skills/color-font-skill/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:apify:agent-skills:apify-ultimate-scraper",
+  "displayName": "Apify Ultimate Scraper",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/apify/agent-skills/blob/main/skills/apify-ultimate-scraper/SKILL.md",
+  "description": "Apify Ultimate Scraper skill.",
+  "metadata": {
+    "sourceSet": "apify/agent-skills",
+    "repoPath": "skills/apify-ultimate-scraper/SKILL.md"
+  }
+}

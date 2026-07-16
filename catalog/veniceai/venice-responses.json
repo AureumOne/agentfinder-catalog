@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:veniceai:skills:venice-responses",
+  "displayName": "Venice Responses",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/veniceai/skills/blob/main/skills/venice-responses/SKILL.md",
+  "description": "Use Venice's Alpha POST /responses endpoint - an OpenAI-compatible Responses API with typed output blocks (reasoning, message, function_call...",
+  "metadata": {
+    "sourceSet": "veniceai/skills",
+    "repoPath": "skills/venice-responses/SKILL.md"
+  }
+}

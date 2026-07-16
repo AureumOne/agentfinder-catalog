@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:security-best-practices",
+  "displayName": "Security Best Practices",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/security-best-practices/SKILL.md",
+  "description": "Perform language and framework specific security best-practice reviews and suggest improvements.",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/security-best-practices/SKILL.md"
+  }
+}

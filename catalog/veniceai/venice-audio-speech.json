@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:veniceai:skills:venice-audio-speech",
+  "displayName": "Venice Audio Speech",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/veniceai/skills/blob/main/skills/venice-audio-speech/SKILL.md",
+  "description": "Generate speech from text via POST /audio/speech.",
+  "metadata": {
+    "sourceSet": "veniceai/skills",
+    "repoPath": "skills/venice-audio-speech/SKILL.md"
+  }
+}

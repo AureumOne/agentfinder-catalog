@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:valid",
+  "displayName": "Valid",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/tool/dart_skills_lint/example/valid/SKILL.md",
+  "description": "Reference fixture for dart_skills_lint.",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": "tool/dart_skills_lint/example/valid/SKILL.md"
+  }
+}

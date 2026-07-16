@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:clerk:skills:audit-expo-skill",
+  "displayName": "Audit Expo Skill",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/clerk/skills/blob/main/.agents/skills/audit-expo-skill/SKILL.md",
+  "description": "Audits the bundled `clerk-expo` skill against the @clerk/expo SDK source and clerk-docs, then proposes or applies updates.",
+  "metadata": {
+    "sourceSet": "clerk/skills",
+    "repoPath": ".agents/skills/audit-expo-skill/SKILL.md"
+  }
+}

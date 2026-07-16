@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:brave:brave-search-skills:bx-search",
+  "displayName": "Bx Search",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/brave/brave-search-skills/blob/main/clawhub/bx-search/SKILL.md",
+  "description": "Web search using the Brave Search CLI (`bx`).",
+  "metadata": {
+    "sourceSet": "brave/brave-search-skills",
+    "repoPath": "clawhub/bx-search/SKILL.md"
+  }
+}

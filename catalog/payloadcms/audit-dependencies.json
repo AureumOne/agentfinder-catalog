@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:payloadcms:payload:audit-dependencies",
+  "displayName": "Audit Dependencies",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/payloadcms/payload/blob/main/.claude/skills/audit-dependencies/SKILL.md",
+  "description": "Audit Dependencies skill.",
+  "metadata": {
+    "sourceSet": "payloadcms/payload",
+    "repoPath": ".claude/skills/audit-dependencies/SKILL.md"
+  }
+}

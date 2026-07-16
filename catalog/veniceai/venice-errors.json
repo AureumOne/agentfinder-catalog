@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:veniceai:skills:venice-errors",
+  "displayName": "Venice Errors",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/veniceai/skills/blob/main/skills/venice-errors/SKILL.md",
+  "description": "Handle Venice API errors correctly.",
+  "metadata": {
+    "sourceSet": "veniceai/skills",
+    "repoPath": "skills/venice-errors/SKILL.md"
+  }
+}

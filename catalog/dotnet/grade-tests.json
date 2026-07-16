@@ -5,7 +5,7 @@
   "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-test/skills/grade-tests/SKILL.md",
   "description": "Grades a specified set of test methods individually and produces a concise table mapping each test (fully-qualified name) to a letter grade (A-F), a...",
   "metadata": {
-    "sourceSet": "dotnet-skills",
+    "sourceSet": "dotnet/skills",
     "repoPath": "plugins/dotnet-test/skills/grade-tests/SKILL.md"
   }
 }

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:binance:binance-skills-hub:payment-assistant",
+  "displayName": "Payment Assistant",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/binance/binance-skills-hub/blob/main/skills/binance/payment/SKILL.md",
+  "description": "Binance Pay Assistant - Send and Receive crypto payments.",
+  "metadata": {
+    "sourceSet": "binance/binance-skills-hub",
+    "repoPath": "skills/binance/payment/SKILL.md"
+  }
+}

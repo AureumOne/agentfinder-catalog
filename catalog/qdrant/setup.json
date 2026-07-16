@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:setup",
+  "displayName": "Setup",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-monitoring/setup/SKILL.md",
+  "description": "Setup skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "skills/qdrant-monitoring/setup/SKILL.md"
+  }
+}

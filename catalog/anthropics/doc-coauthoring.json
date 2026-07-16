@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:skills:doc-coauthoring",
+  "displayName": "Doc Coauthoring",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/skills/blob/main/skills/doc-coauthoring/SKILL.md",
+  "description": "Guide users through a structured workflow for co-authoring documentation.",
+  "metadata": {
+    "sourceSet": "anthropics/skills",
+    "repoPath": "skills/doc-coauthoring/SKILL.md"
+  }
+}

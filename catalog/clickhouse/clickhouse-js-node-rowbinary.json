@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:ClickHouse:agent-skills:clickhouse-js-node-rowbinary",
+  "displayName": "Clickhouse Js Node Rowbinary",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/ClickHouse/agent-skills/blob/main/skills/clickhouse-js-node-rowbinary/SKILL.md",
+  "description": "Generate TypeScript/JavaScript code that reads/decodes AND writes/encodes ClickHouse RowBinary streams for the ClickHouse HTTP server.",
+  "metadata": {
+    "sourceSet": "ClickHouse/agent-skills",
+    "repoPath": "skills/clickhouse-js-node-rowbinary/SKILL.md"
+  }
+}

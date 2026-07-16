@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:coinbase:agentic-wallet-skills:agentic-wallet",
+  "displayName": "Agentic Wallet",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/coinbase/agentic-wallet-skills/blob/main/skills/agentic-wallet/SKILL.md",
+  "description": "Crypto wallet operations via the awal CLI - sign in, check balances, send USDC/ETH/POL/SOL, trade tokens, fund the wallet, and use the x402 payment...",
+  "metadata": {
+    "sourceSet": "coinbase/agentic-wallet-skills",
+    "repoPath": "skills/agentic-wallet/SKILL.md"
+  }
+}

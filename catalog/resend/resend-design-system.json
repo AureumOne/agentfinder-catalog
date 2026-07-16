@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:resend:design-skills:resend-design-system",
+  "displayName": "Resend Design System",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/resend/design-skills/blob/main/SKILL.md",
+  "description": "Use when building or modifying UI in the Resend codebase.",
+  "metadata": {
+    "sourceSet": "resend/design-skills",
+    "repoPath": "SKILL.md"
+  }
+}

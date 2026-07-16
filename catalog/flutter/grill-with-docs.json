@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:grill-with-docs",
+  "displayName": "Grill With Docs",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/.agents/agents/reidbaker-agent/skills/grill-with-docs/SKILL.md",
+  "description": "Grilling session that challenges your plan against the existing domain model, sharpens terminology, and updates documentation (CONTEXT.md, ADRs)...",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": ".agents/agents/reidbaker-agent/skills/grill-with-docs/SKILL.md"
+  }
+}

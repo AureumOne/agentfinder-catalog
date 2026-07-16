@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:trailofbits:skills:designing-workflow-skills",
+  "displayName": "Designing Workflow Skills",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/trailofbits/skills/blob/main/plugins/workflow-skill-design/skills/designing-workflow-skills/SKILL.md",
+  "description": "Guides the design and structuring of workflow-based Claude Code skills with multi-step phases, decision trees, subagent delegation, and progressive...",
+  "metadata": {
+    "sourceSet": "trailofbits/skills",
+    "repoPath": "plugins/workflow-skill-design/skills/designing-workflow-skills/SKILL.md"
+  }
+}

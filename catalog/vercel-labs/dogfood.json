@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:vercel-labs:agent-browser:dogfood",
+  "displayName": "Dogfood",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/vercel-labs/agent-browser/blob/main/skill-data/dogfood/SKILL.md",
+  "description": "Dogfood skill.",
+  "metadata": {
+    "sourceSet": "vercel-labs/agent-browser",
+    "repoPath": "skill-data/dogfood/SKILL.md"
+  }
+}

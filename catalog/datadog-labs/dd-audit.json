@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:dd-audit",
+  "displayName": "Dd Audit",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-audit/SKILL.md",
+  "description": "Audit Trail investigations - who changed what, key compromise, cost spike root cause, compliance evidence (SOC 2/PCI), and AI activity auditing.",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-audit/SKILL.md"
+  }
+}

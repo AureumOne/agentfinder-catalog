@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:elevenlabs:skills:voice-changer",
+  "displayName": "Voice Changer",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/elevenlabs/skills/blob/main/voice-changer/SKILL.md",
+  "description": "Transform the voice in an audio recording into a different target voice while preserving emotion, timing, and delivery using the ElevenLabs Voice...",
+  "metadata": {
+    "sourceSet": "elevenlabs/skills",
+    "repoPath": "voice-changer/SKILL.md"
+  }
+}

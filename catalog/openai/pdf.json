@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:pdf",
+  "displayName": "Pdf",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/pdf/SKILL.md",
+  "description": "Use when tasks involve reading, creating, or reviewing PDF files where rendering and layout matter; prefer visual checks by rendering pages (Poppler)...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/pdf/SKILL.md"
+  }
+}

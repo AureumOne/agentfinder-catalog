@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:browserbase:skills:safe-browser",
+  "displayName": "Safe Browser",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/browserbase/skills/blob/main/skills/safe-browser/SKILL.md",
+  "description": "Skill for safe-browser.",
+  "metadata": {
+    "sourceSet": "browserbase/skills",
+    "repoPath": "skills/safe-browser/SKILL.md"
+  }
+}

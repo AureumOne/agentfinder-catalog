@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:defending-code-reference-harness:quickstart",
+  "displayName": "Quickstart",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/defending-code-reference-harness/blob/main/.claude/skills/quickstart/SKILL.md",
+  "description": "The front door for this repo.",
+  "metadata": {
+    "sourceSet": "anthropics/defending-code-reference-harness",
+    "repoPath": ".claude/skills/quickstart/SKILL.md"
+  }
+}

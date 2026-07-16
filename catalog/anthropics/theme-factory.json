@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:skills:theme-factory",
+  "displayName": "Theme Factory",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/skills/blob/main/skills/theme-factory/SKILL.md",
+  "description": "Toolkit for styling artifacts with a theme.",
+  "metadata": {
+    "sourceSet": "anthropics/skills",
+    "repoPath": "skills/theme-factory/SKILL.md"
+  }
+}

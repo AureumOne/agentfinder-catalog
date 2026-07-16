@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:mongodb:agent-skills:mongodb-query-optimizer",
+  "displayName": "Mongodb Query Optimizer",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/mongodb/agent-skills/blob/main/skills/mongodb-query-optimizer/SKILL.md",
+  "description": "Help with MongoDB query optimization and indexing.",
+  "metadata": {
+    "sourceSet": "mongodb/agent-skills",
+    "repoPath": "skills/mongodb-query-optimizer/SKILL.md"
+  }
+}

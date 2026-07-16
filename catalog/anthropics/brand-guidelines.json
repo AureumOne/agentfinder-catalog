@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:skills:brand-guidelines",
+  "displayName": "Brand Guidelines",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/skills/blob/main/skills/brand-guidelines/SKILL.md",
+  "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel.",
+  "metadata": {
+    "sourceSet": "anthropics/skills",
+    "repoPath": "skills/brand-guidelines/SKILL.md"
+  }
+}

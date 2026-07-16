@@ -5,7 +5,7 @@
   "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-maui/skills/dotnet-maui-doctor/SKILL.md",
   "description": "Diagnoses and fixes .NET MAUI development environment issues.",
   "metadata": {
-    "sourceSet": "dotnet-skills",
+    "sourceSet": "dotnet/skills",
     "repoPath": "plugins/dotnet-maui/skills/dotnet-maui-doctor/SKILL.md"
   }
 }

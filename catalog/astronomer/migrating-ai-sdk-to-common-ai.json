@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:astronomer:agents:migrating-ai-sdk-to-common-ai",
+  "displayName": "Migrating Ai Sdk To Common Ai",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/astronomer/agents/blob/main/skills/migrating-ai-sdk-to-common-ai/SKILL.md",
+  "description": "Migrating Ai Sdk To Common Ai skill.",
+  "metadata": {
+    "sourceSet": "astronomer/agents",
+    "repoPath": "skills/migrating-ai-sdk-to-common-ai/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-reliability",
+  "displayName": "Gke Reliability",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-reliability/SKILL.md",
+  "description": "Improves GKE workload reliability, using PDBs, health probes, and topology spread constraints.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-reliability/SKILL.md"
+  }
+}

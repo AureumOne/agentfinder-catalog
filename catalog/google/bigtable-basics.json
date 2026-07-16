@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:bigtable-basics",
+  "displayName": "Bigtable Basics",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/bigtable-basics/SKILL.md",
+  "description": "Assists in provisioning instances/tables, designing performant schemas, and querying data in Bigtable.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/bigtable-basics/SKILL.md"
+  }
+}

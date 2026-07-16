@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:elevenlabs:skills:text-to-speech",
+  "displayName": "Text To Speech",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/elevenlabs/skills/blob/main/text-to-speech/SKILL.md",
+  "description": "Convert text to speech using ElevenLabs voice AI.",
+  "metadata": {
+    "sourceSet": "elevenlabs/skills",
+    "repoPath": "text-to-speech/SKILL.md"
+  }
+}

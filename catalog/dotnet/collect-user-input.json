@@ -5,7 +5,7 @@
   "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-blazor/skills/collect-user-input/SKILL.md",
   "description": "Build forms, validate data, and react to user input in Blazor.",
   "metadata": {
-    "sourceSet": "dotnet-skills",
+    "sourceSet": "dotnet/skills",
     "repoPath": "plugins/dotnet-blazor/skills/collect-user-input/SKILL.md"
   }
 }

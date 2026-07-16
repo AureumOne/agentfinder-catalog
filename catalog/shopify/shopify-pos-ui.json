@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-pos-ui",
+  "displayName": "Shopify Pos Ui",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-pos-ui/SKILL.md",
+  "description": "Build retail point-of-sale applications using Shopify's POS UI components.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-pos-ui/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:dd-audit-key-compromise",
+  "displayName": "Dd Audit Key Compromise",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-audit/key-compromise/SKILL.md",
+  "description": "Investigate a potentially compromised Datadog API key - timeline of actions, geo/IP breakdown, endpoints called, anomaly flags, and remediation steps.",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-audit/key-compromise/SKILL.md"
+  }
+}

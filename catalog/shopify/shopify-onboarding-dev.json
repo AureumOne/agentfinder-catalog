@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-onboarding-dev",
+  "displayName": "Shopify Onboarding Dev",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-onboarding-dev/SKILL.md",
+  "description": "Get started building on Shopify.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-onboarding-dev/SKILL.md"
+  }
+}

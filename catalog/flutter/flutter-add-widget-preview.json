@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:flutter-add-widget-preview",
+  "displayName": "Flutter Add Widget Preview",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/skills/flutter-add-widget-preview/SKILL.md",
+  "description": "Adds interactive widget previews to the project using the previews.dart system.",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": "skills/flutter-add-widget-preview/SKILL.md"
+  }
+}

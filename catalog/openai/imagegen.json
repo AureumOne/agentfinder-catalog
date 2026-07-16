@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:imagegen",
+  "displayName": "Imagegen",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.system/imagegen/SKILL.md",
+  "description": "Generate or edit raster images when the task benefits from AI-created bitmap visuals such as photos, illustrations, textures, sprites, mockups, or...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.system/imagegen/SKILL.md"
+  }
+}

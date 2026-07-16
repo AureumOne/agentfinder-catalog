@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:brave:brave-search-skills:spellcheck",
+  "displayName": "Spellcheck",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/brave/brave-search-skills/blob/main/skills/spellcheck/SKILL.md",
+  "description": "USE FOR spell correction.",
+  "metadata": {
+    "sourceSet": "brave/brave-search-skills",
+    "repoPath": "skills/spellcheck/SKILL.md"
+  }
+}

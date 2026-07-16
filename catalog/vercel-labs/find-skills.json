@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:vercel-labs:skills:find-skills",
+  "displayName": "Find Skills",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/vercel-labs/skills/blob/main/skills/find-skills/SKILL.md",
+  "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or...",
+  "metadata": {
+    "sourceSet": "vercel-labs/skills",
+    "repoPath": "skills/find-skills/SKILL.md"
+  }
+}

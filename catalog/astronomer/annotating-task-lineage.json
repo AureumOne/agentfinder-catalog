@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:astronomer:agents:annotating-task-lineage",
+  "displayName": "Annotating Task Lineage",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/astronomer/agents/blob/main/skills/annotating-task-lineage/SKILL.md",
+  "description": "Annotating Task Lineage skill.",
+  "metadata": {
+    "sourceSet": "astronomer/agents",
+    "repoPath": "skills/annotating-task-lineage/SKILL.md"
+  }
+}

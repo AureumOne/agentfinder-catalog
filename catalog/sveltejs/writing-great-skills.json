@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:sveltejs:ai-tools:writing-great-skills",
+  "displayName": "Writing Great Skills",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/sveltejs/ai-tools/blob/main/.agents/skills/writing-great-skills/SKILL.md",
+  "description": "Writing Great Skills skill.",
+  "metadata": {
+    "sourceSet": "sveltejs/ai-tools",
+    "repoPath": ".agents/skills/writing-great-skills/SKILL.md"
+  }
+}

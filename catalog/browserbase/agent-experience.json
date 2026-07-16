@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:browserbase:skills:agent-experience",
+  "displayName": "Agent Experience",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/browserbase/skills/blob/main/skills/agent-experience/SKILL.md",
+  "description": "Audit the developer experience of a product, SDK, docs site, or SKILL.md by dropping multiple Claude subagents at it with only a tiny task prompt and...",
+  "metadata": {
+    "sourceSet": "browserbase/skills",
+    "repoPath": "skills/agent-experience/SKILL.md"
+  }
+}

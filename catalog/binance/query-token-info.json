@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:binance:binance-skills-hub:query-token-info",
+  "displayName": "Query Token Info",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/binance/binance-skills-hub/blob/main/skills/binance-web3/query-token-info/SKILL.md",
+  "description": "Four read-only token endpoints fronted by one CLI.",
+  "metadata": {
+    "sourceSet": "binance/binance-skills-hub",
+    "repoPath": "skills/binance-web3/query-token-info/SKILL.md"
+  }
+}

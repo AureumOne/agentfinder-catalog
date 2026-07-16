@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:gh-address-comments",
+  "displayName": "Gh Address Comments",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/gh-address-comments/SKILL.md",
+  "description": "Help address review/issue comments on the open GitHub PR for the current branch using gh CLI; verify gh auth first and prompt the user to...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/gh-address-comments/SKILL.md"
+  }
+}

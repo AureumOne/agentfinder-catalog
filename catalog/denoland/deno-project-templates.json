@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:denoland:skills:deno-project-templates",
+  "displayName": "Deno Project Templates",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/denoland/skills/blob/main/skills/deno-project-templates/SKILL.md",
+  "description": "Deno Project Templates skill.",
+  "metadata": {
+    "sourceSet": "denoland/skills",
+    "repoPath": "skills/deno-project-templates/SKILL.md"
+  }
+}

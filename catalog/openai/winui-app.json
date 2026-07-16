@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:winui-app",
+  "displayName": "Winui App",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/winui-app/SKILL.md",
+  "description": "Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using official Microsoft guidance, WinUI Gallery...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/winui-app/SKILL.md"
+  }
+}

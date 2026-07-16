@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-customer",
+  "displayName": "Shopify Customer",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-customer/SKILL.md",
+  "description": "The Customer Account API allows customers to access their own data including orders, payment methods, and addresses.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-customer/SKILL.md"
+  }
+}

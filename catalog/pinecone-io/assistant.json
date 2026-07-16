@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:pinecone-io:pinecone-claude-code-plugin:assistant",
+  "displayName": "Assistant",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/pinecone-io/pinecone-claude-code-plugin/blob/main/skills/assistant/SKILL.md",
+  "description": "Assistant skill.",
+  "metadata": {
+    "sourceSet": "pinecone-io/pinecone-claude-code-plugin",
+    "repoPath": "skills/assistant/SKILL.md"
+  }
+}

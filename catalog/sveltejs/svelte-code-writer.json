@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:sveltejs:ai-tools:svelte-code-writer",
+  "displayName": "Svelte Code Writer",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/sveltejs/ai-tools/blob/main/tools/skills/svelte-code-writer/SKILL.md",
+  "description": "Svelte Code Writer skill.",
+  "metadata": {
+    "sourceSet": "sveltejs/ai-tools",
+    "repoPath": "tools/skills/svelte-code-writer/SKILL.md"
+  }
+}

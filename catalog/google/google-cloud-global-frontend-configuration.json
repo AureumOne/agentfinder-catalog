@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:google-cloud-global-frontend-configuration",
+  "displayName": "Google Cloud Global Frontend Configuration",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-global-frontend-configuration/SKILL.md",
+  "description": "This skill enables the agent to guide users through a structured, 6-step discovery process to design and deploy Google Cloud global external...",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/google-cloud-global-frontend-configuration/SKILL.md"
+  }
+}

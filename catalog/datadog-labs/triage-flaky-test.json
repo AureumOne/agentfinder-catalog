@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:triage-flaky-test",
+  "displayName": "Triage Flaky Test",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-software-delivery/triage-flaky-test/SKILL.md",
+  "description": "Load when investigating a specific flaky test.",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-software-delivery/triage-flaky-test/SKILL.md"
+  }
+}

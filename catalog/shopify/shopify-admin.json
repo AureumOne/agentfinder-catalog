@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-admin",
+  "displayName": "Shopify Admin",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-admin/SKILL.md",
+  "description": "Write or explain **Admin GraphQL** queries and mutations for apps and integrations that extend the Shopify admin.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-admin/SKILL.md"
+  }
+}

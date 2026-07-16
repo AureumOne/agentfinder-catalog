@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-onboarding-merchant",
+  "displayName": "Shopify Onboarding Merchant",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-onboarding-merchant/SKILL.md",
+  "description": "Set up and connect a Shopify store from your AI assistant.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-onboarding-merchant/SKILL.md"
+  }
+}

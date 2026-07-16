@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:redis:agent-skills:redis-semantic-cache",
+  "displayName": "Redis Semantic Cache",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/redis/agent-skills/blob/main/skills/redis-semantic-cache/SKILL.md",
+  "description": "Redis LangCache guidance for semantic caching of LLM responses on Redis Cloud - calling search/set via the SDK or REST API, tuning the similarity...",
+  "metadata": {
+    "sourceSet": "redis/agent-skills",
+    "repoPath": "skills/redis-semantic-cache/SKILL.md"
+  }
+}

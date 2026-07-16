@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:fal-ai-community:skills:model-routing",
+  "displayName": "Model Routing",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/fal-ai-community/skills/blob/main/skills/model-routing/SKILL.md",
+  "description": "Choose default fal.ai endpoint IDs for genmedia production skills.",
+  "metadata": {
+    "sourceSet": "fal-ai-community/skills",
+    "repoPath": "skills/model-routing/SKILL.md"
+  }
+}

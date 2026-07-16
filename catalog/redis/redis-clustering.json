@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:redis:agent-skills:redis-clustering",
+  "displayName": "Redis Clustering",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/redis/agent-skills/blob/main/skills/redis-clustering/SKILL.md",
+  "description": "Redis Cluster and replication guidance covering hash tags for multi-key operations, avoiding CROSSSLOT errors, and reading from replicas to scale...",
+  "metadata": {
+    "sourceSet": "redis/agent-skills",
+    "repoPath": "skills/redis-clustering/SKILL.md"
+  }
+}

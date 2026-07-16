@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:veniceai:skills:venice-characters",
+  "displayName": "Venice Characters",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/veniceai/skills/blob/main/skills/venice-characters/SKILL.md",
+  "description": "Discover and use Venice public characters (persona-driven system prompts with a bound model).",
+  "metadata": {
+    "sourceSet": "veniceai/skills",
+    "repoPath": "skills/venice-characters/SKILL.md"
+  }
+}

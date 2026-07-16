@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:astronomer:agents:warehouse-init",
+  "displayName": "Warehouse Init",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/astronomer/agents/blob/main/skills/warehouse-init/SKILL.md",
+  "description": "Warehouse Init skill.",
+  "metadata": {
+    "sourceSet": "astronomer/agents",
+    "repoPath": "skills/warehouse-init/SKILL.md"
+  }
+}

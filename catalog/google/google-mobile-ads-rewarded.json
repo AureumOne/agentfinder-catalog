@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:google-mobile-ads-rewarded",
+  "displayName": "Google Mobile Ads Rewarded",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/ads/google-mobile-ads-rewarded/SKILL.md",
+  "description": "Provides instructions for implementing, integrating, or configuring",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/ads/google-mobile-ads-rewarded/SKILL.md"
+  }
+}

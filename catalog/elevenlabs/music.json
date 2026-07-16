@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:elevenlabs:skills:music",
+  "displayName": "Music",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/elevenlabs/skills/blob/main/music/SKILL.md",
+  "description": "Generate music using ElevenLabs Music API.",
+  "metadata": {
+    "sourceSet": "elevenlabs/skills",
+    "repoPath": "music/SKILL.md"
+  }
+}

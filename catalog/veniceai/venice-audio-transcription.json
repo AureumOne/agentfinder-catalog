@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:veniceai:skills:venice-audio-transcription",
+  "displayName": "Venice Audio Transcription",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/veniceai/skills/blob/main/skills/venice-audio-transcription/SKILL.md",
+  "description": "Transcribe audio files to text via POST /audio/transcriptions.",
+  "metadata": {
+    "sourceSet": "veniceai/skills",
+    "repoPath": "skills/venice-audio-transcription/SKILL.md"
+  }
+}

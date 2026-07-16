@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:axiomhq:cli:explore-dataset",
+  "displayName": "Explore Dataset",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/axiomhq/cli/blob/main/skills/explore-dataset/SKILL.md",
+  "description": "Explore Dataset skill.",
+  "metadata": {
+    "sourceSet": "axiomhq/cli",
+    "repoPath": "skills/explore-dataset/SKILL.md"
+  }
+}

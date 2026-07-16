@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:trailofbits:skills:differential-review",
+  "displayName": "Differential Review",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/trailofbits/skills/blob/main/plugins/differential-review/skills/differential-review/SKILL.md",
+  "description": "Performs security-focused differential review of code changes (PRs, commits, diffs).",
+  "metadata": {
+    "sourceSet": "trailofbits/skills",
+    "repoPath": "plugins/differential-review/skills/differential-review/SKILL.md"
+  }
+}

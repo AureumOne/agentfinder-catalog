@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:brave:brave-search-skills:suggest",
+  "displayName": "Suggest",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/brave/brave-search-skills/blob/main/skills/suggest/SKILL.md",
+  "description": "USE FOR query autocomplete/suggestions.",
+  "metadata": {
+    "sourceSet": "brave/brave-search-skills",
+    "repoPath": "skills/suggest/SKILL.md"
+  }
+}

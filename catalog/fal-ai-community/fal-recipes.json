@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:fal-ai-community:skills:fal-recipes",
+  "displayName": "Fal Recipes",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/fal-ai-community/skills/blob/main/skills/fal-recipes/SKILL.md",
+  "description": "Use-case-driven multi-step pipelines on fal.ai.",
+  "metadata": {
+    "sourceSet": "fal-ai-community/skills",
+    "repoPath": "skills/fal-recipes/SKILL.md"
+  }
+}

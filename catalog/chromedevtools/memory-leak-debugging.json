@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:ChromeDevTools:chrome-devtools-mcp:memory-leak-debugging",
+  "displayName": "Memory Leak Debugging",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp/blob/main/skills/memory-leak-debugging/SKILL.md",
+  "description": "Memory Leak Debugging skill.",
+  "metadata": {
+    "sourceSet": "ChromeDevTools/chrome-devtools-mcp",
+    "repoPath": "skills/memory-leak-debugging/SKILL.md"
+  }
+}

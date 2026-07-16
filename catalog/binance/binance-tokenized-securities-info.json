@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:binance:binance-skills-hub:binance-tokenized-securities-info",
+  "displayName": "Binance Tokenized Securities Info",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/binance/binance-skills-hub/blob/main/skills/binance-web3/binance-tokenized-securities-info/SKILL.md",
+  "description": "Binance Tokenized Securities Info - AI skill.",
+  "metadata": {
+    "sourceSet": "binance/binance-skills-hub",
+    "repoPath": "skills/binance-web3/binance-tokenized-securities-info/SKILL.md"
+  }
+}
