@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:astronomer:agents:setting-up-astro-project",
+  "displayName": "Setting Up Astro Project",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/astronomer/agents/blob/main/skills/setting-up-astro-project/SKILL.md",
+  "description": "Setting Up Astro Project skill.",
+  "metadata": {
+    "sourceSet": "astronomer/agents",
+    "repoPath": "skills/setting-up-astro-project/SKILL.md"
+  }
+}

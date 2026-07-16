@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:skills:web-artifacts-builder",
+  "displayName": "Web Artifacts Builder",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/skills/blob/main/skills/web-artifacts-builder/SKILL.md",
+  "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS...",
+  "metadata": {
+    "sourceSet": "anthropics/skills",
+    "repoPath": "skills/web-artifacts-builder/SKILL.md"
+  }
+}

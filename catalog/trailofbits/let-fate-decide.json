@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:trailofbits:skills:let-fate-decide",
+  "displayName": "Let Fate Decide",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/trailofbits/skills/blob/main/plugins/let-fate-decide/skills/let-fate-decide/SKILL.md",
+  "description": "Draws the 12 Houses of the Zodiac Tarot spread to inject entropy into planning when prompts are vague, ambiguous, or casually delegated.",
+  "metadata": {
+    "sourceSet": "trailofbits/skills",
+    "repoPath": "plugins/let-fate-decide/skills/let-fate-decide/SKILL.md"
+  }
+}

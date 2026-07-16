@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-security",
+  "displayName": "Gke Security",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-security/SKILL.md",
+  "description": "Plans, configures, and hardens Google Kubernetes Engine (GKE) security.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-security/SKILL.md"
+  }
+}

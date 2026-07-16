@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:makenotion:skills:notion-cli",
+  "displayName": "Notion Cli",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/makenotion/skills/blob/main/skills/notion-cli/SKILL.md",
+  "description": "Use the Notion CLI (`ntn`) to interact with the Notion API, manage workers, and upload files.",
+  "metadata": {
+    "sourceSet": "makenotion/skills",
+    "repoPath": "skills/notion-cli/SKILL.md"
+  }
+}

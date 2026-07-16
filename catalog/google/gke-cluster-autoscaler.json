@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-cluster-autoscaler",
+  "displayName": "Gke Cluster Autoscaler",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-cluster-autoscaler/SKILL.md",
+  "description": "Trigger on mention of GKE cluster autoscaler, node autoscaling, node pool auto-creation / node auto-provisioning.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-cluster-autoscaler/SKILL.md"
+  }
+}

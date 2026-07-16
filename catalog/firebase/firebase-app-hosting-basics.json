@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:firebase:skills:firebase-app-hosting-basics",
+  "displayName": "Firebase App Hosting Basics",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/firebase/skills/blob/main/skills/firebase-app-hosting-basics/SKILL.md",
+  "description": "Deploy and manage web apps with Firebase App Hosting.",
+  "metadata": {
+    "sourceSet": "firebase/skills",
+    "repoPath": "skills/firebase-app-hosting-basics/SKILL.md"
+  }
+}

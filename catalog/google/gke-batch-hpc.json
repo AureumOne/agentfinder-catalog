@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-batch-hpc",
+  "displayName": "Gke Batch Hpc",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-batch-hpc/SKILL.md",
+  "description": "Runs batch and HPC workloads on GKE, utilizing job queues and parallel processing.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-batch-hpc/SKILL.md"
+  }
+}

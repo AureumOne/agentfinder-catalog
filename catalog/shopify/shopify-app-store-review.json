@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-app-store-review",
+  "displayName": "Shopify App Store Review",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-app-store-review/SKILL.md",
+  "description": "Run a pre-submission compliance check against your Shopify app's codebase.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-app-store-review/SKILL.md"
+  }
+}

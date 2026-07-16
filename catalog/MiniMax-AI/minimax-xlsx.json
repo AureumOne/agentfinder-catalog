@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:MiniMax-AI:skills:minimax-xlsx",
+  "displayName": "Minimax Xlsx",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/MiniMax-AI/skills/blob/main/skills/minimax-xlsx/SKILL.md",
+  "description": "Open, create, read, analyze, edit, or validate Excel/spreadsheet files (.xlsx, .xlsm, .csv, .tsv).",
+  "metadata": {
+    "sourceSet": "MiniMax-AI/skills",
+    "repoPath": "skills/minimax-xlsx/SKILL.md"
+  }
+}

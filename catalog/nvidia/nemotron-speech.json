@@ -5,7 +5,7 @@
   "url": "https://github.com/NVIDIA/skills/blob/main/skills/nemotron-speech/SKILL.md",
   "description": "NVIDIA skill definition for nemotron-speech.",
   "metadata": {
-    "sourceSet": "nvidia-skills",
+    "sourceSet": "NVIDIA/skills",
     "repoPath": "skills/nemotron-speech/SKILL.md"
   }
 }

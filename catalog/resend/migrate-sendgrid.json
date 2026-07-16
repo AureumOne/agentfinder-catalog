@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:resend:resend-migration-skill:migrate-sendgrid",
+  "displayName": "Migrate Sendgrid",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/resend/resend-migration-skill/blob/main/migrate-sendgrid/SKILL.md",
+  "description": "Use when migrating SendGrid email integration to Resend - detects @sendgrid/mail, sgMail, sendgrid-ruby, sendgrid-go, sendgrid-java, sendgrid-php, or...",
+  "metadata": {
+    "sourceSet": "resend/resend-migration-skill",
+    "repoPath": "migrate-sendgrid/SKILL.md"
+  }
+}

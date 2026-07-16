@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:browserbase:skills:webmcp-gen",
+  "displayName": "Webmcp Gen",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/browserbase/skills/blob/main/skills/webmcp-gen/SKILL.md",
+  "description": "Create, compile, and validate site-specific WebMCP init scripts from a target URL and desired tool capability.",
+  "metadata": {
+    "sourceSet": "browserbase/skills",
+    "repoPath": "skills/webmcp-gen/SKILL.md"
+  }
+}

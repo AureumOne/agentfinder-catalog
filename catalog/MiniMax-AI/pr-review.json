@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:MiniMax-AI:skills:pr-review",
+  "displayName": "Pr Review",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/MiniMax-AI/skills/blob/main/.claude/skills/pr-review/SKILL.md",
+  "description": "Review pull requests for the MiniMax Skills repository.",
+  "metadata": {
+    "sourceSet": "MiniMax-AI/skills",
+    "repoPath": ".claude/skills/pr-review/SKILL.md"
+  }
+}

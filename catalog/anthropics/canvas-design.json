@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:skills:canvas-design",
+  "displayName": "Canvas Design",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md",
+  "description": "Create beautiful visual art in .png and .pdf documents using design philosophy.",
+  "metadata": {
+    "sourceSet": "anthropics/skills",
+    "repoPath": "skills/canvas-design/SKILL.md"
+  }
+}

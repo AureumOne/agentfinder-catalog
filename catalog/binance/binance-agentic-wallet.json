@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:binance:binance-skills-hub:binance-agentic-wallet",
+  "displayName": "Binance Agentic Wallet",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/binance/binance-skills-hub/blob/main/skills/binance-web3/binance-agentic-wallet/SKILL.md",
+  "description": "This skill drives the `baw` CLI to manage a Binance Web3 wallet - sign-in/sign-out, balance and history queries, security settings, token transfers...",
+  "metadata": {
+    "sourceSet": "binance/binance-skills-hub",
+    "repoPath": "skills/binance-web3/binance-agentic-wallet/SKILL.md"
+  }
+}

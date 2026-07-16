@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:knowledge-work-plugins:data",
+  "displayName": "Data",
+  "mediaType": "application/vnd.anthropic.claude-plugin+json",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/blob/main/data",
+  "description": "Write SQL, explore datasets, and generate insights faster. Build visualizations and dashboards, and turn raw data into clear stories for stakeholders.",
+  "metadata": {
+    "sourceSet": "anthropics/knowledge-work-plugins",
+    "repoPath": "data/.claude-plugin/plugin.json"
+  }
+}

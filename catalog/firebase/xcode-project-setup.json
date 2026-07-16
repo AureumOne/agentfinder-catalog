@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:firebase:skills:xcode-project-setup",
+  "displayName": "Xcode Project Setup",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/firebase/skills/blob/main/skills/xcode-project-setup/SKILL.md",
+  "description": "Safely modifies Xcode projects (.pbxproj) to add Swift Packages and link files.",
+  "metadata": {
+    "sourceSet": "firebase/skills",
+    "repoPath": "skills/xcode-project-setup/SKILL.md"
+  }
+}

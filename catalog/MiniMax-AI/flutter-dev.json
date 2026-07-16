@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:MiniMax-AI:skills:flutter-dev",
+  "displayName": "Flutter Dev",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/MiniMax-AI/skills/blob/main/skills/flutter-dev/SKILL.md",
+  "description": "A practical guide for building cross-platform applications with Flutter 3 and Dart.",
+  "metadata": {
+    "sourceSet": "MiniMax-AI/skills",
+    "repoPath": "skills/flutter-dev/SKILL.md"
+  }
+}

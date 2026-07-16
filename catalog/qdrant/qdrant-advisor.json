@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:qdrant-advisor",
+  "displayName": "Qdrant Advisor",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/meta/qdrant-advisor/SKILL.md",
+  "description": "Qdrant Advisor skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "meta/qdrant-advisor/SKILL.md"
+  }
+}

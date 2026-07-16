@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-hydrogen",
+  "displayName": "Shopify Hydrogen",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-hydrogen/SKILL.md",
+  "description": "Hydrogen storefront implementation cookbooks.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-hydrogen/SKILL.md"
+  }
+}

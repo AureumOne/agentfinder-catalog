@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:dd-audit-cost-spike-investigation",
+  "displayName": "Dd Audit Cost Spike Investigation",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-audit/cost-spike-investigation/SKILL.md",
+  "description": "Investigate a Datadog product usage or cost spike by correlating Usage Metering data (when/what spiked) with Audit Trail config changes (who changed...",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-audit/cost-spike-investigation/SKILL.md"
+  }
+}

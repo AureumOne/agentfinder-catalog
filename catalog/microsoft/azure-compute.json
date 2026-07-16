@@ -5,7 +5,7 @@
   "url": "https://github.com/microsoft/azure-skills/blob/main/.github/plugins/azure-skills/skills/azure-compute/SKILL.md",
   "description": "Azure skill definition for azure-compute.",
   "metadata": {
-    "sourceSet": "azure-skills",
+    "sourceSet": "microsoft/azure-skills",
     "repoPath": ".github/plugins/azure-skills/skills/azure-compute/SKILL.md"
   }
 }

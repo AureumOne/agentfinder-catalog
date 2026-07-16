@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:trailofbits:skills:variant-analysis",
+  "displayName": "Variant Analysis",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/trailofbits/skills/blob/main/plugins/variant-analysis/skills/variant-analysis/SKILL.md",
+  "description": "Find similar vulnerabilities and bugs across codebases using pattern-based analysis.",
+  "metadata": {
+    "sourceSet": "trailofbits/skills",
+    "repoPath": "plugins/variant-analysis/skills/variant-analysis/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:firebase:skills:firebase-firestore",
+  "displayName": "Firebase Firestore",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/firebase/skills/blob/main/skills/firebase-firestore/SKILL.md",
+  "description": "Sets up, manages, and executes queries against Cloud Firestore database instances, including advanced native full-text search and relational joins...",
+  "metadata": {
+    "sourceSet": "firebase/skills",
+    "repoPath": "skills/firebase-firestore/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:defending-code-reference-harness:threat-model",
+  "displayName": "Threat Model",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/defending-code-reference-harness/blob/main/.claude/skills/threat-model/SKILL.md",
+  "description": "Build a threat model for a target codebase.",
+  "metadata": {
+    "sourceSet": "anthropics/defending-code-reference-harness",
+    "repoPath": ".claude/skills/threat-model/SKILL.md"
+  }
+}

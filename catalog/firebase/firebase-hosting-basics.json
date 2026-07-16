@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:firebase:skills:firebase-hosting-basics",
+  "displayName": "Firebase Hosting Basics",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/firebase/skills/blob/main/skills/firebase-hosting-basics/SKILL.md",
+  "description": "Skill for working with Firebase Hosting (Classic).",
+  "metadata": {
+    "sourceSet": "firebase/skills",
+    "repoPath": "skills/firebase-hosting-basics/SKILL.md"
+  }
+}

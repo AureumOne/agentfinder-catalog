@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:elevenlabs:skills:agents",
+  "displayName": "Agents",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/elevenlabs/skills/blob/main/agents/SKILL.md",
+  "description": "Build voice AI agents with ElevenLabs.",
+  "metadata": {
+    "sourceSet": "elevenlabs/skills",
+    "repoPath": "agents/SKILL.md"
+  }
+}

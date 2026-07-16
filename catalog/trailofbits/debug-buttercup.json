@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:trailofbits:skills:debug-buttercup",
+  "displayName": "Debug Buttercup",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/trailofbits/skills/blob/main/plugins/debug-buttercup/skills/debug-buttercup/SKILL.md",
+  "description": "Debugs the Buttercup CRS (Cyber Reasoning System) running on Kubernetes.",
+  "metadata": {
+    "sourceSet": "trailofbits/skills",
+    "repoPath": "plugins/debug-buttercup/skills/debug-buttercup/SKILL.md"
+  }
+}

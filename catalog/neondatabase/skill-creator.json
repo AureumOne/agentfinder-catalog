@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:neondatabase:postgres-skills:skill-creator",
+  "displayName": "Skill Creator",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/neondatabase/postgres-skills/blob/main/.agents/skills/skill-creator/SKILL.md",
+  "description": "Guide for creating effective skills.",
+  "metadata": {
+    "sourceSet": "neondatabase/postgres-skills",
+    "repoPath": ".agents/skills/skill-creator/SKILL.md"
+  }
+}

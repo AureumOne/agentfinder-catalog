@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:neondatabase:agent-skills:neon-postgres",
+  "displayName": "Neon Postgres",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/neondatabase/agent-skills/blob/main/skills/neon-postgres/SKILL.md",
+  "description": "Guides and best practices for working with Neon Serverless Postgres.",
+  "metadata": {
+    "sourceSet": "neondatabase/agent-skills",
+    "repoPath": "skills/neon-postgres/SKILL.md"
+  }
+}

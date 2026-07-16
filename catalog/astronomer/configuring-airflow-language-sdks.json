@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:astronomer:agents:configuring-airflow-language-sdks",
+  "displayName": "Configuring Airflow Language Sdks",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/astronomer/agents/blob/main/skills/configuring-airflow-language-sdks/SKILL.md",
+  "description": "Configuring Airflow Language Sdks skill.",
+  "metadata": {
+    "sourceSet": "astronomer/agents",
+    "repoPath": "skills/configuring-airflow-language-sdks/SKILL.md"
+  }
+}

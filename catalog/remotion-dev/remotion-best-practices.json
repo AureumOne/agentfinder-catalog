@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:remotion-dev:skills:remotion-best-practices",
+  "displayName": "Remotion Best Practices",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/remotion-dev/skills/blob/main/skills/remotion-best-practices/SKILL.md",
+  "description": "Best practices and domain knowledge for building videos programmatically with Remotion (videos in React/TypeScript, rendered to MP4).",
+  "metadata": {
+    "sourceSet": "remotion-dev/skills",
+    "repoPath": "skills/remotion-best-practices/SKILL.md"
+  }
+}

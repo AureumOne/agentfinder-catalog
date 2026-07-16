@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:scaling-query-volume",
+  "displayName": "Scaling Query Volume",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-scaling/scaling-query-volume/SKILL.md",
+  "description": "Scaling Query Volume skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "skills/qdrant-scaling/scaling-query-volume/SKILL.md"
+  }
+}

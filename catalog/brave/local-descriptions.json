@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:brave:brave-search-skills:local-descriptions",
+  "displayName": "Local Descriptions",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/brave/brave-search-skills/blob/main/skills/local-descriptions/SKILL.md",
+  "description": "USE FOR getting AI-generated POI text descriptions.",
+  "metadata": {
+    "sourceSet": "brave/brave-search-skills",
+    "repoPath": "skills/local-descriptions/SKILL.md"
+  }
+}

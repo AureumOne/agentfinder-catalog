@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:stripe:ai:stripe-best-practices",
+  "displayName": "Stripe Best Practices",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/stripe/ai/blob/main/skills/stripe-best-practices/SKILL.md",
+  "description": "Guides Stripe integration decisions - API selection (Checkout Sessions vs PaymentIntents), Connect platform setup (Accounts v2, controller...",
+  "metadata": {
+    "sourceSet": "stripe/ai",
+    "repoPath": "skills/stripe-best-practices/SKILL.md"
+  }
+}

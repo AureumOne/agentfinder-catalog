@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:astronomer:agents:delegating-to-otto",
+  "displayName": "Delegating To Otto",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/astronomer/agents/blob/main/skills/delegating-to-otto/SKILL.md",
+  "description": "Delegating To Otto skill.",
+  "metadata": {
+    "sourceSet": "astronomer/agents",
+    "repoPath": "skills/delegating-to-otto/SKILL.md"
+  }
+}

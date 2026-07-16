@@ -5,7 +5,7 @@
   "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-ai/skills/technology-selection/SKILL.md",
   "description": "Guides technology selection and implementation of AI and ML features in .NET 8+ applications using ML.NET, Microsoft.Extensions.AI (MEAI), Microsoft...",
   "metadata": {
-    "sourceSet": "dotnet-skills",
+    "sourceSet": "dotnet/skills",
     "repoPath": "plugins/dotnet-ai/skills/technology-selection/SKILL.md"
   }
 }

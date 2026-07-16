@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:neondatabase:agent-skills:claimable-postgres",
+  "displayName": "Claimable Postgres",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/neondatabase/agent-skills/blob/main/skills/claimable-postgres/SKILL.md",
+  "description": "Provision instant temporary Postgres databases via Claimable Postgres by Neon (neon.new) with no login, signup, or credit card.",
+  "metadata": {
+    "sourceSet": "neondatabase/agent-skills",
+    "repoPath": "skills/claimable-postgres/SKILL.md"
+  }
+}

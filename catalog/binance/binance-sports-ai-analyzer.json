@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:binance:binance-skills-hub:binance-sports-ai-analyzer",
+  "displayName": "Binance Sports Ai Analyzer",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/binance/binance-skills-hub/blob/main/skills/binance-web3/binance-sports-ai-analyzer/SKILL.md",
+  "description": "Use this skill to look up World Cup match slugs, resolve them to canonical match IDs,",
+  "metadata": {
+    "sourceSet": "binance/binance-skills-hub",
+    "repoPath": "skills/binance-web3/binance-sports-ai-analyzer/SKILL.md"
+  }
+}

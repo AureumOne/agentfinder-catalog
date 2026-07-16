@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:binance:binance-skills-hub:p2p",
+  "displayName": "P2P",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/binance/binance-skills-hub/blob/main/skills/binance/p2p/SKILL.md",
+  "description": "Help users interact with **Binance P2P (C2C)** via natural-language queries.",
+  "metadata": {
+    "sourceSet": "binance/binance-skills-hub",
+    "repoPath": "skills/binance/p2p/SKILL.md"
+  }
+}

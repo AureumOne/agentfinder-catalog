@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:dd-audit-security-investigation",
+  "displayName": "Dd Audit Security Investigation",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-audit/security-investigation/SKILL.md",
+  "description": "Answer \"who did what\" security questions from Audit Trail - deletions, config changes, login activity, permission changes, actions from a specific...",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-audit/security-investigation/SKILL.md"
+  }
+}

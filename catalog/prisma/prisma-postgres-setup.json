@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:prisma:skills:prisma-postgres-setup",
+  "displayName": "Prisma Postgres Setup",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/prisma/skills/blob/main/prisma-postgres-setup/SKILL.md",
+  "description": "Set up a new Prisma Postgres database and connect it to a local project using the Management API.",
+  "metadata": {
+    "sourceSet": "prisma/skills",
+    "repoPath": "prisma-postgres-setup/SKILL.md"
+  }
+}

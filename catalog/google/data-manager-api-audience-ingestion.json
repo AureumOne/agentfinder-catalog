@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:data-manager-api-audience-ingestion",
+  "displayName": "Data Manager Api Audience Ingestion",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/ads/data-manager-api-audience-ingestion/SKILL.md",
+  "description": "Guides developers through uploading audience members to Google products using the Data Manager API /v1/audienceMembers/ingest endpoint and its...",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/ads/data-manager-api-audience-ingestion/SKILL.md"
+  }
+}

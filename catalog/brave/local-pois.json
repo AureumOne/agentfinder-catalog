@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:brave:brave-search-skills:local-pois",
+  "displayName": "Local Pois",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/brave/brave-search-skills/blob/main/skills/local-pois/SKILL.md",
+  "description": "USE FOR getting local business/POI details.",
+  "metadata": {
+    "sourceSet": "brave/brave-search-skills",
+    "repoPath": "skills/local-pois/SKILL.md"
+  }
+}

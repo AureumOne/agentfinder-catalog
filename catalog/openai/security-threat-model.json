@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:security-threat-model",
+  "displayName": "Security Threat Model",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/security-threat-model/SKILL.md",
+  "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/security-threat-model/SKILL.md"
+  }
+}

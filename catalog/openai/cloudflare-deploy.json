@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:cloudflare-deploy",
+  "displayName": "Cloudflare Deploy",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/cloudflare-deploy/SKILL.md",
+  "description": "Deploy applications and infrastructure to Cloudflare using Workers, Pages, and related platform services.",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/cloudflare-deploy/SKILL.md"
+  }
+}

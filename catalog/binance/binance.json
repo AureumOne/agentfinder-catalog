@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:binance:binance-skills-hub:binance",
+  "displayName": "Binance",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/binance/binance-skills-hub/blob/main/skills/binance/binance/SKILL.md",
+  "description": "Use binance-cli for Binance Spot, Futures (USD-S), and Convert.",
+  "metadata": {
+    "sourceSet": "binance/binance-skills-hub",
+    "repoPath": "skills/binance/binance/SKILL.md"
+  }
+}

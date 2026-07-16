@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:MiniMax-AI:skills:fullstack-dev",
+  "displayName": "Fullstack Dev",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/MiniMax-AI/skills/blob/main/skills/fullstack-dev/SKILL.md",
+  "description": "Fullstack Dev - AI skill.",
+  "metadata": {
+    "sourceSet": "MiniMax-AI/skills",
+    "repoPath": "skills/fullstack-dev/SKILL.md"
+  }
+}

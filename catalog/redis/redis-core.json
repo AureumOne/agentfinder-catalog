@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:redis:agent-skills:redis-core",
+  "displayName": "Redis Core",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/redis/agent-skills/blob/main/skills/redis-core/SKILL.md",
+  "description": "Core Redis modeling guidance - choose the right data structure (String, Hash, List, Set, Sorted Set, JSON, Stream, Vector Set) and use consistent...",
+  "metadata": {
+    "sourceSet": "redis/agent-skills",
+    "repoPath": "skills/redis-core/SKILL.md"
+  }
+}

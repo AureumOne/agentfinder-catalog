@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:firebase:skills:firebase-crashlytics",
+  "displayName": "Firebase Crashlytics",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/firebase/skills/blob/main/skills/firebase-crashlytics/SKILL.md",
+  "description": "Comprehensive guide for Firebase Crashlytics, including provisioning and SDK usage.",
+  "metadata": {
+    "sourceSet": "firebase/skills",
+    "repoPath": "skills/firebase-crashlytics/SKILL.md"
+  }
+}

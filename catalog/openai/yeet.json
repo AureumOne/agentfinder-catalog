@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:yeet",
+  "displayName": "Yeet",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/yeet/SKILL.md",
+  "description": "Use only when the user explicitly asks to stage, commit, push, and open a GitHub pull request in one flow using the GitHub CLI (`gh`).",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/yeet/SKILL.md"
+  }
+}

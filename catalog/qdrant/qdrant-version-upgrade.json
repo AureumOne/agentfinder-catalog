@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:qdrant-version-upgrade",
+  "displayName": "Qdrant Version Upgrade",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-version-upgrade/SKILL.md",
+  "description": "Qdrant Version Upgrade skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "skills/qdrant-version-upgrade/SKILL.md"
+  }
+}

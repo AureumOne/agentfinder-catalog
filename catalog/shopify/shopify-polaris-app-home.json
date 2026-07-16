@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-polaris-app-home",
+  "displayName": "Shopify Polaris App Home",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-polaris-app-home/SKILL.md",
+  "description": "Build your app's primary user interface embedded in the Shopify admin.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-polaris-app-home/SKILL.md"
+  }
+}

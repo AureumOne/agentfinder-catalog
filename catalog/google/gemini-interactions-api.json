@@ -5,7 +5,7 @@
   "url": "https://github.com/google/skills/blob/main/skills/cloud/gemini-interactions-api/SKILL.md",
   "description": "Google skill definition for gemini-interactions-api.",
   "metadata": {
-    "sourceSet": "google-skills",
+    "sourceSet": "google/skills",
     "repoPath": "skills/cloud/gemini-interactions-api/SKILL.md"
   }
 }

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:flutter:skills:flutter-add-integration-test",
+  "displayName": "Flutter Add Integration Test",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/flutter/skills/blob/main/skills/flutter-add-integration-test/SKILL.md",
+  "description": "Configures Flutter Driver for app interaction and converts MCP actions into permanent integration tests.",
+  "metadata": {
+    "sourceSet": "flutter/skills",
+    "repoPath": "skills/flutter-add-integration-test/SKILL.md"
+  }
+}

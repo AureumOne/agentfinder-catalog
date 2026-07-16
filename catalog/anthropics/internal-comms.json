@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:skills:internal-comms",
+  "displayName": "Internal Comms",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/skills/blob/main/skills/internal-comms/SKILL.md",
+  "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use.",
+  "metadata": {
+    "sourceSet": "anthropics/skills",
+    "repoPath": "skills/internal-comms/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:google-cloud-solution-agentic-ai-data-science-workflow",
+  "displayName": "Google Cloud Solution Agentic Ai Data Science Workflow",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-solution-agentic-ai-data-science-workflow/SKILL.md",
+  "description": "Designs a tailored multi-product agentic data science architecture on Google Cloud that incorporates opinionated best practices.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/google-cloud-solution-agentic-ai-data-science-workflow/SKILL.md"
+  }
+}

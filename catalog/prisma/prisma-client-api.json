@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:prisma:skills:prisma-client-api",
+  "displayName": "Prisma Client Api",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/prisma/skills/blob/main/prisma-client-api/SKILL.md",
+  "description": "Prisma Client API reference covering model queries, filters, operators, and client methods.",
+  "metadata": {
+    "sourceSet": "prisma/skills",
+    "repoPath": "prisma-client-api/SKILL.md"
+  }
+}

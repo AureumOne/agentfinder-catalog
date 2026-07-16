@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:chatgpt-apps",
+  "displayName": "Chatgpt Apps",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/chatgpt-apps/SKILL.md",
+  "description": "Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine an MCP server and widget UI.",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/chatgpt-apps/SKILL.md"
+  }
+}

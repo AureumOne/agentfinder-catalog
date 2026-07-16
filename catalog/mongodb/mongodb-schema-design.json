@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:mongodb:agent-skills:mongodb-schema-design",
+  "displayName": "Mongodb Schema Design",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/mongodb/agent-skills/blob/main/skills/mongodb-schema-design/SKILL.md",
+  "description": "MongoDB schema design patterns and anti-patterns.",
+  "metadata": {
+    "sourceSet": "mongodb/agent-skills",
+    "repoPath": "skills/mongodb-schema-design/SKILL.md"
+  }
+}

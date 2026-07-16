@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:search-speed-optimization",
+  "displayName": "Search Speed Optimization",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-performance-optimization/search-speed-optimization/SKILL.md",
+  "description": "Search Speed Optimization skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "skills/qdrant-performance-optimization/search-speed-optimization/SKILL.md"
+  }
+}

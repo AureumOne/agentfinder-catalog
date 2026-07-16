@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:apify:agent-skills:apify-actor-development",
+  "displayName": "Apify Actor Development",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/apify/agent-skills/blob/main/skills/apify-actor-development/SKILL.md",
+  "description": "Apify Actor Development skill.",
+  "metadata": {
+    "sourceSet": "apify/agent-skills",
+    "repoPath": "skills/apify-actor-development/SKILL.md"
+  }
+}

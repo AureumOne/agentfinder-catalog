@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-observability",
+  "displayName": "Gke Observability",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-observability/SKILL.md",
+  "description": "Configures GKE observability, including Cloud Logging, Cloud Monitoring, and managed Prometheus.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-observability/SKILL.md"
+  }
+}

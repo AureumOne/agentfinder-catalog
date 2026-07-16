@@ -5,7 +5,7 @@
   "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-ai/skills/mcp-csharp-create/SKILL.md",
   "description": "Create MCP servers using the C# SDK and .NET project templates.",
   "metadata": {
-    "sourceSet": "dotnet-skills",
+    "sourceSet": "dotnet/skills",
     "repoPath": "plugins/dotnet-ai/skills/mcp-csharp-create/SKILL.md"
   }
 }

@@ -5,7 +5,7 @@
   "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-diag/skills/android-tombstone-symbolication/SKILL.md",
   "description": "Symbolicate the .NET runtime frames in an Android tombstone file.",
   "metadata": {
-    "sourceSet": "dotnet-skills",
+    "sourceSet": "dotnet/skills",
     "repoPath": "plugins/dotnet-diag/skills/android-tombstone-symbolication/SKILL.md"
   }
 }

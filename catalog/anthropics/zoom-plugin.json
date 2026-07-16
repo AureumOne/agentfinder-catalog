@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:knowledge-work-plugins:zoom-plugin",
+  "displayName": "Zoom Plugin",
+  "mediaType": "application/vnd.anthropic.claude-plugin+json",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/blob/main/partner-built/zoom-plugin",
+  "description": "Claude plugin for planning, building, and debugging Zoom integrations across REST APIs, SDKs, webhooks, bots, and MCP workflows",
+  "metadata": {
+    "sourceSet": "anthropics/knowledge-work-plugins",
+    "repoPath": "partner-built/zoom-plugin/.claude-plugin/plugin.json"
+  }
+}

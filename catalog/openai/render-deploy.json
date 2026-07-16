@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:render-deploy",
+  "displayName": "Render Deploy",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/render-deploy/SKILL.md",
+  "description": "Deploy applications to Render by analyzing codebases, generating render.yaml Blueprints, and providing Dashboard deeplinks.",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/render-deploy/SKILL.md"
+  }
+}

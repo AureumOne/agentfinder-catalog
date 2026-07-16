@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:MiniMax-AI:skills:buddy-sings",
+  "displayName": "Buddy Sings",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/MiniMax-AI/skills/blob/main/skills/buddy-sings/SKILL.md",
+  "description": "Use when user wants their Claude Code pet (/buddy) to sing a song.",
+  "metadata": {
+    "sourceSet": "MiniMax-AI/skills",
+    "repoPath": "skills/buddy-sings/SKILL.md"
+  }
+}

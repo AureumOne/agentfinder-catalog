@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:browserbase:skills:browser",
+  "displayName": "Browser",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/browserbase/skills/blob/main/skills/browser/SKILL.md",
+  "description": "Automate web browser interactions using natural language via CLI commands.",
+  "metadata": {
+    "sourceSet": "browserbase/skills",
+    "repoPath": "skills/browser/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:google-analytics-admin-api-basics",
+  "displayName": "Google Analytics Admin Api Basics",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/analytics/google-analytics-admin-api-basics/SKILL.md",
+  "description": "Manages Google Analytics account and property settings, enables the Analytics Admin API via the Cloud CLI, lists accounts and properties, and manages...",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/analytics/google-analytics-admin-api-basics/SKILL.md"
+  }
+}

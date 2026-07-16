@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:skills:xlsx",
+  "displayName": "Xlsx",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/skills/blob/main/skills/xlsx/SKILL.md",
+  "description": "Use this skill any time a spreadsheet file is the primary input or output.",
+  "metadata": {
+    "sourceSet": "anthropics/skills",
+    "repoPath": "skills/xlsx/SKILL.md"
+  }
+}

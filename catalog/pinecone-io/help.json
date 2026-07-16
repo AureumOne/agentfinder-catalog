@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:pinecone-io:pinecone-claude-code-plugin:help",
+  "displayName": "Help",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/pinecone-io/pinecone-claude-code-plugin/blob/main/skills/help/SKILL.md",
+  "description": "Help skill.",
+  "metadata": {
+    "sourceSet": "pinecone-io/pinecone-claude-code-plugin",
+    "repoPath": "skills/help/SKILL.md"
+  }
+}

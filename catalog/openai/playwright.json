@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:openai:skills:playwright",
+  "displayName": "Playwright",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/openai/skills/blob/main/skills/.curated/playwright/SKILL.md",
+  "description": "Use when the task requires automating a real browser from the terminal (navigation, form filling, snapshots, screenshots, data extraction, UI-flow...",
+  "metadata": {
+    "sourceSet": "openai/skills",
+    "repoPath": "skills/.curated/playwright/SKILL.md"
+  }
+}

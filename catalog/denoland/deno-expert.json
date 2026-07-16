@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:denoland:skills:deno-expert",
+  "displayName": "Deno Expert",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/denoland/skills/blob/main/skills/deno-expert/SKILL.md",
+  "description": "Deno Expert skill.",
+  "metadata": {
+    "sourceSet": "denoland/skills",
+    "repoPath": "skills/deno-expert/SKILL.md"
+  }
+}

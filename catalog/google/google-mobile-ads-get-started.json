@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:google-mobile-ads-get-started",
+  "displayName": "Google Mobile Ads Get Started",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/ads/google-mobile-ads-get-started/SKILL.md",
+  "description": "Provides instructions for integrating the Google Mobile Ads (GMA)",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/ads/google-mobile-ads-get-started/SKILL.md"
+  }
+}

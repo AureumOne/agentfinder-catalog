@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:upgrade-browser-sdk-v7",
+  "displayName": "Upgrade Browser Sdk V7",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-browser-sdk/upgrade-v7/SKILL.md",
+  "description": "Upgrade Datadog Browser SDK from v6 to v7.",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-browser-sdk/upgrade-v7/SKILL.md"
+  }
+}

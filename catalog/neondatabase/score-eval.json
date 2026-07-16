@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:neondatabase:agent-skills:score-eval",
+  "displayName": "Score Eval",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/neondatabase/agent-skills/blob/main/evals/neon-postgres-egress-optimizer/.claude/skills/score-eval/SKILL.md",
+  "description": "Score the eval diff at $ARGUMENTS against the eval rubric.",
+  "metadata": {
+    "sourceSet": "neondatabase/agent-skills",
+    "repoPath": "evals/neon-postgres-egress-optimizer/.claude/skills/score-eval/SKILL.md"
+  }
+}

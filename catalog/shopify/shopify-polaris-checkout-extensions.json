@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-polaris-checkout-extensions",
+  "displayName": "Shopify Polaris Checkout Extensions",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-polaris-checkout-extensions/SKILL.md",
+  "description": "Build custom functionality that merchants can install at defined points in the checkout flow, including product information, shipping, payment, order...",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-polaris-checkout-extensions/SKILL.md"
+  }
+}

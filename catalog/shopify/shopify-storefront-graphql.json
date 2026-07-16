@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:Shopify:Shopify-AI-Toolkit:shopify-storefront-graphql",
+  "displayName": "Shopify Storefront Graphql",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/Shopify/Shopify-AI-Toolkit/blob/main/skills/shopify-storefront-graphql/SKILL.md",
+  "description": "Use for custom storefronts requiring direct GraphQL queries/mutations for data fetching and cart operations.",
+  "metadata": {
+    "sourceSet": "Shopify/Shopify-AI-Toolkit",
+    "repoPath": "skills/shopify-storefront-graphql/SKILL.md"
+  }
+}

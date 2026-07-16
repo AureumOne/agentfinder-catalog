@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:prisma:skills:prisma-cli",
+  "displayName": "Prisma Cli",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/prisma/skills/blob/main/prisma-cli/SKILL.md",
+  "description": "Prisma ORM CLI commands reference covering init, generate, migrate, db, dev, studio, validate, format, debug, and mcp.",
+  "metadata": {
+    "sourceSet": "prisma/skills",
+    "repoPath": "prisma-cli/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:binance:binance-skills-hub:trading-signal",
+  "displayName": "Trading Signal",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/binance/binance-skills-hub/blob/main/skills/binance-web3/trading-signal/SKILL.md",
+  "description": "This skill retrieves on-chain Smart Money trading signals to help users track professional investors:",
+  "metadata": {
+    "sourceSet": "binance/binance-skills-hub",
+    "repoPath": "skills/binance-web3/trading-signal/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:verify-ssi",
+  "displayName": "Verify Ssi",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/dd-apm/linux-ssi/verify-ssi/SKILL.md",
+  "description": "Verify Single Step Instrumentation (SSI) is working end-to-end on Linux hosts - SSI automatically instruments applications for APM without code...",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "dd-apm/linux-ssi/verify-ssi/SKILL.md"
+  }
+}

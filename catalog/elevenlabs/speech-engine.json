@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:elevenlabs:skills:speech-engine",
+  "displayName": "Speech Engine",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/elevenlabs/skills/blob/main/speech-engine/SKILL.md",
+  "description": "Add real-time voice conversations to a custom agent runtime with ElevenLabs Speech Engine.",
+  "metadata": {
+    "sourceSet": "elevenlabs/skills",
+    "repoPath": "speech-engine/SKILL.md"
+  }
+}

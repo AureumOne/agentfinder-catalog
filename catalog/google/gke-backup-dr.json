@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-backup-dr",
+  "displayName": "Gke Backup Dr",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-backup-dr/SKILL.md",
+  "description": "Configures GKE Backup Plans and restore workflows.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-backup-dr/SKILL.md"
+  }
+}

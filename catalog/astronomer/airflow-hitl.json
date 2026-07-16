@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:astronomer:agents:airflow-hitl",
+  "displayName": "Airflow Hitl",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/astronomer/agents/blob/main/skills/airflow-hitl/SKILL.md",
+  "description": "Airflow Hitl skill.",
+  "metadata": {
+    "sourceSet": "astronomer/agents",
+    "repoPath": "skills/airflow-hitl/SKILL.md"
+  }
+}

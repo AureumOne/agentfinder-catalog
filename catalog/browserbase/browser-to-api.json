@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:browserbase:skills:browser-to-api",
+  "displayName": "Browser To Api",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/browserbase/skills/blob/main/skills/browser-to-api/SKILL.md",
+  "description": "Turn a website's observable HTTP traffic into a best-effort OpenAPI 3.1 spec by analyzing a `browser-trace` capture.",
+  "metadata": {
+    "sourceSet": "browserbase/skills",
+    "repoPath": "skills/browser-to-api/SKILL.md"
+  }
+}

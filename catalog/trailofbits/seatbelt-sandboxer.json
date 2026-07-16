@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:trailofbits:skills:seatbelt-sandboxer",
+  "displayName": "Seatbelt Sandboxer",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/trailofbits/skills/blob/main/plugins/seatbelt-sandboxer/skills/seatbelt-sandboxer/SKILL.md",
+  "description": "Generates minimal macOS Seatbelt sandbox configurations.",
+  "metadata": {
+    "sourceSet": "trailofbits/skills",
+    "repoPath": "plugins/seatbelt-sandboxer/skills/seatbelt-sandboxer/SKILL.md"
+  }
+}

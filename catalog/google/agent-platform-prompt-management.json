@@ -5,7 +5,7 @@
   "url": "https://github.com/google/skills/blob/main/skills/cloud/agent-platform-prompt-management/SKILL.md",
   "description": "Google skill definition for agent-platform-prompt-management.",
   "metadata": {
-    "sourceSet": "google-skills",
+    "sourceSet": "google/skills",
     "repoPath": "skills/cloud/agent-platform-prompt-management/SKILL.md"
   }
 }

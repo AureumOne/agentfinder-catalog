@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:mongodb:agent-skills:mongodb-atlas-stream-processing",
+  "displayName": "Mongodb Atlas Stream Processing",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/mongodb/agent-skills/blob/main/skills/mongodb-atlas-stream-processing/SKILL.md",
+  "description": "Manages MongoDB Atlas Stream Processing (ASP) workflows.",
+  "metadata": {
+    "sourceSet": "mongodb/agent-skills",
+    "repoPath": "skills/mongodb-atlas-stream-processing/SKILL.md"
+  }
+}

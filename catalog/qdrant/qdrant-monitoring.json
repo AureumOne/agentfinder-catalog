@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:qdrant-monitoring",
+  "displayName": "Qdrant Monitoring",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-monitoring/SKILL.md",
+  "description": "Qdrant Monitoring skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "skills/qdrant-monitoring/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:mongodb:agent-skills:review-skill",
+  "displayName": "Review Skill",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/mongodb/agent-skills/blob/main/tools/review-skill/SKILL.md",
+  "description": "Review a proposed Agent Skill for structural validity and content quality before publishing.",
+  "metadata": {
+    "sourceSet": "mongodb/agent-skills",
+    "repoPath": "tools/review-skill/SKILL.md"
+  }
+}

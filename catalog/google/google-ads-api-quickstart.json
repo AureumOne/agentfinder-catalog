@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:google-ads-api-quickstart",
+  "displayName": "Google Ads Api Quickstart",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/ads/google-ads-api-quickstart/SKILL.md",
+  "description": "This skill guides you from absolute zero to running your first successful request to retrieve campaigns.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/ads/google-ads-api-quickstart/SKILL.md"
+  }
+}

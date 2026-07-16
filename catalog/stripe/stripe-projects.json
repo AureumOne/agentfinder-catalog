@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:stripe:ai:stripe-projects",
+  "displayName": "Stripe Projects",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/stripe/ai/blob/main/skills/stripe-projects/SKILL.md",
+  "description": "Use when the user wants to provision infrastructure or third-party services using Stripe Projects.",
+  "metadata": {
+    "sourceSet": "stripe/ai",
+    "repoPath": "skills/stripe-projects/SKILL.md"
+  }
+}

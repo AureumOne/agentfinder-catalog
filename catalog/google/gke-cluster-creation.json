@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-cluster-creation",
+  "displayName": "Gke Cluster Creation",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-cluster-creation/SKILL.md",
+  "description": "Plans and executes GKE cluster creation, provisioning, and production readiness audits.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-cluster-creation/SKILL.md"
+  }
+}

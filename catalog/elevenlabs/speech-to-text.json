@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:elevenlabs:skills:speech-to-text",
+  "displayName": "Speech To Text",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/elevenlabs/skills/blob/main/speech-to-text/SKILL.md",
+  "description": "Transcribe audio to text using ElevenLabs Scribe v2.",
+  "metadata": {
+    "sourceSet": "elevenlabs/skills",
+    "repoPath": "speech-to-text/SKILL.md"
+  }
+}

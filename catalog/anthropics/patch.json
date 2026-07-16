@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:defending-code-reference-harness:patch",
+  "displayName": "Patch",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/defending-code-reference-harness/blob/main/.claude/skills/patch/SKILL.md",
+  "description": "Generate candidate fixes for verified security findings.",
+  "metadata": {
+    "sourceSet": "anthropics/defending-code-reference-harness",
+    "repoPath": ".claude/skills/patch/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:denoland:skills:deno-frontend",
+  "displayName": "Deno Frontend",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/denoland/skills/blob/main/skills/deno-frontend/SKILL.md",
+  "description": "Deno Frontend skill.",
+  "metadata": {
+    "sourceSet": "denoland/skills",
+    "repoPath": "skills/deno-frontend/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:skills:algorithmic-art",
+  "displayName": "Algorithmic Art",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/skills/blob/main/skills/algorithmic-art/SKILL.md",
+  "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration.",
+  "metadata": {
+    "sourceSet": "anthropics/skills",
+    "repoPath": "skills/algorithmic-art/SKILL.md"
+  }
+}

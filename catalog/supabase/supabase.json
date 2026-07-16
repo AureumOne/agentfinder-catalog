@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:supabase:agent-skills:supabase",
+  "displayName": "Supabase",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/supabase/agent-skills/blob/main/skills/supabase/SKILL.md",
+  "description": "Use when doing ANY task involving Supabase.",
+  "metadata": {
+    "sourceSet": "supabase/agent-skills",
+    "repoPath": "skills/supabase/SKILL.md"
+  }
+}

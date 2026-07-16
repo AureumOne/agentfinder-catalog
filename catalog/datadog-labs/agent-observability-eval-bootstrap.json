@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:datadog-labs:agent-skills:agent-observability-eval-bootstrap",
+  "displayName": "Agent Observability Eval Bootstrap",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/datadog-labs/agent-skills/blob/main/agent-observability/agent-observability-eval-bootstrap/SKILL.md",
+  "description": "Bootstrap evaluators from production traces - by default propose online LLM-judge evaluators and, after you confirm, create them in Datadog as...",
+  "metadata": {
+    "sourceSet": "datadog-labs/agent-skills",
+    "repoPath": "agent-observability/agent-observability-eval-bootstrap/SKILL.md"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:anthropics:skills:docx",
+  "displayName": "Docx",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/anthropics/skills/blob/main/skills/docx/SKILL.md",
+  "description": "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files).",
+  "metadata": {
+    "sourceSet": "anthropics/skills",
+    "repoPath": "skills/docx/SKILL.md"
+  }
+}

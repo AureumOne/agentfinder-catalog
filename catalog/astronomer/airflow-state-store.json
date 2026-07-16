@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:astronomer:agents:airflow-state-store",
+  "displayName": "Airflow State Store",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/astronomer/agents/blob/main/skills/airflow-state-store/SKILL.md",
+  "description": "Airflow State Store skill.",
+  "metadata": {
+    "sourceSet": "astronomer/agents",
+    "repoPath": "skills/airflow-state-store/SKILL.md"
+  }
+}

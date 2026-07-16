@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:ClickHouse:agent-skills:clickhousectl-local-dev",
+  "displayName": "Clickhousectl Local Dev",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/ClickHouse/agent-skills/blob/main/skills/clickhousectl-local-dev/SKILL.md",
+  "description": "Use when a user wants to build an application with ClickHouse, set up a local ClickHouse development environment, install ClickHouse, create a local...",
+  "metadata": {
+    "sourceSet": "ClickHouse/agent-skills",
+    "repoPath": "skills/clickhousectl-local-dev/SKILL.md"
+  }
+}

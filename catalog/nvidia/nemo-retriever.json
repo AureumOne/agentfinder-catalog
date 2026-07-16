@@ -5,7 +5,7 @@
   "url": "https://github.com/NVIDIA/skills/blob/main/skills/nemo-retriever/SKILL.md",
   "description": "NVIDIA skill definition for nemo-retriever.",
   "metadata": {
-    "sourceSet": "nvidia-skills",
+    "sourceSet": "NVIDIA/skills",
     "repoPath": "skills/nemo-retriever/SKILL.md"
   }
 }

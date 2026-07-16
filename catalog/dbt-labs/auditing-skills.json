@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:dbt-labs:dbt-agent-skills:auditing-skills",
+  "displayName": "Auditing Skills",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/dbt-labs/dbt-agent-skills/blob/main/.claude/skills/auditing-skills/SKILL.md",
+  "description": "Auditing Skills skill.",
+  "metadata": {
+    "sourceSet": "dbt-labs/dbt-agent-skills",
+    "repoPath": ".claude/skills/auditing-skills/SKILL.md"
+  }
+}

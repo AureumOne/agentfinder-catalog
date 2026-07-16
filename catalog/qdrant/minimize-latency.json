@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:qdrant:skills:minimize-latency",
+  "displayName": "Minimize Latency",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-scaling/minimize-latency/SKILL.md",
+  "description": "Minimize Latency skill.",
+  "metadata": {
+    "sourceSet": "qdrant/skills",
+    "repoPath": "skills/qdrant-scaling/minimize-latency/SKILL.md"
+  }
+}

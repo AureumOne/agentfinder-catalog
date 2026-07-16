@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:sveltejs:ai-tools:svelte-core-bestpractices",
+  "displayName": "Svelte Core Bestpractices",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/sveltejs/ai-tools/blob/main/tools/skills/svelte-core-bestpractices/SKILL.md",
+  "description": "Svelte Core Bestpractices skill.",
+  "metadata": {
+    "sourceSet": "sveltejs/ai-tools",
+    "repoPath": "tools/skills/svelte-core-bestpractices/SKILL.md"
+  }
+}

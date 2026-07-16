@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:google:skills:gke-cost",
+  "displayName": "Gke Cost",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/google/skills/blob/main/skills/cloud/gke-cost/SKILL.md",
+  "description": "Optimizes GKE costs, rightsizes workloads, and configures Spot VMs and CUDs.",
+  "metadata": {
+    "sourceSet": "google/skills",
+    "repoPath": "skills/cloud/gke-cost/SKILL.md"
+  }
+}

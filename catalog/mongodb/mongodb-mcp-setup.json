@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:mongodb:agent-skills:mongodb-mcp-setup",
+  "displayName": "Mongodb Mcp Setup",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/mongodb/agent-skills/blob/main/skills/mongodb-mcp-setup/SKILL.md",
+  "description": "Guide users through configuring key MongoDB MCP server options.",
+  "metadata": {
+    "sourceSet": "mongodb/agent-skills",
+    "repoPath": "skills/mongodb-mcp-setup/SKILL.md"
+  }
+}

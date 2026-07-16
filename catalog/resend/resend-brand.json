@@ -1,0 +1,11 @@
+{
+  "identifier": "urn:ai:github.com:resend:design-skills:resend-brand",
+  "displayName": "Resend Brand",
+  "mediaType": "application/ai-skill",
+  "url": "https://github.com/resend/design-skills/blob/main/resend-brand/SKILL.md",
+  "description": "Use when creating Resend marketing materials, documents, presentations, or visual content.",
+  "metadata": {
+    "sourceSet": "resend/design-skills",
+    "repoPath": "resend-brand/SKILL.md"
+  }
+}
