@@ -1,7 +1,7 @@
 {
   "identifier": "urn:ai:github.com:webflow:webflow-skills:webflow",
   "displayName": "Webflow",
-  "mediaType": "application/vnd.anthropic.claude-plugin+json",
+  "mediaType": "application/ai-catalog+json",
   "url": "https://github.com/webflow/webflow-skills/blob/main",
   "description": "Production-ready agent skills for Webflow - CMS management, site auditing, Designer tools, Code Components, CLI workflows, and safe publishing",
   "metadata": {

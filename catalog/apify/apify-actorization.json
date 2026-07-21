@@ -3,7 +3,7 @@
   "displayName": "Apify Actorization",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/apify/agent-skills/blob/main/skills/apify-actorization/SKILL.md",
-  "description": "Apify Actorization skill.",
+  "description": "Convert existing projects into Apify Actors - serverless cloud programs.",
   "metadata": {
     "sourceSet": "apify/agent-skills",
     "repoPath": "skills/apify-actorization/SKILL.md"

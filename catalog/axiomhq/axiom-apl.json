@@ -3,7 +3,7 @@
   "displayName": "Axiom Apl",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/axiomhq/cli/blob/main/skills/axiom-apl/SKILL.md",
-  "description": "Axiom Apl skill.",
+  "description": "APL query language reference for Axiom.",
   "metadata": {
     "sourceSet": "axiomhq/cli",
     "repoPath": "skills/axiom-apl/SKILL.md"

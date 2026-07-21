@@ -3,7 +3,7 @@
   "displayName": "Hybrid Search",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-search-quality/search-strategies/hybrid-search/SKILL.md",
-  "description": "Hybrid Search skill.",
+  "description": "Explains hybrid search in Qdrant.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-search-quality/search-strategies/hybrid-search/SKILL.md"

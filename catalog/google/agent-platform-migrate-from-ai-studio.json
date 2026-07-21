@@ -3,7 +3,7 @@
   "displayName": "Agent Platform Migrate From AI Studio",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/agent-platform-migrate-from-ai-studio/SKILL.md",
-  "description": "Google skill definition for agent-platform-migrate-from-ai-studio.",
+  "description": "Guides agents and users through migrating from Gemini API in Google AI Studio to Gemini Enterprise Agent Platform (formerly Vertex AI).",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/agent-platform-migrate-from-ai-studio/SKILL.md"

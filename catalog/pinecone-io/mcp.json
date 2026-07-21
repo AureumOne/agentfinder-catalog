@@ -3,7 +3,7 @@
   "displayName": "Mcp",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/pinecone-io/pinecone-claude-code-plugin/blob/main/skills/mcp/SKILL.md",
-  "description": "Mcp skill.",
+  "description": "Reference for the Pinecone MCP server tools.",
   "metadata": {
     "sourceSet": "pinecone-io/pinecone-claude-code-plugin",
     "repoPath": "skills/mcp/SKILL.md"

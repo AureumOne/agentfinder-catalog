@@ -3,7 +3,7 @@
   "displayName": "Scaling Data Volume",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-scaling/scaling-data-volume/SKILL.md",
-  "description": "Scaling Data Volume skill.",
+  "description": "Guides Qdrant data volume scaling decisions.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-scaling/scaling-data-volume/SKILL.md"

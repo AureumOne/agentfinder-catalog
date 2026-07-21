@@ -3,7 +3,7 @@
   "displayName": "Testing Dags",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/testing-dags/SKILL.md",
-  "description": "Testing Dags skill.",
+  "description": "Complex DAG testing workflows with debugging and fixing cycles.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/testing-dags/SKILL.md"

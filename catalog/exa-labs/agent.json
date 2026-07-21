@@ -3,7 +3,7 @@
   "displayName": "Agent",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/exa-labs/exa-mcp-server/blob/main/skills/agent/SKILL.md",
-  "description": "Agent skill.",
+  "description": "Use Exa Agent for multi-step web research, list-building, enrichment, structured output, run continuation, and coverage validation.",
   "metadata": {
     "sourceSet": "exa-labs/exa-mcp-server",
     "repoPath": "skills/agent/SKILL.md"

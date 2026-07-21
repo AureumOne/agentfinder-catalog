@@ -3,7 +3,7 @@
   "displayName": "Google Cloud Waf Cost Optimization",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-waf-cost-optimization/SKILL.md",
-  "description": "Google skill definition for google-cloud-waf-cost-optimization.",
+  "description": "Generates cost optimization guidance for Google Cloud workloads based on the Google Cloud Well-Architected Framework (WAF).",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/google-cloud-waf-cost-optimization/SKILL.md"

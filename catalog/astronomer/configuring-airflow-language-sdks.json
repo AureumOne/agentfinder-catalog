@@ -3,7 +3,7 @@
   "displayName": "Configuring Airflow Language Sdks",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/configuring-airflow-language-sdks/SKILL.md",
-  "description": "Configuring Airflow Language Sdks skill.",
+  "description": "Configures Airflow to run language SDK tasks (Java, Go, and future native SDKs) - register a coordinator, map a queue to it, ensure the...",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/configuring-airflow-language-sdks/SKILL.md"

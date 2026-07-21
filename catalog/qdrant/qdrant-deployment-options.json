@@ -3,7 +3,7 @@
   "displayName": "Qdrant Deployment Options",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-deployment-options/SKILL.md",
-  "description": "Qdrant Deployment Options skill.",
+  "description": "Guides Qdrant deployment selection.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-deployment-options/SKILL.md"

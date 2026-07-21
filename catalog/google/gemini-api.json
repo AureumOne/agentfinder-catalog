@@ -3,7 +3,7 @@
   "displayName": "Gemini Api",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/gemini-api/SKILL.md",
-  "description": "Google skill definition for gemini-api.",
+  "description": "Use when the user asks about using Gemini in an enterprise environment or explicitly mentions Vertex AI, Google Cloud, or Agent Platform.",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/gemini-api/SKILL.md"

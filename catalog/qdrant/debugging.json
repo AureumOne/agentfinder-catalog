@@ -3,7 +3,7 @@
   "displayName": "Debugging",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-monitoring/debugging/SKILL.md",
-  "description": "Debugging skill.",
+  "description": "Diagnoses Qdrant production issues using metrics and observability tools.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-monitoring/debugging/SKILL.md"

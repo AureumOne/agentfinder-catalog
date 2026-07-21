@@ -3,7 +3,7 @@
   "displayName": "Alloydb Basics",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/alloydb-basics/SKILL.md",
-  "description": "Google skill definition for alloydb-basics.",
+  "description": "Manages clusters, instances, and backups for AlloyDB for PostgreSQL, and integrates with AlloyDB model context protocol (MCP) tools for automated...",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/alloydb-basics/SKILL.md"

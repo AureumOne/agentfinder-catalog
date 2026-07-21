@@ -3,7 +3,7 @@
   "displayName": "Cuopt Multi Objective Exploration",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-multi-objective-exploration/SKILL.md",
-  "description": "NVIDIA skill definition for cuopt-multi-objective-exploration.",
+  "description": "Trace and interpret the Pareto frontier across competing objectives using repeated single-objective cuOpt solves (weighted-sum and -constraint).",
   "metadata": {
     "sourceSet": "NVIDIA/cuopt",
     "repoPath": "skills/cuopt-multi-objective-exploration/SKILL.md"

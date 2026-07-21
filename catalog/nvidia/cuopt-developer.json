@@ -3,7 +3,7 @@
   "displayName": "Cuopt Developer",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/NVIDIA/cuopt/blob/main/skills/cuopt-developer/SKILL.md",
-  "description": "NVIDIA skill definition for cuopt-developer.",
+  "description": "Modify, build, test, debug, and contribute to NVIDIA cuOpt (C++/CUDA, Python, server, CI).",
   "metadata": {
     "sourceSet": "NVIDIA/cuopt",
     "repoPath": "skills/cuopt-developer/SKILL.md"

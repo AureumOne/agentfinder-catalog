@@ -3,7 +3,7 @@
   "displayName": "Tenant Scaling",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-scaling/scaling-data-volume/tenant-scaling/SKILL.md",
-  "description": "Tenant Scaling skill.",
+  "description": "Guides Qdrant multi-tenant scaling.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-scaling/scaling-data-volume/tenant-scaling/SKILL.md"

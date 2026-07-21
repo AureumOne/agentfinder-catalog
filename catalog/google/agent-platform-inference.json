@@ -3,7 +3,7 @@
   "displayName": "Agent Platform Inference",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/agent-platform-inference/SKILL.md",
-  "description": "Google skill definition for agent-platform-inference.",
+  "description": "Connects to and performs inference with Google Cloud Agent Platform GenAI models, including First-Party Gemini models and Third-Party OpenMaaS models...",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/agent-platform-inference/SKILL.md"

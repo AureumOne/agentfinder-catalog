@@ -3,7 +3,7 @@
   "displayName": "Creating Openlineage Extractors",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/creating-openlineage-extractors/SKILL.md",
-  "description": "Creating Openlineage Extractors skill.",
+  "description": "Create custom OpenLineage extractors for Airflow operators.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/creating-openlineage-extractors/SKILL.md"

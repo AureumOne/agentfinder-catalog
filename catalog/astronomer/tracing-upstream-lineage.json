@@ -3,7 +3,7 @@
   "displayName": "Tracing Upstream Lineage",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/tracing-upstream-lineage/SKILL.md",
-  "description": "Tracing Upstream Lineage skill.",
+  "description": "Trace upstream data lineage.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/tracing-upstream-lineage/SKILL.md"

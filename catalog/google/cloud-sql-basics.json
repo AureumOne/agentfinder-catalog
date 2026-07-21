@@ -3,7 +3,7 @@
   "displayName": "Cloud Sql Basics",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/cloud-sql-basics/SKILL.md",
-  "description": "Google skill definition for cloud-sql-basics.",
+  "description": "This file generates or explains Cloud SQL resources.",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/cloud-sql-basics/SKILL.md"

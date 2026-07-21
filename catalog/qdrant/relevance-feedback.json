@@ -3,7 +3,7 @@
   "displayName": "Relevance Feedback",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-search-quality/search-strategies/relevance-feedback/SKILL.md",
-  "description": "Relevance Feedback skill.",
+  "description": "Expanding the candidate pool via relevance feedback, as an alternative to reranking when a dense retriever is too weak.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-search-quality/search-strategies/relevance-feedback/SKILL.md"

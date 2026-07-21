@@ -3,7 +3,7 @@
   "displayName": "Ui4 Convert Tests",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/payloadcms/payload/blob/main/.claude/skills/ui4-convert-tests/SKILL.md",
-  "description": "Ui4 Convert Tests skill.",
+  "description": "Use when UI changes are complete and e2e tests need updating.",
   "metadata": {
     "sourceSet": "payloadcms/payload",
     "repoPath": ".claude/skills/ui4-convert-tests/SKILL.md"

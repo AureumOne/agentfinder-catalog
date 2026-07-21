@@ -3,7 +3,7 @@
   "displayName": "Omniverse Cad To Simready",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/NVIDIA/skills/blob/main/skills/omniverse-cad-to-simready/SKILL.md",
-  "description": "NVIDIA skill definition for omniverse-cad-to-simready.",
+  "description": "Coordinate the end-to-end CAD/source-asset to SimReady workflow.",
   "metadata": {
     "sourceSet": "NVIDIA/skills",
     "repoPath": "skills/omniverse-cad-to-simready/SKILL.md"

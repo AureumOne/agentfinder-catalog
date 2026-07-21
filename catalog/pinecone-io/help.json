@@ -3,7 +3,7 @@
   "displayName": "Help",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/pinecone-io/pinecone-claude-code-plugin/blob/main/skills/help/SKILL.md",
-  "description": "Help skill.",
+  "description": "Overview of all available Pinecone skills and what a user needs to get started.",
   "metadata": {
     "sourceSet": "pinecone-io/pinecone-claude-code-plugin",
     "repoPath": "skills/help/SKILL.md"

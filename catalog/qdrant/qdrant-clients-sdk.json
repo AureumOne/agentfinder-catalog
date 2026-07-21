@@ -3,7 +3,7 @@
   "displayName": "Qdrant Clients Sdk",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-clients-sdk/SKILL.md",
-  "description": "Qdrant Clients Sdk skill.",
+  "description": "Qdrant provides client SDKs for various programming languages, allowing easy integration with Qdrant deployments.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-clients-sdk/SKILL.md"

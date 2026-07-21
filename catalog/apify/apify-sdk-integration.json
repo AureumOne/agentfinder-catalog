@@ -3,7 +3,7 @@
   "displayName": "Apify Sdk Integration",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/apify/agent-skills/blob/main/skills/apify-sdk-integration/SKILL.md",
-  "description": "Apify Sdk Integration skill.",
+  "description": "Integrate Apify into an existing JavaScript/TypeScript or Python application using the apify-client package.",
   "metadata": {
     "sourceSet": "apify/agent-skills",
     "repoPath": "skills/apify-sdk-integration/SKILL.md"

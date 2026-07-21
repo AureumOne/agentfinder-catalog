@@ -3,7 +3,7 @@
   "displayName": "Svelte Core Bestpractices",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/sveltejs/ai-tools/blob/main/tools/skills/svelte-core-bestpractices/SKILL.md",
-  "description": "Svelte Core Bestpractices skill.",
+  "description": "Guidance on writing fast, robust, modern Svelte code.",
   "metadata": {
     "sourceSet": "sveltejs/ai-tools",
     "repoPath": "tools/skills/svelte-core-bestpractices/SKILL.md"

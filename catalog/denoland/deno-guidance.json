@@ -3,7 +3,7 @@
   "displayName": "Deno Guidance",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/denoland/skills/blob/main/skills/deno-guidance/SKILL.md",
-  "description": "Deno Guidance skill.",
+  "description": "Use when starting any Deno project, choosing packages, configuring deno.json, or running CLI commands.",
   "metadata": {
     "sourceSet": "denoland/skills",
     "repoPath": "skills/deno-guidance/SKILL.md"

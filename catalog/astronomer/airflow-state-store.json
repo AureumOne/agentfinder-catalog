@@ -3,7 +3,7 @@
   "displayName": "Airflow State Store",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/airflow-state-store/SKILL.md",
-  "description": "Airflow State Store skill.",
+  "description": "Persists task and asset state across retries and DAG runs using Airflow 3.3's AIP-103 key/value stores (`task_state_store`, `asset_state_store`) and...",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/airflow-state-store/SKILL.md"

@@ -3,7 +3,7 @@
   "displayName": "Physical AI Video Data Augmentation",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/NVIDIA/skills/blob/main/skills/physical-ai-video-data-augmentation/SKILL.md",
-  "description": "NVIDIA skill definition for physical-ai-video-data-augmentation.",
+  "description": "Use when running video data augmentation and auto-labeling workflows on OSMO: flow selection, preflight, submit-time interpolation, monitoring, and...",
   "metadata": {
     "sourceSet": "NVIDIA/skills",
     "repoPath": "skills/physical-ai-video-data-augmentation/SKILL.md"

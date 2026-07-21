@@ -3,7 +3,7 @@
   "displayName": "Detect Anomalies",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/axiomhq/cli/blob/main/skills/detect-anomalies/SKILL.md",
-  "description": "Detect Anomalies skill.",
+  "description": "Detect anomalies in Axiom datasets using statistical analysis.",
   "metadata": {
     "sourceSet": "axiomhq/cli",
     "repoPath": "skills/detect-anomalies/SKILL.md"

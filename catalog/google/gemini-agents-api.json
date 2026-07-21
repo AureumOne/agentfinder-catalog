@@ -3,7 +3,7 @@
   "displayName": "Gemini Agents Api",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/gemini-agents-api/SKILL.md",
-  "description": "Google skill definition for gemini-agents-api.",
+  "description": "Manages custom Agent resources on Gemini Enterprise Agent Platform.",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/gemini-agents-api/SKILL.md"

@@ -3,7 +3,7 @@
   "displayName": "Physical AI Infrastructure Setup And Resilient Scaling",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/NVIDIA/skills/blob/main/skills/physical-ai-infrastructure-setup-and-resilient-scaling/SKILL.md",
-  "description": "NVIDIA skill definition for physical-ai-infrastructure-setup-and-resilient-scaling.",
+  "description": "Use when the user wants to set up, scale, validate, or harden NVIDIA physical AI infrastructure for synthetic data generation workflows across local...",
   "metadata": {
     "sourceSet": "NVIDIA/skills",
     "repoPath": "skills/physical-ai-infrastructure-setup-and-resilient-scaling/SKILL.md"

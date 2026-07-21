@@ -3,7 +3,7 @@
   "displayName": "Firebase Basics",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/google/skills/blob/main/skills/cloud/firebase-basics/SKILL.md",
-  "description": "Google skill definition for firebase-basics.",
+  "description": "Use this skill whenever you are working on a project that uses Firebase products or services, especially for mobile or web apps.",
   "metadata": {
     "sourceSet": "google/skills",
     "repoPath": "skills/cloud/firebase-basics/SKILL.md"

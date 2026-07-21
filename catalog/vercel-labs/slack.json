@@ -3,7 +3,7 @@
   "displayName": "Slack",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/vercel-labs/agent-browser/blob/main/skill-data/slack/SKILL.md",
-  "description": "Slack skill.",
+  "description": "Interact with Slack workspaces using browser automation.",
   "metadata": {
     "sourceSet": "vercel-labs/agent-browser",
     "repoPath": "skill-data/slack/SKILL.md"

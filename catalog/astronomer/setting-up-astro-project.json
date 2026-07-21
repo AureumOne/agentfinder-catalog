@@ -3,7 +3,7 @@
   "displayName": "Setting Up Astro Project",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/setting-up-astro-project/SKILL.md",
-  "description": "Setting Up Astro Project skill.",
+  "description": "Initialize and configure Astro/Airflow projects.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/setting-up-astro-project/SKILL.md"

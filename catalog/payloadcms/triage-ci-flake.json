@@ -3,7 +3,7 @@
   "displayName": "Triage Ci Flake",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/payloadcms/payload/blob/main/.claude/skills/triage-ci-flake/SKILL.md",
-  "description": "Triage Ci Flake skill.",
+  "description": "Use when CI tests fail on main branch after PR merge, when investigating flaky test failures, or when user provides a PR URL/number to aggregate all...",
   "metadata": {
     "sourceSet": "payloadcms/payload",
     "repoPath": ".claude/skills/triage-ci-flake/SKILL.md"

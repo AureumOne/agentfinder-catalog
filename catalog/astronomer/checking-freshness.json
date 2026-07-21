@@ -3,7 +3,7 @@
   "displayName": "Checking Freshness",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/checking-freshness/SKILL.md",
-  "description": "Checking Freshness skill.",
+  "description": "Quick data freshness check.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/checking-freshness/SKILL.md"

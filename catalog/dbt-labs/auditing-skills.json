@@ -3,7 +3,7 @@
   "displayName": "Auditing Skills",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/dbt-labs/dbt-agent-skills/blob/main/.claude/skills/auditing-skills/SKILL.md",
-  "description": "Auditing Skills skill.",
+  "description": "Use when checking skills for security or quality issues, reviewing audit results from skills.sh or Tessl, or remediating findings across published...",
   "metadata": {
     "sourceSet": "dbt-labs/dbt-agent-skills",
     "repoPath": ".claude/skills/auditing-skills/SKILL.md"

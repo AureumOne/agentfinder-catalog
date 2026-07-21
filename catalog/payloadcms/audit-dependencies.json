@@ -3,7 +3,7 @@
   "displayName": "Audit Dependencies",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/payloadcms/payload/blob/main/.claude/skills/audit-dependencies/SKILL.md",
-  "description": "Audit Dependencies skill.",
+  "description": "Use when fixing dependency vulnerabilities, running pnpm audit, or when the audit-dependencies CI check fails",
   "metadata": {
     "sourceSet": "payloadcms/payload",
     "repoPath": ".claude/skills/audit-dependencies/SKILL.md"

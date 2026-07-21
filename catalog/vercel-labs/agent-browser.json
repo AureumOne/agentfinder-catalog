@@ -3,7 +3,7 @@
   "displayName": "Agent Browser",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/vercel-labs/agent-browser/blob/main/skills/agent-browser/SKILL.md",
-  "description": "Agent Browser skill.",
+  "description": "Browser automation CLI for AI agents.",
   "metadata": {
     "sourceSet": "vercel-labs/agent-browser",
     "repoPath": "skills/agent-browser/SKILL.md"

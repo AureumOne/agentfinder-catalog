@@ -3,7 +3,7 @@
   "displayName": "Delegating To Otto",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/delegating-to-otto/SKILL.md",
-  "description": "Delegating To Otto skill.",
+  "description": "Drives Astronomer's Otto agent (`astro otto`) as a delegated sub-agent for Airflow, dbt, and data-engineering work.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/delegating-to-otto/SKILL.md"

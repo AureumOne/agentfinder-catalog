@@ -3,7 +3,7 @@
   "displayName": "Qdrant Scaling",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-scaling/SKILL.md",
-  "description": "Qdrant Scaling skill.",
+  "description": "Guides Qdrant scaling decisions.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-scaling/SKILL.md"

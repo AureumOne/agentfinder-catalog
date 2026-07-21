@@ -3,7 +3,7 @@
   "displayName": "Physical AI Neural Reconstruction",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/NVIDIA/skills/blob/main/skills/physical-ai-neural-reconstruction/SKILL.md",
-  "description": "NVIDIA skill definition for physical-ai-neural-reconstruction.",
+  "description": "Router for NVIDIA NuRec/NRE: USDZ rendering, NCore conversion, 3DGS, gRPC sensor sim, PhysicalAI HF datasets.",
   "metadata": {
     "sourceSet": "NVIDIA/skills",
     "repoPath": "skills/physical-ai-neural-reconstruction/SKILL.md"

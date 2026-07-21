@@ -3,7 +3,7 @@
   "displayName": "Managing Astro Deployments",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/astronomer/agents/blob/main/skills/managing-astro-deployments/SKILL.md",
-  "description": "Managing Astro Deployments skill.",
+  "description": "Manage Astronomer production deployments with Astro CLI.",
   "metadata": {
     "sourceSet": "astronomer/agents",
     "repoPath": "skills/managing-astro-deployments/SKILL.md"

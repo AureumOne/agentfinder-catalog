@@ -3,7 +3,7 @@
   "displayName": "Deno Sandbox",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/denoland/skills/blob/main/skills/deno-sandbox/SKILL.md",
-  "description": "Deno Sandbox skill.",
+  "description": "Use when building features that execute untrusted user code, AI-generated code, or need isolated code execution environments.",
   "metadata": {
     "sourceSet": "denoland/skills",
     "repoPath": "skills/deno-sandbox/SKILL.md"

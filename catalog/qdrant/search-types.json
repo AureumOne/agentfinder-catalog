@@ -3,7 +3,7 @@
   "displayName": "Search Types",
   "mediaType": "application/ai-skill",
   "url": "https://github.com/qdrant/skills/blob/main/skills/qdrant-search-quality/search-strategies/hybrid-search/search-types/SKILL.md",
-  "description": "Search Types skill.",
+  "description": "Constructing prefetch queries for hybrid retrieval, including sparse/dense and multi-field setups, and choosing a sparse embedding model.",
   "metadata": {
     "sourceSet": "qdrant/skills",
     "repoPath": "skills/qdrant-search-quality/search-strategies/hybrid-search/search-types/SKILL.md"
