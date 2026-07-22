@@ -1,7 +1,7 @@
 {
   "identifier": "urn:ai:github.com:anthropics:knowledge-work-plugins:sales",
   "displayName": "Sales",
-  "mediaType": "application/ai-catalog+json",
+  "mediaType": "application/vnd.github.copilot-plugin",
   "url": "https://github.com/anthropics/knowledge-work-plugins/blob/main/sales",
   "description": "Prospect, craft outreach, and build deal strategy faster. Prep for calls, manage your pipeline, and write personalized messaging that moves deals...",
   "metadata": {

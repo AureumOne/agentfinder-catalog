@@ -1,7 +1,7 @@
 {
   "identifier": "urn:ai:github.com:anthropics:knowledge-work-plugins:finance",
   "displayName": "Finance",
-  "mediaType": "application/ai-catalog+json",
+  "mediaType": "application/vnd.github.copilot-plugin",
   "url": "https://github.com/anthropics/knowledge-work-plugins/blob/main/finance",
   "description": "Streamline finance and accounting workflows, from journal entries and reconciliation to financial statements and variance analysis. Speed up audit...",
   "metadata": {

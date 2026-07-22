@@ -1,7 +1,7 @@
 {
   "identifier": "urn:ai:github.com:cursor:plugins:create-plugin",
   "displayName": "Create Plugin",
-  "mediaType": "application/ai-catalog+json",
+  "mediaType": "application/vnd.github.copilot-plugin",
   "url": "https://github.com/cursor/plugins/blob/main/create-plugin",
   "description": "Scaffold and validate new Cursor plugins. Handles directory setup, manifest generation, and pre-submission quality checks for the marketplace.",
   "metadata": {
