@@ -1,7 +1,7 @@
 {
   "identifier": "urn:ai:github.com:anthropics:knowledge-work-plugins:operations",
   "displayName": "Operations",
-  "mediaType": "application/ai-catalog+json",
+  "mediaType": "application/vnd.github.copilot-plugin",
   "url": "https://github.com/anthropics/knowledge-work-plugins/blob/main/operations",
   "description": "Optimize business operations - vendor management, process documentation, change management, capacity planning, and compliance tracking. Keep your...",
   "metadata": {

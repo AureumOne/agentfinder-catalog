@@ -1,7 +1,7 @@
 {
   "identifier": "urn:ai:github.com:anthropics:financial-services-plugins:pitch-agent",
   "displayName": "Pitch Agent",
-  "mediaType": "application/ai-catalog+json",
+  "mediaType": "application/vnd.github.copilot-plugin",
   "url": "https://github.com/anthropics/financial-services-plugins/blob/main/plugins/agent-plugins/pitch-agent",
   "description": "Comps, precedents, LBO to a branded pitch deck, end to end",
   "metadata": {

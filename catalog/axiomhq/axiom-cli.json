@@ -1,7 +1,7 @@
 {
   "identifier": "urn:ai:github.com:axiomhq:cli:axiom-cli",
   "displayName": "Axiom Cli",
-  "mediaType": "application/ai-catalog+json",
+  "mediaType": "application/vnd.github.copilot-plugin",
   "url": "https://github.com/axiomhq/cli/blob/main",
   "description": "Axiom CLI and APL query assistance for Claude Code",
   "metadata": {

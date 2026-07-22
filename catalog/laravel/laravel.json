@@ -1,7 +1,7 @@
 {
   "identifier": "urn:ai:github.com:laravel:agent-skills:laravel",
   "displayName": "Laravel",
-  "mediaType": "application/ai-catalog+json",
+  "mediaType": "application/vnd.github.copilot-plugin",
   "url": "https://github.com/laravel/agent-skills/blob/main/laravel",
   "description": "Agents and skills for PHP / Laravel development",
   "metadata": {

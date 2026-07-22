@@ -1,7 +1,7 @@
 {
   "identifier": "urn:ai:github.com:dotnet:skills:dotnet-msbuild",
   "displayName": "dotnet-msbuild",
-  "mediaType": "application/ai-catalog+json",
+  "mediaType": "application/vnd.github.copilot-plugin",
   "url": "https://github.com/dotnet/skills/blob/main/plugins/dotnet-msbuild",
   "description": "Comprehensive MSBuild and .NET build skills: failure diagnosis, performance optimization, code quality, and modernization.",
   "metadata": {

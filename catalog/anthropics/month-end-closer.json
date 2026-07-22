@@ -1,7 +1,7 @@
 {
   "identifier": "urn:ai:github.com:anthropics:financial-services-plugins:month-end-closer",
   "displayName": "Month End Closer",
-  "mediaType": "application/ai-catalog+json",
+  "mediaType": "application/vnd.github.copilot-plugin",
   "url": "https://github.com/anthropics/financial-services-plugins/blob/main/plugins/agent-plugins/month-end-closer",
   "description": "Accruals, roll-forwards, variance commentary",
   "metadata": {

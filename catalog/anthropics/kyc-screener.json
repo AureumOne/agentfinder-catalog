@@ -1,7 +1,7 @@
 {
   "identifier": "urn:ai:github.com:anthropics:financial-services-plugins:kyc-screener",
   "displayName": "Kyc Screener",
-  "mediaType": "application/ai-catalog+json",
+  "mediaType": "application/vnd.github.copilot-plugin",
   "url": "https://github.com/anthropics/financial-services-plugins/blob/main/plugins/agent-plugins/kyc-screener",
   "description": "Parses onboarding docs, runs the rules engine, flags gaps",
   "metadata": {
