@@ -58,8 +58,10 @@ Create a file at `catalog/<your-publisher>/<augment-name>.json` with the followi
 | `description` | ✅ | A brief description of the augment's purpose |
 | `metadata.sourceSet` | ✅ | The source repository name |
 | `metadata.repoPath` | ✅ | Path to the definition file within the repository |
-| `metadata.marketplace.sourceSet` | No | Repository containing the marketplace used to discover the augment |
-| `metadata.marketplace.repoPath` | No | Path to the marketplace manifest within that repository |
+| `metadata.marketplace.sourceSet` | Plugins only | Repository containing the marketplace used to discover the plugin |
+| `metadata.marketplace.repoPath` | Plugins only | Path to the marketplace manifest within that repository |
+
+`metadata.marketplace` only applies to entries with the `application/vnd.github.copilot-plugin` media type. Omit it from all other augment types.
 
 ### 4. Validate your JSON
 
