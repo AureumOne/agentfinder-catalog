@@ -58,6 +58,8 @@ Create a file at `catalog/<your-publisher>/<augment-name>.json` with the followi
 | `description` | ✅ | A brief description of the augment's purpose |
 | `metadata.sourceSet` | ✅ | The source repository name |
 | `metadata.repoPath` | ✅ | Path to the definition file within the repository |
+| `metadata.marketplace.sourceSet` | No | Repository containing the marketplace used to discover the augment |
+| `metadata.marketplace.repoPath` | No | Path to the marketplace manifest within that repository |
 
 ### 4. Validate your JSON
 
