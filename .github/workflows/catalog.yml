@@ -1,0 +1,16 @@
+name: Catalog
+
+on:
+  pull_request:
+    paths:
+      - "catalog/*/*.json"
+      - "ai-catalog.json"
+      - "scripts/generate_ai_catalog.py"
+      - ".github/workflows/catalog.yml"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/generate_ai_catalog.py --check

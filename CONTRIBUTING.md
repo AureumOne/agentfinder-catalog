@@ -61,17 +61,21 @@ Create a file at `catalog/<your-publisher>/<augment-name>.json` with the followi
 
 ### 4. Validate your JSON
 
-Make sure your file is valid JSON:
+Make sure your file is valid JSON, then regenerate and check the ARD ingestion catalog:
 
 ```bash
 python -m json.tool catalog/<your-publisher>/<augment-name>.json
+python3 scripts/generate_ai_catalog.py
+python3 scripts/generate_ai_catalog.py --check
 ```
+
+Files under `catalog/<publisher>/` remain the source of truth. The root `ai-catalog.json` is generated for ARD ingestion and should not be edited by hand.
 
 ### 5. Open a pull request
 
 ```bash
 git checkout -b add-<augment-name>
-git add catalog/
+git add catalog/ ai-catalog.json
 git commit -m "Add <augment-name> to catalog"
 git push origin add-<augment-name>
 gh pr create --title "Add <augment-name>" --body "Adds <augment-name> to the agentfinder catalog."
