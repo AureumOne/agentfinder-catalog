@@ -69,7 +69,7 @@ python3 scripts/generate_ai_catalog.py
 python3 scripts/generate_ai_catalog.py --check
 ```
 
-Files under `catalog/<publisher>/` remain the source of truth. The root `ai-catalog.json` is generated for ARD ingestion and should not be edited by hand.
+Files under `catalog/<publisher>/` remain the source of truth for contributor-managed entries. The root `ai-catalog.json` is generated for ARD ingestion, supplemented with missing entries from GitHub's public MCP catalog, and should not be edited by hand.
 
 ### 5. Open a pull request
 

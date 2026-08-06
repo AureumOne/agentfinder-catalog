@@ -3,6 +3,8 @@
 import argparse
 import json
 from pathlib import Path
+from urllib.error import URLError
+from urllib.request import Request, urlopen
 
 SCRIPT = Path(__file__).resolve()
 ROOT = SCRIPT.parents[1]
@@ -10,53 +12,84 @@ SOURCE_DIR = ROOT / "catalog"
 OUTPUT = ROOT / "ai-catalog.json"
 MAX_ENTRIES = 10_000
 MAX_BYTES = 10 * 1024 * 1024
+MCP_CATALOG = "https://api.mcp.github.com/.well-known/ai-catalog.json"
 
 
 def fail(message):
     raise SystemExit(message)
 
 
+def validate(entry, source):
+    if not isinstance(entry, dict):
+        fail(f"{source}: entry must be a JSON object")
+
+    # ponytail: mirror the current ingestion contract without adding a schema dependency.
+    for field in ("identifier", "displayName"):
+        if not isinstance(entry.get(field), str) or not entry[field].strip():
+            fail(f"{source}: {field} must be a non-empty string")
+    if not any(
+        isinstance(entry.get(field), str) and entry[field].strip()
+        for field in ("type", "mediaType")
+    ):
+        fail(f"{source}: type or mediaType must be a non-empty string")
+    if sum(entry.get(field) is not None for field in ("url", "data")) != 1:
+        fail(f"{source}: exactly one of url or data is required")
+    if not entry["identifier"].startswith("urn:ai:"):
+        fail(f"{source}: identifier must start with urn:ai:")
+
+    version = entry.get("version")
+    if version is not None and not isinstance(version, str):
+        fail(f"{source}: version must be a string")
+
+
+def load_mcp_entries():
+    try:
+        request = Request(MCP_CATALOG, headers={"User-Agent": "agentfinder-catalog-generator"})
+        with urlopen(request, timeout=30) as response:
+            document = json.load(response)
+    except (OSError, URLError, json.JSONDecodeError) as error:
+        fail(f"{MCP_CATALOG}: {error}")
+    if not isinstance(document, dict) or not isinstance(document.get("entries"), list):
+        fail(f"{MCP_CATALOG}: expected a catalog document with an entries array")
+    return document["entries"]
+
+
 def generate():
     entries = []
     identities = set()
+    local_identifiers = set()
+
+    def add(entry, source):
+        generated = dict(entry)
+        generated["identifier"] = "urn:air:" + entry["identifier"][len("urn:ai:") :]
+        version = entry.get("version")
+        identity = (generated["identifier"], version)
+        if identity in identities:
+            fail(
+                f"{source}: duplicate identifier/version identity "
+                f"{generated['identifier']} {version or ''}"
+            )
+        identities.add(identity)
+        entries.append(generated)
 
     for path in sorted(SOURCE_DIR.glob("*/*.json"), key=lambda item: item.as_posix()):
         try:
             entry = json.loads(path.read_text(encoding="utf-8"))
         except json.JSONDecodeError as error:
             fail(f"{path.relative_to(ROOT)}: invalid JSON: {error}")
+        validate(entry, path.relative_to(ROOT))
+        add(entry, path.relative_to(ROOT))
+        local_identifiers.add(entry["identifier"])
 
-        if not isinstance(entry, dict):
-            fail(f"{path.relative_to(ROOT)}: entry must be a JSON object")
-
-        # ponytail: mirror the current ingestion contract without adding a schema dependency.
-        for field in ("identifier", "displayName"):
-            if not isinstance(entry.get(field), str) or not entry[field].strip():
-                fail(f"{path.relative_to(ROOT)}: {field} must be a non-empty string")
-        if not any(
-            isinstance(entry.get(field), str) and entry[field].strip()
-            for field in ("type", "mediaType")
-        ):
-            fail(f"{path.relative_to(ROOT)}: type or mediaType must be a non-empty string")
-        if sum(entry.get(field) is not None for field in ("url", "data")) != 1:
-            fail(f"{path.relative_to(ROOT)}: exactly one of url or data is required")
-        if not entry["identifier"].startswith("urn:ai:"):
-            fail(f"{path.relative_to(ROOT)}: identifier must start with urn:ai:")
-
-        version = entry.get("version")
-        if version is not None and not isinstance(version, str):
-            fail(f"{path.relative_to(ROOT)}: version must be a string")
-
-        generated = dict(entry)
-        generated["identifier"] = "urn:air:" + entry["identifier"][len("urn:ai:") :]
-        identity = (generated["identifier"], version)
-        if identity in identities:
-            fail(
-                f"{path.relative_to(ROOT)}: duplicate identifier/version identity "
-                f"{generated['identifier']} {version or ''}"
-            )
-        identities.add(identity)
-        entries.append(generated)
+    remote_entries = sorted(
+        load_mcp_entries(),
+        key=lambda entry: (str(entry.get("identifier")), str(entry.get("version"))),
+    )
+    for index, entry in enumerate(remote_entries):
+        source = f"{MCP_CATALOG} entry {index}"
+        validate(entry, source)
+        if entry["identifier"] not in local_identifiers:
+            add(entry, source)
 
     if len(entries) > MAX_ENTRIES:
         fail(f"catalog has {len(entries)} entries; limit is {MAX_ENTRIES}")

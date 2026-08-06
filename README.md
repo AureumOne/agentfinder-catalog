@@ -26,7 +26,7 @@ catalog/
 
 Each augment is a single JSON file under the publisher's directory. The publisher name matches the GitHub organization or username that owns the resource.
 
-These per-entry files are the source of truth. The root `ai-catalog.json` is a generated Agentic Resource Discovery (ARD) ingestion artifact and should not be edited by hand. Regenerate it with `python3 scripts/generate_ai_catalog.py`.
+These per-entry files are the source of truth for contributor-managed entries. The root `ai-catalog.json` is a generated Agentic Resource Discovery (ARD) ingestion artifact that also includes missing entries from GitHub's public MCP catalog. Do not edit it by hand; regenerate it with `python3 scripts/generate_ai_catalog.py`.
 
 ## Contributing
 
