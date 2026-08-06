@@ -4,6 +4,7 @@ import argparse
 import json
 from pathlib import Path
 from urllib.error import URLError
+from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 
 SCRIPT = Path(__file__).resolve()
@@ -32,8 +33,18 @@ def validate(entry, source):
         for field in ("type", "mediaType")
     ):
         fail(f"{source}: type or mediaType must be a non-empty string")
-    if sum(entry.get(field) is not None for field in ("url", "data")) != 1:
+    has_url = entry.get("url") is not None
+    has_data = entry.get("data") is not None
+    if has_url == has_data:
         fail(f"{source}: exactly one of url or data is required")
+    if has_url and (not isinstance(entry["url"], str) or not entry["url"].strip()):
+        fail(f"{source}: url must be a non-empty string")
+    if has_url:
+        url = urlparse(entry["url"])
+        if url.scheme not in ("http", "https") or not url.netloc:
+            fail(f"{source}: url must be an absolute HTTP(S) URL")
+    if has_data and not isinstance(entry["data"], dict):
+        fail(f"{source}: data must be an object")
     if not entry["identifier"].startswith("urn:ai:"):
         fail(f"{source}: identifier must start with urn:ai:")
 
@@ -62,6 +73,8 @@ def generate():
     def add(entry, source):
         generated = dict(entry)
         generated["identifier"] = "urn:air:" + entry["identifier"][len("urn:ai:") :]
+        if not isinstance(generated.get("type"), str) or not generated["type"].strip():
+            generated["type"] = entry.get("mediaType")
         version = entry.get("version")
         identity = (generated["identifier"], version)
         if identity in identities:
