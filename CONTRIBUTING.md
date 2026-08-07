@@ -61,17 +61,23 @@ Create a file at `catalog/<your-publisher>/<augment-name>.json` with the followi
 
 ### 4. Validate your JSON
 
-Make sure your file is valid JSON:
+Make sure your file is valid JSON, then regenerate and check the ARD ingestion catalog:
 
 ```bash
 python -m json.tool catalog/<your-publisher>/<augment-name>.json
+python3 scripts/generate_ai_catalog.py
+python3 scripts/generate_ai_catalog.py --check
 ```
+
+Files under `catalog/<publisher>/` remain the source of truth for contributor-managed entries. The root `ai-catalog.json` is generated for ARD ingestion, supplemented with missing entries from GitHub's public MCP catalog, and should not be edited by hand.
+
+The pull request workflow regenerates `ai-catalog.json` automatically for branches in this repository. Fork workflows validate the catalog but cannot push changes; the main-branch fallback opens a follow-up pull request if regeneration is needed after merge.
 
 ### 5. Open a pull request
 
 ```bash
 git checkout -b add-<augment-name>
-git add catalog/
+git add catalog/ ai-catalog.json
 git commit -m "Add <augment-name> to catalog"
 git push origin add-<augment-name>
 gh pr create --title "Add <augment-name>" --body "Adds <augment-name> to the agentfinder catalog."
