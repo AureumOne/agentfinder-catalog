@@ -4,7 +4,7 @@ import argparse
 import json
 from pathlib import Path
 from urllib.error import URLError
-from urllib.parse import urlparse
+from urllib.parse import unquote, urlencode, urlparse
 from urllib.request import Request, urlopen
 
 SCRIPT = Path(__file__).resolve()
@@ -14,6 +14,8 @@ OUTPUT = ROOT / "ai-catalog.json"
 MAX_ENTRIES = 10_000
 MAX_BYTES = 10 * 1024 * 1024
 MCP_CATALOG = "https://api.mcp.github.com/.well-known/ai-catalog.json"
+MCP_REGISTRY = "https://api.mcp.github.com/v0.1/servers"
+MCP_REGISTRY_PAGE_SIZE = 100
 
 
 def fail(message):
@@ -65,6 +67,62 @@ def load_mcp_entries():
     return document["entries"]
 
 
+def load_mcp_registry_records():
+    records = []
+    cursor = None
+    while True:
+        query = {"limit": MCP_REGISTRY_PAGE_SIZE}
+        if cursor:
+            query["cursor"] = cursor
+        url = f"{MCP_REGISTRY}?{urlencode(query)}"
+        try:
+            request = Request(url, headers={"User-Agent": "agentfinder-catalog-generator"})
+            with urlopen(request, timeout=30) as response:
+                document = json.load(response)
+        except (OSError, URLError, json.JSONDecodeError) as error:
+            fail(f"{MCP_REGISTRY}: {error}")
+        if not isinstance(document, dict) or not isinstance(document.get("servers"), list):
+            fail(f"{url}: expected a registry document with a servers array")
+        records.extend(document["servers"])
+        metadata = document.get("metadata")
+        cursor = metadata.get("nextCursor") if isinstance(metadata, dict) else None
+        if not cursor:
+            return records
+
+
+def registry_record_key(entry):
+    url = entry.get("url")
+    if not isinstance(url, str):
+        return None
+    path = [unquote(part) for part in urlparse(url).path.split("/") if part]
+    try:
+        servers_index = path.index("servers")
+        return path[servers_index + 1], path[servers_index + 3]
+    except (ValueError, IndexError):
+        return None
+
+
+def display_name(entry, registry_record=None):
+    server = registry_record.get("server", {}) if isinstance(registry_record, dict) else {}
+    if not isinstance(server, dict):
+        server = {}
+    metadata = server.get("_meta", {})
+    publisher = (
+        metadata.get("io.modelcontextprotocol.registry/publisher-provided", {})
+        if isinstance(metadata, dict)
+        else {}
+    )
+    github = publisher.get("github", {}) if isinstance(publisher, dict) else {}
+    candidates = (
+        github.get("displayName"),
+        server.get("title"),
+        entry.get("title"),
+        entry.get("displayName"),
+        entry.get("name"),
+    )
+    return next((value for value in candidates if isinstance(value, str) and value.strip()), None)
+
+
 def generate():
     entries = []
     identities = set()
@@ -98,11 +156,24 @@ def generate():
         load_mcp_entries(),
         key=lambda entry: (str(entry.get("identifier")), str(entry.get("version"))),
     )
+    registry_records = {
+        (record["server"].get("name"), record["server"].get("version")): record
+        for record in load_mcp_registry_records()
+        if isinstance(record, dict)
+        and isinstance(record.get("server"), dict)
+        and isinstance(record["server"].get("name"), str)
+        and isinstance(record["server"].get("version"), str)
+    } if remote_entries else {}
     for index, entry in enumerate(remote_entries):
         source = f"{MCP_CATALOG} entry {index}"
         validate(entry, source)
         if entry["identifier"] not in local_identifiers:
-            add(entry, source)
+            generated = dict(entry)
+            record = registry_records.get(registry_record_key(entry))
+            name = display_name(entry, record)
+            if name:
+                generated["displayName"] = name
+            add(generated, source)
 
     if len(entries) > MAX_ENTRIES:
         fail(f"catalog has {len(entries)} entries; limit is {MAX_ENTRIES}")
