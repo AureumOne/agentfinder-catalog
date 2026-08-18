@@ -113,6 +113,8 @@ def display_name(entry, registry_record=None):
         else {}
     )
     github = publisher.get("github", {}) if isinstance(publisher, dict) else {}
+    if not isinstance(github, dict):
+        github = {}
     candidates = (
         github.get("displayName"),
         server.get("title"),

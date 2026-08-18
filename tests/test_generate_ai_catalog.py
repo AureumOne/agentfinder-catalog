@@ -30,6 +30,22 @@ class ValidateEntryTest(unittest.TestCase):
             "Registry title",
         )
         self.assertEqual(
+            generate_ai_catalog.display_name(
+                entry,
+                {
+                    "server": {
+                        "title": "Registry title",
+                        "_meta": {
+                            "io.modelcontextprotocol.registry/publisher-provided": {
+                                "github": None,
+                            }
+                        },
+                    }
+                },
+            ),
+            "Registry title",
+        )
+        self.assertEqual(
             generate_ai_catalog.display_name(entry, {}),
             "Catalog title",
         )
