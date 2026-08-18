@@ -2,6 +2,7 @@ import json
 import tempfile
 import unittest
 from pathlib import Path
+from urllib.parse import parse_qs, urlparse
 from unittest.mock import patch
 
 from scripts import generate_ai_catalog
@@ -143,6 +144,49 @@ class ValidateEntryTest(unittest.TestCase):
 
         entries = json.loads(rendered)["entries"]
         self.assertEqual(entries[1]["displayName"], "Publisher display name")
+
+    def test_load_mcp_registry_records_paginates_with_next_cursor(self):
+        class FakeResponse:
+            def __init__(self, payload):
+                self.payload = json.dumps(payload).encode("utf-8")
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, exc_type, exc, tb):
+                return False
+
+            def read(self):
+                return self.payload
+
+        first_page = {
+            "servers": [{"server": {"name": "alpha", "version": "1.0.0"}}],
+            "metadata": {"nextCursor": "page-two"},
+        }
+        second_page = {
+            "servers": [{"server": {"name": "beta", "version": "2.0.0"}}],
+            "metadata": {},
+        }
+        with patch.object(
+            generate_ai_catalog,
+            "urlopen",
+            side_effect=[FakeResponse(first_page), FakeResponse(second_page)],
+        ) as mocked_urlopen:
+            records = generate_ai_catalog.load_mcp_registry_records()
+
+        self.assertEqual(
+            records,
+            [
+                {"server": {"name": "alpha", "version": "1.0.0"}},
+                {"server": {"name": "beta", "version": "2.0.0"}},
+            ],
+        )
+        self.assertEqual(mocked_urlopen.call_count, 2)
+
+        first_url = mocked_urlopen.call_args_list[0].args[0].full_url
+        second_url = mocked_urlopen.call_args_list[1].args[0].full_url
+        self.assertEqual(parse_qs(urlparse(first_url).query), {"limit": ["100"]})
+        self.assertEqual(parse_qs(urlparse(second_url).query), {"limit": ["100"], "cursor": ["page-two"]})
 
 
 if __name__ == "__main__":
