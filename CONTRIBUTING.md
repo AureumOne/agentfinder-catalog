@@ -40,6 +40,9 @@ Create a file at `catalog/<your-publisher>/<augment-name>.json` with the followi
   "mediaType": "application/ai-skill",
   "url": "https://github.com/<publisher>/<repo>/blob/main/path/to/SKILL.md",
   "description": "A short description of what this augment does.",
+  "tags": [
+    "optional-tag"
+  ],
   "metadata": {
     "sourceSet": "<repo>",
     "repoPath": "path/to/SKILL.md"
@@ -56,8 +59,26 @@ Create a file at `catalog/<your-publisher>/<augment-name>.json` with the followi
 | `mediaType` | ✅ | The type of augment (e.g., `application/ai-skill`) |
 | `url` | ✅ | URL to the augment's definition file (e.g., SKILL.md) |
 | `description` | ✅ | A brief description of the augment's purpose |
+| `tags` | ❌ | Tags used to categorize and filter the augment |
 | `metadata.sourceSet` | ✅ | The source repository name |
 | `metadata.repoPath` | ✅ | Path to the definition file within the repository |
+
+#### Canvas-only plugins
+
+Catalog entries for plugins whose functionality consists entirely of a GitHub Copilot
+canvas keep the `application/vnd.github.copilot-plugin` media type and must include all
+of these tags:
+
+```json
+"tags": [
+  "canvas",
+  "canvas-only",
+  "github-copilot"
+]
+```
+
+Do not use `canvas-only` for a plugin that still provides useful agents, skills, hooks,
+or MCP servers when its canvas is unavailable.
 
 ### 4. Validate your JSON
 

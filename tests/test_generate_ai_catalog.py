@@ -86,6 +86,25 @@ class ValidateEntryTest(unittest.TestCase):
         generate_ai_catalog.validate(entry | {"url": "https://example.com"}, "test")
         generate_ai_catalog.validate(entry | {"data": {}}, "test")
 
+    def test_canvas_only_tag_contract(self):
+        entry = {
+            "identifier": "urn:ai:example.com:test:canvas",
+            "displayName": "Test Canvas",
+            "mediaType": "application/vnd.github.copilot-plugin",
+            "url": "https://example.com/plugin",
+            "tags": ["canvas", "canvas-only", "github-copilot"],
+        }
+        generate_ai_catalog.validate(entry, "test")
+
+        for invalid in (
+            entry | {"tags": "canvas"},
+            entry | {"tags": ["canvas", ""]},
+            entry | {"tags": ["canvas-only", "github-copilot"]},
+            entry | {"mediaType": "application/ai-skill"},
+        ):
+            with self.subTest(entry=invalid), self.assertRaises(SystemExit):
+                generate_ai_catalog.validate(invalid, "test")
+
     def test_generated_type_falls_back_to_media_type(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)

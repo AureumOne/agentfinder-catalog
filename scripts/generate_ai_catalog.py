@@ -54,6 +54,27 @@ def validate(entry, source):
     if version is not None and not isinstance(version, str):
         fail(f"{source}: version must be a string")
 
+    tags = entry.get("tags")
+    if tags is not None and (
+        not isinstance(tags, list)
+        or not all(isinstance(tag, str) and tag.strip() for tag in tags)
+    ):
+        fail(f"{source}: tags must be an array of non-empty strings")
+    if isinstance(tags, list) and "canvas-only" in tags:
+        required_tags = {"canvas", "canvas-only", "github-copilot"}
+        missing_tags = required_tags.difference(tags)
+        if missing_tags:
+            fail(
+                f"{source}: canvas-only entries must include tags "
+                f"{', '.join(sorted(required_tags))}"
+            )
+        media_type = entry.get("type") or entry.get("mediaType")
+        if media_type != "application/vnd.github.copilot-plugin":
+            fail(
+                f"{source}: canvas-only entries must use "
+                "application/vnd.github.copilot-plugin"
+            )
+
 
 def load_mcp_entries():
     try:
