@@ -2,7 +2,8 @@
 
 import argparse
 import json
-from pathlib import Path
+import re
+from pathlib import Path, PurePosixPath
 from urllib.error import URLError
 from urllib.parse import unquote, urlencode, urlparse
 from urllib.request import Request, urlopen
@@ -16,10 +17,90 @@ MAX_BYTES = 10 * 1024 * 1024
 MCP_CATALOG = "https://api.mcp.github.com/.well-known/ai-catalog.json"
 MCP_REGISTRY = "https://api.mcp.github.com/v0.1/servers"
 MCP_REGISTRY_PAGE_SIZE = 100
+CANVAS_PLUGIN_MEDIA_TYPE = "application/vnd.github.copilot-plugin"
+CANVAS_ONLY_REQUIRED_TAGS = frozenset(("canvas", "canvas-only", "github-copilot"))
+NON_CANVAS_PLUGIN_TAGS = frozenset(("agent", "hook", "mcp-server", "skill"))
+SOURCE_SET_PATTERN = re.compile(r"^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$")
 
 
 def fail(message):
     raise SystemExit(message)
+
+
+def validate_canvas_only_tags(tags, source):
+    missing_tags = CANVAS_ONLY_REQUIRED_TAGS.difference(tags)
+    if missing_tags:
+        fail(
+            f"{source}: canvas-only entry is missing required tags "
+            f"{', '.join(sorted(missing_tags))}"
+        )
+    conflicting_tags = NON_CANVAS_PLUGIN_TAGS.intersection(tags)
+    if conflicting_tags:
+        fail(
+            f"{source}: canvas-only entry cannot include non-Canvas capability tags "
+            f"{', '.join(sorted(conflicting_tags))}"
+        )
+
+
+def validate_repository_metadata(metadata, source):
+    if metadata is None:
+        return
+    if not isinstance(metadata, dict):
+        fail(f"{source}: metadata must be an object")
+
+    source_set = metadata.get("sourceSet")
+    repo_path = metadata.get("repoPath")
+    if source_set is None and repo_path is None:
+        return
+    if (
+        not isinstance(source_set, str)
+        or not SOURCE_SET_PATTERN.fullmatch(source_set)
+        or any(part in (".", "..") for part in source_set.split("/"))
+    ):
+        fail(f"{source}: metadata.sourceSet must be an owner/repository name")
+    if not isinstance(repo_path, str) or not repo_path.strip():
+        fail(f"{source}: metadata.repoPath must be a non-empty relative path")
+    if (
+        "\\" in repo_path
+        or unquote(repo_path) != repo_path
+        or PurePosixPath(repo_path).is_absolute()
+        or any(part in ("", ".", "..") for part in repo_path.split("/"))
+    ):
+        fail(f"{source}: metadata.repoPath must be a safe relative POSIX path")
+
+
+def validate_canvas_only_source(entry, url, source):
+    metadata = entry.get("metadata")
+    if not isinstance(metadata, dict):
+        fail(f"{source}: canvas-only entry metadata must be an object")
+    source_set = metadata.get("sourceSet")
+    repo_path = metadata.get("repoPath")
+    if not isinstance(source_set, str) or not isinstance(repo_path, str):
+        fail(
+            f"{source}: canvas-only entry metadata must include sourceSet and repoPath"
+        )
+
+    decoded_path = unquote(url.path)
+    prefix = f"/{source_set}/blob/"
+    suffix = f"/{repo_path}"
+    ref_and_path = (
+        decoded_path[len(prefix) :] if decoded_path.startswith(prefix) else ""
+    )
+    if (
+        url.netloc.lower() != "github.com"
+        or unquote(decoded_path) != decoded_path
+        or "\\" in decoded_path
+        or any(part in (".", "..") for part in decoded_path.split("/"))
+        or url.query
+        or url.fragment
+        or not ref_and_path
+        or not decoded_path.endswith(suffix)
+        or len(ref_and_path) <= len(suffix)
+    ):
+        fail(
+            f"{source}: canvas-only entry url must point to metadata.repoPath "
+            f"in the metadata.sourceSet GitHub repository"
+        )
 
 
 def validate(entry, source):
@@ -42,17 +123,59 @@ def validate(entry, source):
     if has_url and (not isinstance(entry["url"], str) or not entry["url"].strip()):
         fail(f"{source}: url must be a non-empty string")
     if has_url:
-        url = urlparse(entry["url"])
-        if url.scheme not in ("http", "https") or not url.netloc:
+        try:
+            url = urlparse(entry["url"])
+            hostname = url.hostname
+            url.port
+        except ValueError:
+            fail(f"{source}: url must be a valid absolute HTTP(S) URL")
+        if (
+            url.scheme not in ("http", "https")
+            or not url.netloc
+            or not hostname
+            or "\\" in url.netloc
+        ):
             fail(f"{source}: url must be an absolute HTTP(S) URL")
+        if url.username is not None or url.password is not None:
+            fail(f"{source}: url must not contain credentials")
     if has_data and not isinstance(entry["data"], dict):
         fail(f"{source}: data must be an object")
     if not entry["identifier"].startswith("urn:ai:"):
         fail(f"{source}: identifier must start with urn:ai:")
 
     version = entry.get("version")
-    if version is not None and not isinstance(version, str):
-        fail(f"{source}: version must be a string")
+    if version is not None and (
+        not isinstance(version, str) or not version.strip()
+    ):
+        fail(f"{source}: version must be a non-empty string")
+
+    tags = entry.get("tags")
+    if tags is not None and (
+        not isinstance(tags, list)
+        or not all(isinstance(tag, str) and tag.strip() for tag in tags)
+    ):
+        fail(f"{source}: tags must be an array of non-empty strings")
+    if isinstance(tags, list) and len(tags) != len(set(tags)):
+        fail(f"{source}: tags must not contain duplicates")
+    if isinstance(tags, list) and "canvas-only" in tags:
+        validate_canvas_only_tags(tags, source)
+        if not has_url:
+            fail(f"{source}: canvas-only entries must use a GitHub descriptor url")
+        if entry.get("mediaType") != CANVAS_PLUGIN_MEDIA_TYPE:
+            fail(
+                f"{source}: canvas-only entries must use mediaType "
+                f"{CANVAS_PLUGIN_MEDIA_TYPE}"
+            )
+        entry_type = entry.get("type")
+        if entry_type is not None and entry_type != CANVAS_PLUGIN_MEDIA_TYPE:
+            fail(
+                f"{source}: canvas-only entry type must match mediaType "
+                f"{CANVAS_PLUGIN_MEDIA_TYPE}"
+            )
+
+    validate_repository_metadata(entry.get("metadata"), source)
+    if isinstance(tags, list) and "canvas-only" in tags:
+        validate_canvas_only_source(entry, url, source)
 
 
 def load_mcp_entries():
